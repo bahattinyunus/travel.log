@@ -1,0 +1,13 @@
+# General
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+*.swp
