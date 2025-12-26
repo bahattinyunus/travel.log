@@ -93,6 +93,8 @@ class TravelLogAnalytics:
         print(f"{Colors.BOLD}{'BÖLGE (REGION)':<25} | {'ŞEHİR (CITY)':<15} | {'LOKASYON (LOC)':<15}{Colors.ENDC}")
         print(Colors.CYAN + "-" * 60 + Colors.ENDC)
 
+        region_data = []
+
         for region in self.REGIONS:
             result = self.scan_region(region)
             
@@ -106,11 +108,25 @@ class TravelLogAnalytics:
                 self.stats["total_cities"] += region_cities
                 self.stats["total_locations"] += region_locations
 
+            region_data.append((region, region_locations))
+
             if not mock_delay: time.sleep(0.2)
             # Clear line if needed or just print
             print(f"{Colors.WARNING}{region:<25}{Colors.ENDC} | {Colors.BLUE}{region_cities:<15}{Colors.ENDC} | {Colors.HEADER}{region_locations:<15}{Colors.ENDC}")
 
         print(Colors.CYAN + "-" * 60 + Colors.ENDC)
+        
+        # Graph Section
+        print(f"\n{Colors.BOLD}>>> BÖLGESEL YOĞUNLUK GRAFİĞİ <<<{Colors.ENDC}")
+        if region_data:
+            max_loc = max([x[1] for x in region_data])
+            max_loc = max_loc if max_loc > 0 else 1
+            for region, count in region_data:
+                bar_len = int((count / max_loc) * 20)
+                bar = "█" * bar_len
+                print(f"{region:<20} : {Colors.GREEN}{bar:<20}{Colors.ENDC} ({count})")
+            print(Colors.CYAN + "-" * 60 + Colors.ENDC)
+
         self.print_summary()
 
     def print_summary(self):
