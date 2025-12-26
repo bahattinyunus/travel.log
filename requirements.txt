@@ -1,0 +1,5 @@
+# Runtime dependencies
+colorama>=0.4.6
+
+# Development dependencies
+pytest>=7.3.1
