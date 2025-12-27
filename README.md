@@ -5,21 +5,37 @@
     <img src="https://img.shields.io/badge/Durum-Aktif%20Arşiv-blue?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Lisans-MIT-orange?style=for-the-badge" alt="License">
     <br>
-    <a href="MANIFESTO.md"><strong>📜 DİJİTAL EVLİYA ÇELEBİ MANİFESTOSU'NU OKU</strong></a>
+    <br>
+    <strong>🦅 "Seyahat ya Resulallah" diyerek yola çıkanların izinde...</strong>
 </p>
 
 # 🇹🇷 TRAVEL LOG: ANADOLU SEYAHATNAMESİ
 
 > *"Çok yaşayan çok görür, çok gezen daha çok görür."* - Türk Atasözü
 
-## 🎯 Proje Amacı (Purpose)
-Bu repo, sadece bir seyahat günlüğü değil; **Anadolu'nun dijital hafızasıdır.**
-Her commit bir adım, her push bir keşiftir. "Dijital Evliya Çelebi" vizyonuyla, 2071'e ve ötesine veri mirası bırakıyoruz.
+## 📜 Dijital Evliya Çelebi Manifestosu
 
-Amacımız:
-1.  **Belgelemek (Document):** Gezilen her taşı, her hikayeyi kodlamak.
-2.  **Korumak (Preserve):** Dijital erozyona karşı veriyi saklamak.
-3.  **İlham Vermek (Inspire):** Geleceğin gezginlerine açık kaynak bir rehber sunmak.
+> *"Seyahat ya Resulallah" diyerek yola çıkanların izinde, verinin gücüyle geleceğe yürüyenlere...*
+
+### 1. Amaç: Dijital Ölümsüzlük
+Bizler, Anadolu'nun kadim taşlarına dokunan rüzgarın sadece tenimizde değil, dijital hafızada da esmesini istiyoruz. Gördüğümüz her antik kent, yediğimiz her yemek, duyduğumuz her efsane; silikon çiplerin ve manyetik disklerin üzerinde sonsuzluğa kavuşmalıdır. Bu repo, **unutuşa karşı açılmış bir savaştır.**
+
+### 2. Derin Belgeleme (Deep Documentation)
+Süzegeçe yapılan "check-in"ler değil, derinlemesine analizler bizim işimiz.
+*   **Sığ Gezgin**: "Buradaydım." der.
+*   **Dijital Evliya**: "Burası tarihte neydi, bugün ne, ve ben burada ne hissettim?" diye sorar.
+Veri, sadece bilgi değil; bağlamdır, histir, koddur.
+
+### 3. Açık Kaynak Miras
+Bilgi paylaştıkça çoğalır, kod paylaştıkça güçlenir. Gezi notlarımız, rotalarımız ve keşiflerimiz; mülkiyetin değil, insanlığın ortak malıdır. Bu repo, gelecek nesil gezginlere, tarihçilere ve veri madencilerine bırakılmış **açık bir mektuptur.**
+
+### 4. Yavaş Seyahat, Hızlı Teknoloji
+Ayaklarımız toprağa basarken yavaşlamayı, teknolojiyi kullanırken hızlanmayı seçiyoruz.
+*   Doğayı izlerken analog,
+*   Onu kaydederken dijitaliz.
+
+### 5. Vizyon 2071
+Hedefimiz sadece bugünü değil, yarım asır sonrasını planlamak. Bu repo, 2071 yılında bir arkeolog veya bir yapay zeka tarafından okunduğunda, 2020'lerin Anadolusu'na dair **en net, en saf ve en insani veriyi** sunmalıdır.
 
 ## 🧱 Yapı (Structure)
 Repo, Türkiye'nin 7 coğrafi bölgesine göre ayrılmıştır. Her bölge klasörü, o coğrafyanın ruhunu taşıyan şehirleri ve mekanları barındırır.

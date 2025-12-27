@@ -72,26 +72,50 @@ class TravelLogAnalytics:
                 data["locations"] += location_count
         return data
 
+    def print_dashboard(self, region_data):
+        """Prints a high-tech dashboard summary."""
+        print(f"\n{Colors.MAGENTA}╔══════════════════════════════════════════════════════════════╗{Colors.ENDC}")
+        print(f"{Colors.MAGENTA}║                  MISSION STATUS REPORT                       ║{Colors.ENDC}")
+        print(f"{Colors.MAGENTA}╠════════════════════════════════╦═════════════════════════════╣{Colors.ENDC}")
+        
+        # Stats Row 1
+        r_count = str(self.stats['total_regions']).center(5)
+        c_count = str(self.stats['total_cities']).center(5)
+        l_count = str(self.stats['total_locations']).center(5)
+        
+        print(f"{Colors.MAGENTA}║{Colors.ENDC} REGIONS: {Colors.CYAN}{r_count}{Colors.ENDC} {Colors.MAGENTA}│{Colors.ENDC} CITIES: {Colors.CYAN}{c_count}{Colors.ENDC} {Colors.MAGENTA}│{Colors.ENDC} LOCATIONS: {Colors.GREEN}{l_count}{Colors.ENDC} {Colors.MAGENTA}║{Colors.ENDC}")
+        print(f"{Colors.MAGENTA}╠════════════════════════════════╩═════════════════════════════╣{Colors.ENDC}")
+        
+        # Most Active Region
+        if region_data:
+            best_region = max(region_data, key=lambda x: x[1])
+            print(f"{Colors.MAGENTA}║{Colors.ENDC} HOTSPOT: {Colors.WARNING}{best_region[0]:<20}{Colors.ENDC} ({best_region[1]} Locs)       {Colors.MAGENTA}║{Colors.ENDC}")
+        
+        print(f"{Colors.MAGENTA}╚══════════════════════════════════════════════════════════════╝{Colors.ENDC}")
+
     def run_analysis(self, mock_delay=False):
         """Main analysis loop."""
         
-        # Clear screen
-        os.system('cls' if os.name == 'nt' else 'clear')
+        # Clear screen if not fast mode, to keep the immersive feel
+        if not mock_delay:
+            os.system('cls' if os.name == 'nt' else 'clear')
         
         print(Colors.CYAN + """
     ╔══════════════════════════════════════════════════════════════╗
-    ║   TRAVEL LOG ACCESS TERMINAL v2.1 (SECURE)                   ║
+    ║   TRAVEL LOG ANALYTICS CORE v4.0 (QUANTUM)                   ║
     ║   CONNECTED TO: ANADOLU_DATABASE                             ║
     ╚══════════════════════════════════════════════════════════════╝
         """ + Colors.ENDC)
         
-        self.type_effect(Colors.GREEN + "> Yükleniyor... Core Modules" + Colors.ENDC, 0.05 if not mock_delay else 0)
-        if not mock_delay: time.sleep(0.5)
-        self.type_effect(Colors.GREEN + "> Sistem: Online" + Colors.ENDC, 0.05 if not mock_delay else 0)
+        if not mock_delay:
+            self.type_effect(Colors.GREEN + "> Uplinking to Satellite Network..." + Colors.ENDC, 0.02)
+            time.sleep(0.3)
+            self.type_effect(Colors.GREEN + "> Downloading Manifest..." + Colors.ENDC, 0.02)
+            time.sleep(0.3)
+        
         print("\n")
-
-        print(f"{Colors.BOLD}{'BÖLGE (REGION)':<25} | {'ŞEHİR (CITY)':<15} | {'LOKASYON (LOC)':<15}{Colors.ENDC}")
-        print(Colors.CYAN + "-" * 60 + Colors.ENDC)
+        print(f"{Colors.BOLD}{'REGION ID':<25} | {'CITIES':<10} | {'LOCATIONS':<10}{Colors.ENDC}")
+        print(Colors.CYAN + "=" * 60 + Colors.ENDC)
 
         region_data = []
 
@@ -107,34 +131,38 @@ class TravelLogAnalytics:
                 region_locations = result["locations"]
                 self.stats["total_cities"] += region_cities
                 self.stats["total_locations"] += region_locations
-
+            
             region_data.append((region, region_locations))
 
-            if not mock_delay: time.sleep(0.2)
-            # Clear line if needed or just print
-            print(f"{Colors.WARNING}{region:<25}{Colors.ENDC} | {Colors.BLUE}{region_cities:<15}{Colors.ENDC} | {Colors.HEADER}{region_locations:<15}{Colors.ENDC}")
+            if not mock_delay: time.sleep(0.1)
+            
+            # Highlight Amasya specially
+            color = Colors.WARNING if "Amasya" in region else Colors.BLUE
+            if "Karadeniz" in region: # Amasya is inside Karadeniz
+                 pass 
 
-        print(Colors.CYAN + "-" * 60 + Colors.ENDC)
+            print(f"{Colors.WARNING}{region:<25}{Colors.ENDC} | {Colors.BLUE}{region_cities:<10}{Colors.ENDC} | {Colors.HEADER}{region_locations:<10}{Colors.ENDC}")
+
+        print(Colors.CYAN + "=" * 60 + Colors.ENDC)
         
-        # Graph Section
-        print(f"\n{Colors.BOLD}>>> BÖLGESEL YOĞUNLUK GRAFİĞİ <<<{Colors.ENDC}")
+        # Graph Section with Block Characters
+        print(f"\n{Colors.BOLD}>>> DENSITY VISUALIZATION <<<{Colors.ENDC}")
         if region_data:
             max_loc = max([x[1] for x in region_data])
             max_loc = max_loc if max_loc > 0 else 1
             for region, count in region_data:
-                bar_len = int((count / max_loc) * 20)
-                bar = "█" * bar_len
-                print(f"{region:<20} : {Colors.GREEN}{bar:<20}{Colors.ENDC} ({count})")
+                # Calculate bar length
+                bar_len = int((count / max_loc) * 30)
+                # Create a gradient bar if possible, or just solid
+                bar = "▓" * bar_len + "░" * (30 - bar_len)
+                print(f"{region:<20} : {Colors.GREEN}{bar}{Colors.ENDC} {count}")
             print(Colors.CYAN + "-" * 60 + Colors.ENDC)
 
-        self.print_summary()
+        self.print_dashboard(region_data)
 
-    def print_summary(self):
-        print(f"\n{Colors.BOLD}>>> SİSTEM ÖZETİ <<<{Colors.ENDC}")
-        print(f"[{Colors.GREEN}✔{Colors.ENDC}] Kapsanan Bölgeler : {self.stats['total_regions']}/7")
-        print(f"[{Colors.GREEN}✔{Colors.ENDC}] Toplam Şehir      : {self.stats['total_cities']}")
-        print(f"[{Colors.GREEN}✔{Colors.ENDC}] Arşivlenen Nokta  : {self.stats['total_locations']}")
-        print(f"\n{Colors.CYAN}> Veri analizi tamamlandı. Oturum kapatılıyor...{Colors.ENDC}")
+        if not mock_delay:
+            print(f"\n{Colors.CYAN}> SESSION TERMINATED.{Colors.ENDC}")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Travel Log Analytics Tool")
@@ -145,4 +173,4 @@ if __name__ == "__main__":
     try:
         analytics.run_analysis(mock_delay=args.fast)
     except KeyboardInterrupt:
-        print("\n> İşlem iptal edildi.")
+        print("\n> ABORTED.")

@@ -1,0 +1,233 @@
+[
+    {
+        "region": "Canakkale",
+        "city": "Truva",
+        "location": "Unknown",
+        "path": "01_Marmara\\Canakkale\\Truva\\README.md",
+        "size_bytes": 1106
+    },
+    {
+        "region": "Istanbul",
+        "city": "Ayasofya",
+        "location": "Unknown",
+        "path": "01_Marmara\\Istanbul\\Ayasofya\\README.md",
+        "size_bytes": 1092
+    },
+    {
+        "region": "Istanbul",
+        "city": "Galata_Kulesi",
+        "location": "Unknown",
+        "path": "01_Marmara\\Istanbul\\Galata_Kulesi\\README.md",
+        "size_bytes": 1100
+    },
+    {
+        "region": "Istanbul",
+        "city": "Topkapi_Sarayi",
+        "location": "Unknown",
+        "path": "01_Marmara\\Istanbul\\Topkapi_Sarayi\\README.md",
+        "size_bytes": 1034
+    },
+    {
+        "region": "Kocaeli",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "01_Marmara\\Kocaeli\\README.md",
+        "size_bytes": 461
+    },
+    {
+        "region": "İstanbul",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "01_Marmara\\İstanbul\\README.md",
+        "size_bytes": 465
+    },
+    {
+        "region": "Izmir",
+        "city": "Efes",
+        "location": "Unknown",
+        "path": "02_Ege\\Izmir\\Efes\\README.md",
+        "size_bytes": 1124
+    },
+    {
+        "region": "Izmir",
+        "city": "Saat_Kulesi",
+        "location": "Unknown",
+        "path": "02_Ege\\Izmir\\Saat_Kulesi\\README.md",
+        "size_bytes": 1030
+    },
+    {
+        "region": "Izmir",
+        "city": "Sirince",
+        "location": "Unknown",
+        "path": "02_Ege\\Izmir\\Sirince\\README.md",
+        "size_bytes": 1027
+    },
+    {
+        "region": "Antalya",
+        "city": "Kaleici",
+        "location": "Unknown",
+        "path": "03_Akdeniz\\Antalya\\Kaleici\\README.md",
+        "size_bytes": 1036
+    },
+    {
+        "region": "Antalya",
+        "city": "Kaputas",
+        "location": "Unknown",
+        "path": "03_Akdeniz\\Antalya\\Kaputas\\README.md",
+        "size_bytes": 1020
+    },
+    {
+        "region": "Antalya",
+        "city": "Olympos",
+        "location": "Unknown",
+        "path": "03_Akdeniz\\Antalya\\Olympos\\README.md",
+        "size_bytes": 1075
+    },
+    {
+        "region": "Mersin",
+        "city": "Kizkalesi",
+        "location": "Unknown",
+        "path": "03_Akdeniz\\Mersin\\Kizkalesi\\README.md",
+        "size_bytes": 1031
+    },
+    {
+        "region": "Ankara",
+        "city": "Anitkabir",
+        "location": "Unknown",
+        "path": "04_IcAnadolu\\Ankara\\Anitkabir\\README.md",
+        "size_bytes": 1072
+    },
+    {
+        "region": "Konya",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "04_IcAnadolu\\Konya\\README.md",
+        "size_bytes": 456
+    },
+    {
+        "region": "Konya",
+        "city": "Tuz_Golu",
+        "location": "Unknown",
+        "path": "04_IcAnadolu\\Konya\\Tuz_Golu\\README.md",
+        "size_bytes": 1013
+    },
+    {
+        "region": "Nevsehir",
+        "city": "Kapadokya",
+        "location": "Unknown",
+        "path": "04_IcAnadolu\\Nevsehir\\Kapadokya\\README.md",
+        "size_bytes": 1197
+    },
+    {
+        "region": "Amasya",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Amasya\\README.md",
+        "size_bytes": 4365
+    },
+    {
+        "region": "Amasya",
+        "city": "Ferhat_ile_Sirin",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Amasya\\Ferhat_ile_Sirin\\README.md",
+        "size_bytes": 1088
+    },
+    {
+        "region": "Amasya",
+        "city": "Kral_Kaya_Mezarlari",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Amasya\\Kral_Kaya_Mezarlari\\README.md",
+        "size_bytes": 1177
+    },
+    {
+        "region": "Amasya",
+        "city": "Yaliboyu_Evleri",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Amasya\\Yaliboyu_Evleri\\README.md",
+        "size_bytes": 1027
+    },
+    {
+        "region": "Giresun",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Giresun\\README.md",
+        "size_bytes": 463
+    },
+    {
+        "region": "Ordu",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Ordu\\README.md",
+        "size_bytes": 451
+    },
+    {
+        "region": "Rize",
+        "city": "Ayder",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Rize\\Ayder\\README.md",
+        "size_bytes": 1036
+    },
+    {
+        "region": "Samsun",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Samsun\\README.md",
+        "size_bytes": 459
+    },
+    {
+        "region": "Sinop",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Sinop\\README.md",
+        "size_bytes": 455
+    },
+    {
+        "region": "Trabzon",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Trabzon\\README.md",
+        "size_bytes": 1092
+    },
+    {
+        "region": "Trabzon",
+        "city": "Sumela_Manastiri",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Trabzon\\Sumela_Manastiri\\README.md",
+        "size_bytes": 1070
+    },
+    {
+        "region": "Çorum",
+        "city": "Unknown",
+        "location": "Unknown",
+        "path": "05_Karadeniz\\Çorum\\README.md",
+        "size_bytes": 455
+    },
+    {
+        "region": "Agri",
+        "city": "Ishak_Pasa",
+        "location": "Unknown",
+        "path": "06_DoguAnadolu\\Agri\\Ishak_Pasa\\README.md",
+        "size_bytes": 965
+    },
+    {
+        "region": "Kars",
+        "city": "Ani_Harabeleri",
+        "location": "Unknown",
+        "path": "06_DoguAnadolu\\Kars\\Ani_Harabeleri\\README.md",
+        "size_bytes": 1161
+    },
+    {
+        "region": "Van",
+        "city": "Akdamar_Adasi",
+        "location": "Unknown",
+        "path": "06_DoguAnadolu\\Van\\Akdamar_Adasi\\README.md",
+        "size_bytes": 1030
+    },
+    {
+        "region": "Mardin",
+        "city": "Ulu_Camii",
+        "location": "Unknown",
+        "path": "07_GuneydoguAnadolu\\Mardin\\Ulu_Camii\\README.md",
+        "size_bytes": 1068
+    }
+]

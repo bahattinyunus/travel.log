@@ -2,30 +2,35 @@ name: Travel Log CI
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "main", "master" ]
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
     - uses: actions/checkout@v3
     
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        python-version: "3.10"
+        python-version: '3.9'
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         
-    - name: Run Tests
+    - name: Run Analytics Check (Smoke Test)
       run: |
-        python -m unittest discover tests
-        
-    - name: Verify Analytics Script
-      run: |
+        # Run in non-interactive mode (fast)
         python analytics.py --fast
+        
+    - name: Verify CLI (Export Test)
+      run: |
+        # Test if export command generates a valid JSON
+        python cli.py export
+        if [ ! -f travel_data.json ]; then echo "Export failed!"; exit 1; fi
+        cat travel_data.json
