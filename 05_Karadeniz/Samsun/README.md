@@ -1,21 +1,21 @@
-# 📍 Samsun - Seyahat ve Tefekkür Notları
+# 📍 Samsun - Seyahat ve Keşif Notları
 
 ## 📜 Şehir Manifestosu
-> "Her büyük yürüyüş ilk bir adımla başlar."
+> "Büyük değişimler, cesurca atılan ilk adımla başlar."
 > "Umut, güneşin denizden doğuşuyla bir olup kara bulutları dağıttığı yerdedir."
 
-### 🌍 Şehrin Ruhu ve Hakikati
-Milli Mücadele'nin meşale şehri. Karadeniz'in giriş kapısı. Hırçın dalgaların umuda dönüştüğü, zulme ve karanlığa karşı ilk adımın atıldığı kutlu rıhtım. Samsun, sadece yakın tarihin değil, Amazonların efsanelerinden, ilk çağ yerleşimlerine kadar uzanan bir direniş ve azim diyarıdır. Göğü ve denizi ayıran o derin mavi çizgi, seyyaha sonsuzluğun kapılarını aralar.
+### 🌍 Şehrin Ruhu ve Kültürel Dokusu
+Milli Mücadele'nin meşale şehri. Karadeniz'in giriş kapısı. Hırçın dalgaların umuda dönüştüğü, zulme ve karanlığa karşı ilk adımın atıldığı kutlu rıhtım. Samsun, sadece yakın tarihin değil, Amazonların efsanelerinden, ilk çağ yerleşimlerine kadar uzanan bir direniş ve azim diyarıdır.
 
-### 🕊️ Batıni Tefekkür (Sufi Perspektifi)
-Nasıl ki bağımsızlık için atılan ilk adım bu şehirden başladıysa, insanın nefsine karşı açacağı o büyük cihad (cihad-ı ekber) da niyet denizine atılan ilk adamı gerektirir. Burada denizin dalgası, dervişin kalbindeki coşkunlukla bir atar.
+### 🕊️ Felsefi Notlar (Gezgin Perspektifi)
+Nasıl ki ülkenin uyanışı için atılan ilk adım bu şehirden başladıysa, insanın kendi hayatını değiştirecek kararları alması da böyle kesin bir başlangıç gerektirir. Burada denizin dalgası, gezginin kalbindeki özgürlük hissiyle aynı ritimde atar.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi ve Kültürel Duraklar
+Gezginin adımlaması ve keşfetmesi tavsiye edilen önemli mekanlar:
 - [ ] **Onur Anıtı**
-- [ ] **Bandırma Vapuru**
+- [ ] **Bandırma Vapuru Müzesi**
 - [ ] **Amisos Tepesi**
-- [ ] **Göğceli (Ahşap) Camii**
+- [ ] **Amazon Köyü**
 
 ---
-*Bu il bizzat seyyah tarafından ziyaret edilmiş, idrak edilmiş ve kayıt altına alınmıştır.* ✅
+*Bu il bizzat deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅

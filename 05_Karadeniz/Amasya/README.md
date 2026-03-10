@@ -1,21 +1,21 @@
-# 📍 Amasya - Seyahat ve Tefekkür Notları
+# 📍 Amasya - Seyahat ve Keşif Notları
 
 ## 📜 Şehir Manifestosu
-> "Dağları delmek zordur ama gönülleri delmek (feth etmek) daha zordur."
-> "Şehzadelerin talimgahı, suyun sükutla aktığı, dağların huşu ile durduğu kutlu diyar."
+> "Dağları delmek zordur ama zamanı anlamak daha zordur."
+> "Kayaların nehrin akışını sessizce izlediği, efsanelerin taşa kazındığı vadi."
 
-### 🌍 Şehrin Ruhu ve Hakikati
-Şehzadeler şehri, Ferhat ile Şirin'in diyarı. Yeşilırmak'ın aynasında tarihini izleyen kent. Amasya vadinin içine gizlenmiş, sırlarını sadece ona gönül verenlere açan mütevazı bir şehirdir. Akşamları kayalara oyulmuş mezarlara vuran ışıklarla aydınlanan şehir, faniliğin ve bekanın muazzam bir tezatını sunar. Su dolaplarının yüzyıllardır söylediği ninni, dervişlerin zikrine eşlik eder.
+### 🌍 Şehrin Ruhu ve Kültürel Dokusu
+Şehzadeler şehri, epik hikayelerin diyarı. Yeşilırmak'ın aynasında tarihini izleyen kent. Amasya vadinin içine gizlenmiş, sırlarını sadece ona gönül verenlere açan mütavazı bir şehirdir. Akşamları kayalara oyulmuş mezarlara vuran ışıklarla aydınlanan şehir, insanın doğa karşısındaki çabasının muazzam bir tezatını sunar.
 
-### 🕊️ Batıni Tefekkür (Sufi Perspektifi)
-Amasya'da Ferhat'ın Şirin'e duyduğu mecazi aşkın nasıl ilahi aşka dönüştüğünü tefekkür etmek gerekir. Şeyh Hamdullah'ın yazdığı mushaflardaki her bir harfin zarafeti, Amasya insanının kalbine yansımıştır.
+### 🕊️ Felsefi Notlar (Gezgin Perspektifi)
+Amasya'da Ferhat'ın Şirin'e duyduğu aşkın aslında insanın bir gaye uğruna neleri feda edebileceğinin öyküsü olduğunu tefekkür etmek gerekir. Yalıboyu evlerindeki ahşap işçiliği, Amasya insanının sanata olan tutkusunu yansıtır.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi ve Kültürel Duraklar
+Gezginin adımlaması ve keşfetmesi tavsiye edilen önemli mekanlar:
 - [ ] **Kral Kaya Mezarları**
-- [ ] **Şeyh Hamdullah Türbesi**
+- [ ] **Amasya Kalesi**
 - [ ] **II. Bayezid Külliyesi**
 - [ ] **Yalıboyu Evleri**
 
 ---
-*Bu il bizzat seyyah tarafından ziyaret edilmiş, idrak edilmiş ve kayıt altına alınmıştır.* ✅
+*Bu il bizzat deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅

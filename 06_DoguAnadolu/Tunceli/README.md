@@ -1,13 +1,13 @@
-# 📍 Tunceli - Seyahat ve Tefekkür Notları
+# 📍 Tunceli - Keşif Notları
 
-## 📜 Şehir Hikmeti
-> "Her yer O'nun tecellisidir, her yol O'na çıkar."
+## 📜 Şehir Felsefesi
+> "Dünyanın her köşesi, yeni bir hikayenin başlangıcıdır."
 
 ### 🌍 Tunceli Hakkında
-Anadolu'nun kadim topraklarında henüz keşfedilmeyi ve tefekkür edilmeyi bekleyen bir menzil.
+Anadolu'nun zengin kültüründe henüz keşfedilmeyi ve deneyimlenmeyi bekleyen bir durak.
 
-### 🕊️ Beklenen Keşif
-Bu il henüz seyahatnameye derinlemesine dahil edilmemiştir. Yolun bir gün buraya düşmesi niyetimizdir.
+### 🕊️ Gelecek Rotalar
+Bu il henüz seyahatnameye detaylı olarak dahil edilmemiştir. Gelecekteki rotalarımızdan biri olması planlanmaktadır.
 
 ## 📂 Alt İçerikler
 Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

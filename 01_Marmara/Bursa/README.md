@@ -1,22 +1,22 @@
-# 📍 Bursa - Seyahat ve Tefekkür Notları
+# 📍 Bursa - Seyahat ve Keşif Notları
 
 ## 📜 Şehir Manifestosu
-> "Bursa'da zaman, bir eski cami avlusunda sükutla geçer."
-> "Burası Osmanlı'nın doğduğu topraktır, her çınarında bir dua, her taşında bir himmet vardır."
+> "Bursa'da zaman, bir eski çınar gölgesinde sükutla geçer."
+> "İmparatorlukların doğuşuna tanıklık etmiş, her taşında emeğin ve tarihin izi olan topraklar."
 
-### 🌍 Şehrin Ruhu ve Hakikati
-Evliyalar şehri, Osmanlı'nın ilk payitahtı. Ulu bir çınar gibi kökleri tarihin derinliklerinde. Uludağ'ın eteklerine bir inci gerdanlık gibi dizilmiş olan bu şehir, yeşilin her tonunu barındırdığı gibi, kalbin de her türlü dinginliğine ev sahipliği yapar. Ulu Cami'nin o haşmetli direkleri arasında hissedilen tevazu, Somuncu Baba'nın fırınından yayılan bereketli kokularla birleşir. Bursa, ruhun dünyevi olan her türlü kirden arınıp, ilahi bir sükunete büründüğü yerdir.
+### 🌍 Şehrin Ruhu ve Kültürel Dokusu
+Yeşilin ve tarihin şehri, Osmanlı'nın ilk asil başkenti. Uludağ'ın eteklerine bir inci gerdanlık gibi dizilmiş olan bu şehir, yeşilin her tonunu barındırdığı gibi, zihnin de her türlü dinginliğine ev sahipliği yapar. Ulu Cami'nin o haşmetli mimarisi, şehrin tarihi çarşılarından yayılan çekiç sesleriyle birleşir. Bursa, metropolün gürültüsünden sıyrılıp doğayla ve tarihle baş başa kalmanın adresidir.
 
-### 🕊️ Batıni Tefekkür (Sufi Perspektifi)
-Emir Sultan'ın huzurunda boyun eğmek, Osman ve Orhan Gazi'nin türbelerinde cihan devleti kuran o ince iradeyi tefekkür etmektir. Su sesleriyle uyanıp, dua sesleriyle uykuya dalar bu şehrin dervişleri.
+### 🕊️ Felsefi Notlar (Gezgin Perspektifi)
+Bursa sokaklarında yürümek, bir cihan sahnnesinin kuruluşunu tefekkür etmektir. Su sesleriyle uyanıp, rüzgarın taşıdığı ipek kokusuyla uykuya dalar bu şehrin konukları.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi ve Kültürel Duraklar
+Gezginin adımlaması ve keşfetmesi tavsiye edilen önemli mekanlar:
 - [ ] **Ulu Cami**
-- [ ] **Emir Sultan Külliyesi**
+- [ ] **Tarihi Çınar**
 - [ ] **Yeşil Türbe**
-- [ ] **Somuncu Baba Fırını**
+- [ ] **Koza Han**
 - [ ] **Muradiye Külliyesi**
 
 ---
-*Bu il bizzat seyyah tarafından ziyaret edilmiş, idrak edilmiş ve kayıt altına alınmıştır.* ✅
+*Bu il bizzat deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅

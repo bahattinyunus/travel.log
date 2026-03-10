@@ -1,21 +1,21 @@
-# 📍 Corum - Seyahat ve Tefekkür Notları
+# 📍 Corum - Seyahat ve Keşif Notları
 
 ## 📜 Şehir Manifestosu
-> "Geçmişin izleri üzerindeki bugünün bereketini gör."
-> "Toprağın bereketlendiği, kadim medeniyetlerin fısıltılarının rüzgara karıştığı il."
+> "Geçmişin yıkıntıları üzerindeki bugünün direncini keşfet."
+> "Toprağın bereketlendiği, kadim krallıkların fısıltılarının rüzgara karıştığı il."
 
-### 🌍 Şehrin Ruhu ve Hakikati
-Hititlerin kadim diyarı, leblebi kokulu Anadolu şehri. Çorum, gösterişten uzak, bağrında binlerce yıllık bir sırrı saklayan mütavazı bir ev sahibidir. Hattuşaş'ın yıkıntıları arasında yürürken insan, bir zamanlar cihanı titreten krallıkların şimdi rüzgarda savrulan topraktan ibaret olduğunu görür ve kibirden arınır. Ulu Cami'deki sükunet, şehrin candan insanlarıyla bütünleşir.
+### 🌍 Şehrin Ruhu ve Kültürel Dokusu
+Hititlerin kadim diyarı, Anadolu'nun sessiz bekçisi. Çorum, gösterişten uzak, bağrında binlerce yıllık bir uygarlığı saklayan mütevazı bir ev sahibidir. Hattuşaş'ın yıkıntıları arasında yürürken insan, bir zamanlar dünyayı yöneten krallıkların şimdi rüzgarda savrulan topraktan ibaret olduğunu görür ve gücün geçiciliğini anlar.
 
-### 🕊️ Batıni Tefekkür (Sufi Perspektifi)
-Bu şehir bize her saltanatın bir gün biteceğini, sadece Allah'ın vekilliğinin ve ilahi muhabbetin baki kalacağını haykırır. Çorum'un bereketli toprakları, kalbine merhamet ekenin merhamet biçeceğinin en büyük delilidir.
+### 🕊️ Felsefi Notlar (Gezgin Perspektifi)
+Bu şehir bize her saltanatın bir gün biteceğini, elde kalan tek şeyin kültür ve insanlık mirası olduğunu hatırlatır. Çorum'un toprakları, tarihin tekerrürden ibaret olduğunun doğal bir müzesidir.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi ve Kültürel Duraklar
+Gezginin adımlaması ve keşfetmesi tavsiye edilen önemli mekanlar:
 - [ ] **Hattuşaş Antik Kenti**
 - [ ] **Alacahöyük**
-- [ ] **Murad-ı Râbi Ulu Cami**
+- [ ] **Çorum Müzesi**
 - [ ] **İncesu Kanyonu**
 
 ---
-*Bu il bizzat seyyah tarafından ziyaret edilmiş, idrak edilmiş ve kayıt altına alınmıştır.* ✅
+*Bu il bizzat deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅

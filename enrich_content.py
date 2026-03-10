@@ -84,20 +84,20 @@ def enrich_readme(file_path, city_name, region_name):
     clean_city = city_name.strip()
     
     # Base template for all
-    content = f"# 📍 {city_name} - Seyahat ve Tefekkür Notları\n\n"
+    content = f"# 📍 {city_name} - Keşif Notları\n\n"
     
     if clean_city in VISITED_DETAILS:
         details = VISITED_DETAILS[clean_city]
         content += f"## 📜 Şehir Manifestosu\n> \"{details['hikmet']}\"\n\n"
         content += f"### 🌍 Hakkında\n{details['description']}\n\n"
-        content += "### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)\n"
+        content += "### ✨ Tarihi ve Kültürel Duraklar (Önerilen)\n"
         for loc in details['landmarks']:
             content += f"- [ ] **{loc}**\n"
-        content += "\n---\n*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅\n"
+        content += "\n---\n*Bu il bizzat gezgin tarafından ziyaret edilmiş ve kayıt altına alınmıştır.* ✅\n"
     else:
-        content += "## 📜 Şehir Hikmeti\n> \"Her yer O'nun tecellisidir, her yol O'na çıkar.\"\n\n"
-        content += f"### 🌍 {city_name} Hakkında\nAnadolu'nun kadim topraklarında henüz keşfedilmeyi ve tefekkür edilmeyi bekleyen bir menzil.\n\n"
-        content += "### 🕊️ Beklenen Keşif\nBu il henüz seyahatnameye derinlemesine dahil edilmemiştir. Yolun bir gün buraya düşmesi niyetimizdir.\n"
+        content += "## 📜 Şehir Felsefesi\n> \"Dünyanın her köşesi, yeni bir hikayenin başlangıcıdır.\"\n\n"
+        content += f"### 🌍 {city_name} Hakkında\nAnadolu'nun zengin kültüründe henüz keşfedilmeyi ve deneyimlenmeyi bekleyen bir durak.\n\n"
+        content += "### 🕊️ Gelecek Rotalar\nBu il henüz seyahatnameye detaylı olarak dahil edilmemiştir. Gelecekteki rotalarımızdan biri olması planlanmaktadır.\n"
 
     content += "\n## 📂 Alt İçerikler\nBu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.\n"
     
