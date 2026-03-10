@@ -3,35 +3,14 @@ import sys
 import time
 import argparse
 from datetime import datetime
+from rich.console import Console
+from rich.table import Table
+from rich.panel import Panel
+from rich.align import Align
+from rich.live import Live
+from rich.progress import track
 
-# Optional colorama support
-try:
-    from colorama import init, Fore, Style
-    init(autoreset=True)
-    HAS_COLORAMA = True
-except ImportError:
-    HAS_COLORAMA = False
-
-class Colors:
-    """Handles ANSI color codes safely."""
-    if HAS_COLORAMA:
-        HEADER = Fore.MAGENTA + Style.BRIGHT
-        BLUE = Fore.BLUE
-        CYAN = Fore.CYAN
-        GREEN = Fore.GREEN
-        WARNING = Fore.YELLOW
-        FAIL = Fore.RED
-        ENDC = Style.RESET_ALL
-        BOLD = Style.BRIGHT
-    else:
-        HEADER = '\033[95m'
-        BLUE = '\033[94m'
-        CYAN = '\033[96m'
-        GREEN = '\033[92m'
-        WARNING = '\033[93m'
-        FAIL = '\033[91m'
-        ENDC = '\033[0m'
-        BOLD = '\033[1m'
+console = Console()
 
 class TravelLogAnalytics:
     REGIONS = [
@@ -46,13 +25,6 @@ class TravelLogAnalytics:
             "total_cities": 0,
             "total_locations": 0,
         }
-
-    def type_effect(self, text, delay=0.02):
-        for char in text:
-            sys.stdout.write(char)
-            sys.stdout.flush()
-            time.sleep(delay)
-        print()
 
     def scan_region(self, region_name):
         """Scans a single region directory."""
@@ -74,49 +46,47 @@ class TravelLogAnalytics:
 
     def print_dashboard(self, region_data):
         """Prints a high-tech dashboard summary."""
-        print(f"\n{Colors.HEADER}╔══════════════════════════════════════════════════════════════╗{Colors.ENDC}")
-        print(f"{Colors.HEADER}║                  MISSION STATUS REPORT                       ║{Colors.ENDC}")
-        print(f"{Colors.HEADER}╠════════════════════════════════╦═════════════════════════════╣{Colors.ENDC}")
+        r_count = str(self.stats['total_regions'])
+        c_count = str(self.stats['total_cities'])
+        l_count = str(self.stats['total_locations'])
         
-        # Stats Row 1
-        r_count = str(self.stats['total_regions']).center(5)
-        c_count = str(self.stats['total_cities']).center(5)
-        l_count = str(self.stats['total_locations']).center(5)
+        dashboard_content = (
+            f"[cyan]REGIONS:[/cyan] [bold white]{r_count}[/bold white] │ "
+            f"[cyan]CITIES:[/cyan] [bold white]{c_count}[/bold white] │ "
+            f"[green]LOCATIONS:[/green] [bold white]{l_count}[/bold white]\n"
+        )
         
-        print(f"{Colors.HEADER}║{Colors.ENDC} REGIONS: {Colors.CYAN}{r_count}{Colors.ENDC} {Colors.HEADER}│{Colors.ENDC} CITIES: {Colors.CYAN}{c_count}{Colors.ENDC} {Colors.HEADER}│{Colors.ENDC} LOCATIONS: {Colors.GREEN}{l_count}{Colors.ENDC} {Colors.HEADER}║{Colors.ENDC}")
-        print(f"{Colors.HEADER}╠════════════════════════════════╩═════════════════════════════╣{Colors.ENDC}")
-        
-        # Most Active Region
         if region_data:
             best_region = max(region_data, key=lambda x: x[1])
-            print(f"{Colors.HEADER}║{Colors.ENDC} HOTSPOT: {Colors.WARNING}{best_region[0]:<20}{Colors.ENDC} ({best_region[1]} Locs)       {Colors.HEADER}║{Colors.ENDC}")
-        
-        print(f"{Colors.HEADER}╚══════════════════════════════════════════════════════════════╝{Colors.ENDC}")
+            dashboard_content += f"\n[bold yellow]🔥 HOTSPOT:[/bold yellow] {best_region[0]} ({best_region[1]} Locs)"
+            
+        console.print(Panel(Align.center(dashboard_content), title="[bold magenta]MISSION STATUS REPORT[/bold magenta]", border_style="magenta", expand=False))
 
     def run_analysis(self, mock_delay=False):
-        """Main analysis loop."""
+        """Main analysis loop using Rich."""
         
-        # Clear screen if not fast mode, to keep the immersive feel
         if not mock_delay:
             os.system('cls' if os.name == 'nt' else 'clear')
         
-        print(Colors.CYAN + """
+        header = """[bold cyan]
     ╔══════════════════════════════════════════════════════════════╗
-    ║   TRAVEL LOG ANALYTICS CORE v4.0 (QUANTUM)                   ║
+    ║   TRAVEL LOG ANALYTICS CORE vPRO                             ║
     ║   CONNECTED TO: ANADOLU_DATABASE                             ║
     ╚══════════════════════════════════════════════════════════════╝
-        """ + Colors.ENDC)
+        [/bold cyan]"""
+        console.print(header)
         
         if not mock_delay:
-            self.type_effect(Colors.GREEN + "> Uplinking to Satellite Network..." + Colors.ENDC, 0.02)
-            time.sleep(0.3)
-            self.type_effect(Colors.GREEN + "> Downloading Manifest..." + Colors.ENDC, 0.02)
-            time.sleep(0.3)
+            with console.status("[bold green]Uplinking to Satellite Network...") as status:
+                time.sleep(1)
+                status.update("[bold green]Downloading Manifest...")
+                time.sleep(1)
         
-        print("\n")
-        print(f"{Colors.BOLD}{'REGION ID':<25} | {'CITIES':<10} | {'LOCATIONS':<10}{Colors.ENDC}")
-        print(Colors.CYAN + "=" * 60 + Colors.ENDC)
-
+        table = Table(title="[bold blue]Region Data Analysis[/bold blue]", show_header=True, header_style="bold magenta")
+        table.add_column("REGION ID", style="cyan", width=25)
+        table.add_column("CITIES", justify="right", style="green")
+        table.add_column("LOCATIONS", justify="right", style="yellow")
+        
         region_data = []
 
         for region in self.REGIONS:
@@ -136,36 +106,36 @@ class TravelLogAnalytics:
 
             if not mock_delay: time.sleep(0.1)
             
-            # Highlight Amasya specially
-            color = Colors.WARNING if "Amasya" in region else Colors.BLUE
-            if "Karadeniz" in region: # Amasya is inside Karadeniz
-                 pass 
+            table.add_row(region, str(region_cities), str(region_locations))
 
-            print(f"{Colors.WARNING}{region:<25}{Colors.ENDC} | {Colors.BLUE}{region_cities:<10}{Colors.ENDC} | {Colors.HEADER}{region_locations:<10}{Colors.ENDC}")
-
-        print(Colors.CYAN + "=" * 60 + Colors.ENDC)
+        console.print(table)
         
-        # Graph Section with Block Characters
-        print(f"\n{Colors.BOLD}>>> DENSITY VISUALIZATION <<<{Colors.ENDC}")
+        # Graph Section with Block Characters using Rich
+        console.print("\n[bold]>>> DENSITY VISUALIZATION <<<[/bold]")
+        
+        chart_table = Table.grid(padding=1)
+        chart_table.add_column(style="cyan", justify="right")
+        chart_table.add_column()
+        chart_table.add_column(style="bold white")
+        
         if region_data:
             max_loc = max([x[1] for x in region_data])
             max_loc = max_loc if max_loc > 0 else 1
             for region, count in region_data:
-                # Calculate bar length
                 bar_len = int((count / max_loc) * 30)
-                # Create a gradient bar if possible, or just solid
-                bar = "▓" * bar_len + "░" * (30 - bar_len)
-                print(f"{region:<20} : {Colors.GREEN}{bar}{Colors.ENDC} {count}")
-            print(Colors.CYAN + "-" * 60 + Colors.ENDC)
+                bar = "[green]" + "▓" * bar_len + "[/green]" + "[dim]" + "░" * (30 - bar_len) + "[/dim]"
+                chart_table.add_row(region, bar, str(count))
+                
+        console.print(Panel(chart_table, border_style="cyan"))
 
         self.print_dashboard(region_data)
 
         if not mock_delay:
-            print(f"\n{Colors.CYAN}> SESSION TERMINATED.{Colors.ENDC}")
+            console.print("\n[bold cyan]> SESSION TERMINATED.[/bold cyan]")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Travel Log Analytics Tool")
+    parser = argparse.ArgumentParser(description="Travel Log Analytics Tool vPRO")
     parser.add_argument("--fast", action="store_true", help="Skip animations")
     args = parser.parse_args()
 
@@ -173,4 +143,4 @@ if __name__ == "__main__":
     try:
         analytics.run_analysis(mock_delay=args.fast)
     except KeyboardInterrupt:
-        print("\n> ABORTED.")
+        console.print("\n[bold red]> ABORTED.[/bold red]")

@@ -1,6 +1,3 @@
-# Runtime dependencies
-colorama>=0.4.6
-
-# Development dependencies
-pytest>=7.3.1
-folium>=0.14.0
+rich
+folium
+pandas
