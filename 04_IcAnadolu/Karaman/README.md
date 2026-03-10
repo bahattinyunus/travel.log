@@ -1,13 +1,13 @@
-# 📍 Karaman - Kadim Evrensel Keşif Notları
+# 📍 Karaman - Seyahat Notları
 
-## 📜 Şehir Felsefesi (Kadim Hikmet)
-> "Evrenin her köşesi (Logos/Tao), okunmayı bekleyen yeni bir antik metin gibidir."
+## 📜 Seyyahın Beklentisi
+> "Henüz adımlanmamış her yol, içinde koca bir hikaye saklar."
 
 ### 🌍 Karaman Hakkında
-Anadolu'nun çok kültürlü mozaiğinde (Pagan, Yunan, Roma, Hristiyan, İslam, Şaman) henüz sırrına erilmeyi bekleyen bir durak.
+Anadolu'nun zengin mozaiğinde ayak basılmayı ve kaleme alınmayı bekleyen bir durak.
 
-### 🕊️ Beklenen (Gelecek) Keşif
-Bu il henüz seyahatnameye manevi ve felsefi olarak dahil edilmemiştir. Gelecekteki evrensel keşif rotalarımızdan biri olması niyetimizdir.
+### 🕊️ Beklenen Rota
+Bu puslu dağlar, derin vadiler veya eski sokaklar henüz seyir defterimize işlenmedi. Gelecek rüzgarlarla yollarımızın kesişmesi dileğiyle...
 
 ## 📂 Alt İçerikler
 Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

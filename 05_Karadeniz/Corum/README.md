@@ -1,21 +1,22 @@
-# 📍 Corum - Evrensel Keşif ve Felsefe Notları
+# 📍 Corum - Seyahat ve Tefekkür Notları
 
-## 📜 Şehrin Kadim Hikmeti
-> "Toprağın altındaki binlerce yıllık tabletler, zamanın (Kronos) her şeyi nasıl eşitlediğini gösterir."
-> "Tarihin en eski barış antlaşmalarının doğduğu, Hitit güneşinin kadim izlerini taşıyan il."
+## 📜 Şehrin Ruhu
+> "Medeniyet kılıçla kurulsa da, yalnızca masaya barışın mührü basıldığında yücelir."
+> "Taş tabletlerin arasında yankılanan ilk barışın, bereketli topraklardaki unutulmaz izi."
 
-### 🌍 Şehrin Antik Ruhu ve Çok Kültürlü Dokusu
-Hititlerin kadim diyarı, dünyanın ilk yazılı barış antlaşmasının ev sahibi. Hattuşaş'ın yıkıntıları arasında yürürken insan, çok tanrılı pagan inanışlarından, bugünün tektanrılı felsefelerine uzanan o uzun yolculuğu tefekkür eder. Güçlü krallıklar bile zamanın rüzgarında savrulmuştur.
+### 🌍 Şehrin Dokusu ve Hatırası
+Hititlerin kadim güneşi altında yıkanan, bereketin ve tarihin toprakları. Çorum, gösterişten uzak tepelerinde binlerce yıllık bir miras saklar. Hattuşaş'ın yıkıntıları arasında yürürken duyulan tek ses, toprağın ve rüzgarın binlerce yıllık şahitliğidir.
 
-### 🕊️ Felsefi ve Bâtıni Notlar (Arkeolojik & Ruhani Perspektif)
-Bu şehir bize saltanatın geçici olduğunu, elde kalan tek şeyin kültür, barış ve insanlık mirası olduğunu fısıldar. Geçmişin Hitit tanrılarına yapılan ritüeller, bugün insanın kendi iç barışını (Nirvana/Mutmain) bulma çabasına evrilmiştir.
+### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
+Krallar unutulur, surlar yıkılır, ama insanlık tarihine düşülen 'barış' notu sonsuza kadar toprağın hafızasında kalır. Gücün ardındaki zarafet ve barışın kıymeti, bu harabelerde yatar.
 
-### ✨ Tarihi, Antik ve Kutsal Duraklar
-Arayıcının adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Keşfedilesi Duraklar
+Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Hattuşaş Antik Kenti**
 - [ ] **Alacahöyük**
 - [ ] **Çorum Müzesi**
+- [ ] **Yazılıkaya**
 - [ ] **Şapinuva**
 
 ---
-*Bu il bizzat evrensel bir arayıcı tarafından ziyaret edilmiş, tarihsel ve felsefi katmanları idrak edilmiştir.* ✅
+*Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

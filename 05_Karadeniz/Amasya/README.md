@@ -1,21 +1,21 @@
-# 📍 Amasya - Evrensel Keşif ve Felsefe Notları
+# 📍 Amasya - Seyahat ve Tefekkür Notları
 
-## 📜 Şehrin Kadim Hikmeti
-> "Maddenin (Kayanın) direnci, insanın yaratıcı iradesi karşısında her zaman boyun eğer."
-> "Pontus krallarının izleri, Ferhat'ın dağı delen arzusu ve suyun sessiz zikriyle örülü vadi."
+## 📜 Şehrin Ruhu
+> "Kayaya kazınan en büyük iz güç değil, suların getirdiği yaşamdır."
+> "Nehrin ikiye böldüğü, kralların gölgesiyle dağların şarkısının birbirine karıştığı vadi."
 
-### 🌍 Şehrin Antik Ruhu ve Çok Kültürlü Dokusu
-Elmanın, Ferhat ile Şirin'in, Strabon'un (Antik Coğrafyacı) memleketi. Yeşilırmak'ın aynasında farklı inançları izleyen kent. Amasya vadinin içine gizlenmiş, sırlarını hem antik kaya mezarlarıyla hem de Osmanlı mimarisiyle anlatan devasa bir felsefi tablodur.
+### 🌍 Şehrin Dokusu ve Hatırası
+Yeşilırmak'ın nazlı nazlı aktığı dar bir vadiye gizlenmiş masal şehri. Nehrin iki yakasındaki yalıboyu evleri, onların üstüne yükselen hırçın kayalar ve bu kayalara kazınmış antik mezarlar... Amasya, nehrin ritmiyle tarihin donup kaldığı efsunlu bir seyir terasıdır.
 
-### 🕊️ Felsefi ve Bâtıni Notlar (Arkeolojik & Ruhani Perspektif)
-Amasya'da Ferhat'ın Şirin'e duyduğu aşk, insanın bir gaye uğruna maddesel dünyayı nasıl aşabileceğinin öyküsüdür. Pontus krallarının mezarları, gücün geçiciliğine (Memento Mori) dikkat çeker.
+### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
+Bir dağın sinesine kazınmış o kocaman mezarlar bile zamanın karşısında ufalanır; fakat o ırmak asırlardır hep aynı türküyü söyler. İnsana kalıcı olanın kibir ve güç değil, doğanın bitimsiz akışı olduğunu anlatır.
 
-### ✨ Tarihi, Antik ve Kutsal Duraklar
-Arayıcının adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Keşfedilesi Duraklar
+Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Kral Kaya Mezarları**
 - [ ] **Amasya Kalesi**
-- [ ] **II. Bayezid Külliyesi**
 - [ ] **Yalıboyu Evleri**
+- [ ] **Ferhat ile Şirin Aşıklar Müzesi**
 
 ---
-*Bu il bizzat evrensel bir arayıcı tarafından ziyaret edilmiş, tarihsel ve felsefi katmanları idrak edilmiştir.* ✅
+*Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅
