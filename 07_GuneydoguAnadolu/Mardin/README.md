@@ -1,22 +1,13 @@
-# Mardin
+# 📍 Mardin - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Güneydoğu Anadolu
-* **İl:** Mardin
+## 📜 Şehir Hikmeti
+> "Her yer O'nun tecellisidir, her yol O'na çıkar."
 
-## 📝 Gezi Notları
-*Bu şehre ait bilgiler veya gezi notları daha sonra eklenecektir.*
+### 🌍 Mardin Hakkında
+Anadolu'nun kadim topraklarında henüz keşfedilmeyi ve tefekkür edilmeyi bekleyen bir menzil.
 
-Türkiye'nin Güneydoğu Anadolu bölgesinde yer alan Mardin, keşfedilmeyi bekleyen birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+### 🕊️ Beklenen Keşif
+Bu il henüz seyahatnameye derinlemesine dahil edilmemiştir. Yolun bir gün buraya düşmesi niyetimizdir.
 
-### 🏛️ Gezilecek Yerler
-* [Gezilecek Yerler eklenecek]
-
-### 🍽️ Yeme - İçme
-* [Yöresel lezzetler eklenecek]
-
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

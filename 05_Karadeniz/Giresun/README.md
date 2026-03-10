@@ -1,24 +1,18 @@
-# Giresun - [Tarih: 2024]
+# 📍 Giresun - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Karadeniz
-* **İl:** Giresun
-* **İlçe/Mevki:** Merkez (Düzenlenecek)
+## 📜 Şehir Manifestosu
+> "Denizin cömertliği insanın tevazusuyla birleşir."
 
-## 📝 Gezi Notları
-Giresun şehrine yapılan geziye dair notlar...
+### 🌍 Hakkında
+Fındığın ve kirazın ana vatanı. Mavi ile yeşilin kucaklaştığı yer.
 
-### 🏛️ Gezilen Yerler
-* [Gezilecek Yer 1]
-* [Gezilecek Yer 2]
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Giresun Kalesi**
+- [ ] **Zeytinlik Semti**
+- [ ] **Giresun Adası**
 
-### 🍽️ Yeme - İçme
-* [Yemek 1]
-* [Yemek 2]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-![Giresun Fotoğraf](assets/ornek.jpg)
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

@@ -1,22 +1,19 @@
-# İstanbul
+# 📍 Istanbul - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Marmara
-* **İl:** İstanbul
+## 📜 Şehir Manifestosu
+> "İstanbul bir şehirdir ki, yedi tepe üzerinde yedi veli bekler."
 
-## 📝 Gezi Notları
-*Bu şehre ait bilgiler veya gezi notları daha sonra eklenecektir.*
+### 🌍 Hakkında
+Dünyanın gözbebeği, payitaht. Hem zahiri ihtişamı hem batıni derinliğiyle seyyahların sığınağı.
 
-Türkiye'nin Marmara bölgesinde yer alan İstanbul, keşfedilmeyi bekleyen birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Eyüp Sultan Camii**
+- [ ] **Aziz Mahmud Hüdayi Türbesi**
+- [ ] **Galata Mevlevihanesi**
+- [ ] **Süleymaniye Camii**
 
-### 🏛️ Gezilecek Yerler
-* [Gezilecek Yerler eklenecek]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-### 🍽️ Yeme - İçme
-* [Yöresel lezzetler eklenecek]
-
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

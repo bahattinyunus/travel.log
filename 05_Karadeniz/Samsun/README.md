@@ -1,24 +1,18 @@
-# Samsun - [Tarih: 2024]
+# 📍 Samsun - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Karadeniz
-* **İl:** Samsun
-* **İlçe/Mevki:** Merkez (Düzenlenecek)
+## 📜 Şehir Manifestosu
+> "Her büyük yürüyüş ilk bir adımla başlar."
 
-## 📝 Gezi Notları
-Samsun şehrine yapılan geziye dair notlar...
+### 🌍 Hakkında
+Milli Mücadele'nin meşale şehri. Karadeniz'in giriş kapısı.
 
-### 🏛️ Gezilen Yerler
-* [Gezilecek Yer 1]
-* [Gezilecek Yer 2]
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Onur Anıtı**
+- [ ] **Bandırma Gemi Müzesi**
+- [ ] **Amisos Tepesi**
 
-### 🍽️ Yeme - İçme
-* [Yemek 1]
-* [Yemek 2]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-![Samsun Fotoğraf](assets/ornek.jpg)
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

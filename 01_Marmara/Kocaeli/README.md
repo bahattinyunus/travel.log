@@ -1,24 +1,18 @@
-# Kocaeli - [Tarih: 2024]
+# 📍 Kocaeli - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Marmara
-* **İl:** Kocaeli
-* **İlçe/Mevki:** Merkez (Düzenlenecek)
+## 📜 Şehir Manifestosu
+> "Emek, en büyük hazinedir."
 
-## 📝 Gezi Notları
-Kocaeli şehrine yapılan geziye dair notlar...
+### 🌍 Hakkında
+Sanayinin ve tarihin iç içe geçtiği, Marmara'nın kilit noktası.
 
-### 🏛️ Gezilen Yerler
-* [Gezilecek Yer 1]
-* [Gezilecek Yer 2]
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **İzmit Saat Kulesi**
+- [ ] **Osman Hamdi Bey Müzesi**
+- [ ] **Kocaeli Bilim Merkezi**
 
-### 🍽️ Yeme - İçme
-* [Yemek 1]
-* [Yemek 2]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-![Kocaeli Fotoğraf](assets/ornek.jpg)
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

@@ -1,25 +1,14 @@
-# 📍 Kral Kaya Mezarları
+# 🏰 Kral Kaya Mezarları
 
-> *"Harşena Dağı'nın bağrına saplanmış, şehre tepeden bakan krallar..."*
+> "Dünya bir penceredir, her gelen baktı geçti."
 
-## 🗺️ Künye
-*   **Tarih:** 01.06.2024
-*   **Koordinatlar:** `40.6524, 35.8339`
-*   **Hava Durumu:** ☀️
-*   **Kategori:** Tarihi / Arkeoloji / UNESCO Adayı
+## 📜 Hakkında
+Harşena Kalesi'nin eteklerinde, kalker kayalara oyulmuş devasa mezarlar. Pontus krallarının ebedi istirahatgahları.
 
-## 🏺 Tarihçe ve Bağlam
-Pontus Krallarına ait bu anıt mezarlar, Helenistik dönemin en görkemli miraslarından. Dağın sarp kayalıklarına oyulmuş bu mezarlar, Amasya'nın "Şehzadeler Şehri" olmadan önceki krallık geçmişini fısıldar. Strabon'un memleketinde tarih her taşa sinmiştir.
-
-## 👁️ Gözlemler ve Deneyim
-Tren raylarının üzerinden, Yeşilırmak'ın karşı kıyısından bakınca geceleri aydınlatıldığında havada asılı gibi duruyorlar. Tırmanırken yorucu merdivenler, yukarıdaki manzarayla ödüllendiriliyor. Şehir ayaklarınızın altında bir gerdanlık gibi uzanıyor.
-
-## 📸 Fotoğraf Notları
-*   `night_view.jpg`: Gece ışıklandırmasıyla mezarların şehre yansıması.
-*   `tomb_detail.jpg`: Ana mezar odasının girişindeki sütun başlıkları.
-
-## 💡 Gezgin Tavsiyesi
-> Akşam saatlerinde Yalıboyu evlerinden karşıya bakıp çayınızı yudumlayın, manzara en güzel oradan görünür.
+### 🏹 Arkeolojik ve Manevi Bakış
+- **Zaman:** Taşın sabrı, insanın faniliği.
+- **İhtişam:** Yeşilırmak'ın üzerinden şehre bakan devasa oyuklar.
+- **İbret:** "Her nefis ölümü tadacaktır" gerçeğinin taşa kazınmış hali.
 
 ---
-*Digital Heritage ID: 550e8400-e29b-41d4-a716-446655440018*
+*Şehzadeler şehrinin tepesinden tarihe bakış.*

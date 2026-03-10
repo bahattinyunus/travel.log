@@ -1,22 +1,19 @@
-# Bursa
+# 📍 Bursa - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Marmara
-* **İl:** Bursa
+## 📜 Şehir Manifestosu
+> "Bursa'da zaman, bir eski cami avlusunda sükutla geçer."
 
-## 📝 Gezi Notları
-*Bu şehre ait bilgiler veya gezi notları daha sonra eklenecektir.*
+### 🌍 Hakkında
+Evliyalar şehri, Osmanlı'nın ilk payitahtı. Ulu bir çınar gibi kökleri tarihin derinliklerinde.
 
-Türkiye'nin Marmara bölgesinde yer alan Bursa, keşfedilmeyi bekleyen birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Ulu Cami**
+- [ ] **Emir Sultan Türbesi**
+- [ ] **Üftade Hazretleri Makamı**
+- [ ] **Yeşil Türbe**
 
-### 🏛️ Gezilecek Yerler
-* [Gezilecek Yerler eklenecek]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-### 🍽️ Yeme - İçme
-* [Yöresel lezzetler eklenecek]
-
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

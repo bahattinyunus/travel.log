@@ -1,22 +1,18 @@
-# Antalya
+# 📍 Antalya - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Akdeniz
-* **İl:** Antalya
+## 📜 Şehir Manifestosu
+> "Güneşin her gün yeniden doğuşu, umudun bitmeyeceğinin delilidir."
 
-## 📝 Gezi Notları
-*Bu şehre ait bilgiler veya gezi notları daha sonra eklenecektir.*
+### 🌍 Hakkında
+Akdeniz'in incisi, kadim uygarlıkların limanı.
 
-Türkiye'nin Akdeniz bölgesinde yer alan Antalya, keşfedilmeyi bekleyen birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Kaleiçi**
+- [ ] **Hadrian Kapısı**
+- [ ] **Yivli Minare Camii**
 
-### 🏛️ Gezilecek Yerler
-* [Gezilecek Yerler eklenecek]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-### 🍽️ Yeme - İçme
-* [Yöresel lezzetler eklenecek]
-
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

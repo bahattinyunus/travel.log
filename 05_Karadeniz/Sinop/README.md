@@ -1,24 +1,18 @@
-# Sinop - [Tarih: 2024]
+# 📍 Sinop - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Karadeniz
-* **İl:** Sinop
-* **İlçe/Mevki:** Merkez (Düzenlenecek)
+## 📜 Şehir Manifestosu
+> "Gölge etme başka ihsan istemem (Diyojen)."
 
-## 📝 Gezi Notları
-Sinop şehrine yapılan geziye dair notlar...
+### 🌍 Hakkında
+Mutluluğun ve sükunetin şehri. Karadeniz'in en kuzey ucu.
 
-### 🏛️ Gezilen Yerler
-* [Gezilecek Yer 1]
-* [Gezilecek Yer 2]
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Sinop Kalesi**
+- [ ] **Tarihi Sinop Cezaevi**
+- [ ] **Hamsilos Koyu**
 
-### 🍽️ Yeme - İçme
-* [Yemek 1]
-* [Yemek 2]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-![Sinop Fotoğraf](assets/ornek.jpg)
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

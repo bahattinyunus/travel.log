@@ -1,24 +1,18 @@
-# Ordu - [Tarih: 2024]
+# 📍 Ordu - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Karadeniz
-* **İl:** Ordu
-* **İlçe/Mevki:** Merkez (Düzenlenecek)
+## 📜 Şehir Manifestosu
+> "Yükseklere çıkmadan ufku göremezsin."
 
-## 📝 Gezi Notları
-Ordu şehrine yapılan geziye dair notlar...
+### 🌍 Hakkında
+Deresi yukarı akan, fındığın diyarı, Karadeniz'in nazlı şehri.
 
-### 🏛️ Gezilen Yerler
-* [Gezilecek Yer 1]
-* [Gezilecek Yer 2]
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Boztepe**
+- [ ] **Yason Burnu**
+- [ ] **Kurul Kalesi**
 
-### 🍽️ Yeme - İçme
-* [Yemek 1]
-* [Yemek 2]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-![Ordu Fotoğraf](assets/ornek.jpg)
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

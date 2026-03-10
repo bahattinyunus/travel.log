@@ -1,22 +1,18 @@
-# Çorum
+# 📍 Corum - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Karadeniz
-* **İl:** Çorum
+## 📜 Şehir Manifestosu
+> "Geçmişin izleri üzerindeki bugünün bereketini gör."
 
-## 📝 Gezi Notları
-*Bu şehre ait bilgiler veya gezi notları daha sonra eklenecektir.*
+### 🌍 Hakkında
+Hititlerin kadim diyarı, leblebi kokulu Anadolu şehri.
 
-Türkiye'nin Karadeniz bölgesinde yer alan Çorum, keşfedilmeyi bekleyen birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Hattuşaş Antik Kenti**
+- [ ] **Laçin Kapılıkaya Anıtsal Mezarı**
+- [ ] **Ulu Cami**
 
-### 🏛️ Gezilecek Yerler
-* [Gezilecek Yerler eklenecek]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-### 🍽️ Yeme - İçme
-* [Yöresel lezzetler eklenecek]
-
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

@@ -1,24 +1,19 @@
-# Konya - [Tarih: 2024]
+# 📍 Konya - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** İç Anadolu
-* **İl:** Konya
-* **İlçe/Mevki:** Merkez (Düzenlenecek)
+## 📜 Şehir Manifestosu
+> "Gel, ne olursan ol yine gel... Ama buraya aşkla gel."
 
-## 📝 Gezi Notları
-Konya şehrine yapılan geziye dair notlar...
+### 🌍 Hakkında
+Aşkın merkezi, Mevlana'nın yurdu. Hamdım, piştim, yandım diyenlerin durak noktası.
 
-### 🏛️ Gezilen Yerler
-* [Gezilecek Yer 1]
-* [Gezilecek Yer 2]
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Mevlana Müzesi**
+- [ ] **Şems-i Tebrizi Türbesi**
+- [ ] **Sadreddin Konevi Camii**
+- [ ] **İnce Minareli Medrese**
 
-### 🍽️ Yeme - İçme
-* [Yemek 1]
-* [Yemek 2]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-![Konya Fotoğraf](assets/ornek.jpg)
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

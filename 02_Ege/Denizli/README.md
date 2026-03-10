@@ -1,22 +1,18 @@
-# Denizli
+# 📍 Denizli - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** Ege
-* **İl:** Denizli
+## 📜 Şehir Manifestosu
+> "Su gibi aziz ol, aktığın yeri güzelleştir."
 
-## 📝 Gezi Notları
-*Bu şehre ait bilgiler veya gezi notları daha sonra eklenecektir.*
+### 🌍 Hakkında
+Pamuktan kalelerin, Hierapolis'in şifalı sularının şehri.
 
-Türkiye'nin Ege bölgesinde yer alan Denizli, keşfedilmeyi bekleyen birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Pamukkale Travertenleri**
+- [ ] **Hierapolis Antik Kenti**
+- [ ] **Laodikeia**
 
-### 🏛️ Gezilecek Yerler
-* [Gezilecek Yerler eklenecek]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-### 🍽️ Yeme - İçme
-* [Yöresel lezzetler eklenecek]
-
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

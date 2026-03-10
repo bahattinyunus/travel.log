@@ -1,22 +1,18 @@
-# Ankara
+# 📍 Ankara - Seyahat ve Tefekkür Notları
 
-## 📍 Konum Bilgisi
-* **Bölge:** İç Anadolu
-* **İl:** Ankara
+## 📜 Şehir Manifestosu
+> "Dışarısını imar ederken içerisini haraap etme."
 
-## 📝 Gezi Notları
-*Bu şehre ait bilgiler veya gezi notları daha sonra eklenecektir.*
+### 🌍 Hakkında
+Anadolu'nun kalbi, Hacı Bayram-ı Veli'nin manevi muhafızlığında bir şehir.
 
-Türkiye'nin İç Anadolu bölgesinde yer alan Ankara, keşfedilmeyi bekleyen birçok tarihi ve doğal güzelliğe ev sahipliği yapmaktadır.
+### ✨ Bâtıni ve Zâhiri Duraklar (Önerilen)
+- [ ] **Hacı Bayram-ı Veli Camii**
+- [ ] **Taceddin Dergahı**
+- [ ] **Ankara Kalesi**
 
-### 🏛️ Gezilecek Yerler
-* [Gezilecek Yerler eklenecek]
+---
+*Bu il bizzat seyyah tarafından ziyaret edilmiş ve mühürlenmiştir.* ✅
 
-### 🍽️ Yeme - İçme
-* [Yöresel lezzetler eklenecek]
-
-## 📸 Fotoğraf Galerisi
-<!-- Buraya assets klasöründeki fotoğrafları ekleyin -->
-
-## 💡 İpuçları & Tavsiyeler
-* [Tavsiye Ekle]
+## 📂 Alt İçerikler
+Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.
