@@ -60,7 +60,7 @@ Bu seyir defteri rastgele bir turistik gezinin değil, net bir **Seyahat Disipli
 *   **Süre ve Sınırlar:** Her yaz dönemi, 45 günlük kesintisiz bir rota oluşturulur.
 *   **Konaklama Stratejisi (Düşük Bütçeli / Bütçesiz Seyahat):** Gidilen her ilde, **GSB Seyahatsever** projesi kapsamında **KYK yurtlarına** yerleşilir. Seyahatin en büyük maliyet kalemi olan konaklamanın sıfırlanması, kısıtlı bir bütçeyi hatta "olmayan bütçeyi" dahi muhafaza ederek uzun süreli seyahat etme imkanı sunar. Bu strateji, bütçeyi harcamak değil, bütçesizliğin içinde sürdürülebilir bir keşif rotası oluşturmak üzerinedir.
 *   **5 Gün Kuralı:** Her şehirde tam olarak **5 gün** kalınır. Bu süre, şehri sadece tüketmek için değil, sindirmek için belirlenmiş bir standarttır.
-*   **Yarı Mesai Sistemi (Üretim & Keşif):** Seyahat ederken üretim durmaz. Günün **ilk yarısı**, o şehrin merkezindeki bir kütüphanede (İl Halk Kütüphaneleri vb.) dijital üretim yaparak geçirilir. Günün **ikinci yarısı** ise şehrin ruhuna karışmaya ayrılır.
+*   **Yarı Mesai Sistemi (Gelişim & Keşif):** Seyahat ederken kişisel gelişim ve üretim durmaz. Günün **ilk yarısı**, o şehrin merkezindeki bir kütüphanede (İl Halk Kütüphaneleri vb.) geçirilerek; kodlama öğrenme, ders çalışma, sertifika toplama ve dijital projeler üretme gibi "upskilling" odaklı faaliyetler gerçekleştirilir. Günün **ikinci yarısı** ise şehrin ruhuna karışmaya ayrılır.
 
 Bu disiplin, seyahati bir "tüketim" aktivitesinden çıkarıp, **ekonomik, sürdürülebilir ve üretken bir yaşam tarzı** haline getirir.
 
