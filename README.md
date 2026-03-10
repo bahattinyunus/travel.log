@@ -75,30 +75,16 @@ Terminalinize sadece `python cli.py` yazın ve arkanıza yaslanın.
 
 ---
 
-## 📍 Tescilli Ayak İzleri (Current Log)
-Anadolu'nun dört bir yanındaki ayak izlerimiz (Toplam 23 Lokasyon, 13 İl):
+## 📿 Sırrına Erilmiş Menziller (Unveiled Destinations)
 
-| Bölge | Şehir | Lokasyon | Kategori |
-|-------|-------|----------|----------|
-| 🏰 Marmara | İstanbul | Galata Kulesi | Tarihi Yapı |
-| 🏰 Marmara | İstanbul | Ayasofya | Tarihi / Dini |
-| 🏰 Marmara | İstanbul | Topkapı Sarayı | Saray / Müze |
-| 🏰 Marmara | Kocaeli | (Merkez) | Temas |
-| 🏰 Marmara | Bursa | (Merkez) | Temas |
-| 🌊 Ege | Denizli | (Merkez) | Temas |
-| ☀️ Akdeniz | Antalya | Kaleiçi | Antik Kent |
-| ☀️ Akdeniz | Antalya | Kaputaş Plajı | Plaj / Doğa |
-| ☀️ Akdeniz | Antalya | Olympos | Tarih / Doğa |
-| 🌾 İç Anadolu | Ankara | (Merkez) | Temas |
-| 🌾 İç Anadolu | Konya | Tuz Gölü | Doğa / Manzara |
-| 🌲 Karadeniz | Amasya | Kral Kaya Mezarları | Tarihi / Arkeoloji |
-| 🌲 Karadeniz | Amasya | Yalıboyu Evleri | Sivil Mimari |
-| 🌲 Karadeniz | Amasya | Ferhat ile Şirin | Efsane / Müze |
-| 🌲 Karadeniz | Çorum | (Merkez) | Temas |
-| 🌲 Karadeniz | Samsun | (Merkez) | Temas |
-| 🌲 Karadeniz | Sinop | (Merkez) | Temas |
-| 🌲 Karadeniz | Giresun | (Merkez) | Temas |
-| 🌲 Karadeniz | Ordu | (Merkez) | Temas |
+Anadolu'nun dört bir yanında eşiğine yüz sürdüğümüz, tevhidin ve muhabbetin izindeki **13 kutlu şar (şehir)** ve manevi menziller:
+
+*   **🏰 Payitaht ve Ulu Çınarlar (Marmara):** İstanbul'un (Ayasofya, Galata, Topkapı) o derin ve ruhani atmosferinden; Bursa'nın yeşil sükûnetine ve Kocaeli'nin emeğine teslîmiyet...
+*   **🌲 Dağların ve Dalgaların Zikri (Karadeniz):** Amasya'da Ferhat'ın dağı delen aşkını tefekkür etmekten (Kral Kaya Mezarları); Çorum'un, Samsun'un, Sinop'un, Giresun'un ve Ordu'nun yağmurla yıkanmış kalplerine dokunmaya...
+*   **🌾 Bozkırın Yanan Kalbi (İç Anadolu):** Konya'da Celâleddin-i Rûmî'nin yanan ocağında (Tuz Gölü'nün saflığıyla) harlanmaktan; Ankara'nın Hacı Bayram-ı Veli himayesindeki vakur duruşuna bürünmeye...
+*   **🌊 Suların Kadim Sırrı (Akdeniz & Ege):** Antalya'nın (Kaleiçi, Olympos) kadim taşlarında asırları okumaktan; Denizli'nin şifalı ve tevekkül dolu iklimine ermeye...
+
+> *"Gitmek sadece bir bedenin yer değiştirmesi değil, kalbin de halden hale (seyri sülûk) geçmesidir."*
 
 ---
 
