@@ -1,13 +1,13 @@
 # 📍 Yozgat - Keşif Notları
 
-## 📜 Şehir Felsefesi
-> "Dünyanın her köşesi, yeni bir hikayenin başlangıcıdır."
+## 📜 Şehir Felsefesi (Hikmet)
+> "Dünyanın her köşesi O'nun (c.c) bir ayeti ve yeni bir tefekkürün başlangıcıdır."
 
 ### 🌍 Yozgat Hakkında
-Anadolu'nun zengin kültüründe henüz keşfedilmeyi ve deneyimlenmeyi bekleyen bir durak.
+Anadolu'nun zengin kültüründe henüz sırrına erilmeyi ve deneyimlenmeyi bekleyen bir durak.
 
-### 🕊️ Gelecek Rotalar
-Bu il henüz seyahatnameye detaylı olarak dahil edilmemiştir. Gelecekteki rotalarımızdan biri olması planlanmaktadır.
+### 🕊️ Beklenen (Gelecek) Keşif
+Bu il henüz seyahatnameye manevi olarak dahil edilmemiştir. Gelecekteki tekamül rotalarımızdan biri olması niyetimizdir.
 
 ## 📂 Alt İçerikler
 Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

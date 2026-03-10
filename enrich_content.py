@@ -88,16 +88,16 @@ def enrich_readme(file_path, city_name, region_name):
     
     if clean_city in VISITED_DETAILS:
         details = VISITED_DETAILS[clean_city]
-        content += f"## 📜 Şehir Manifestosu\n> \"{details['hikmet']}\"\n\n"
-        content += f"### 🌍 Hakkında\n{details['description']}\n\n"
-        content += "### ✨ Tarihi ve Kültürel Duraklar (Önerilen)\n"
+        content += f"## 📜 Şehir Hikmeti (Manifesto)\n> \"{details['hikmet']}\"\n\n"
+        content += f"### 🌍 Şehrin Ruhu ve Hakikati\n{details['description']}\n\n"
+        content += "### ✨ Zâhiri ve Bâtıni Duraklar (Önerilen)\n"
         for loc in details['landmarks']:
             content += f"- [ ] **{loc}**\n"
-        content += "\n---\n*Bu il bizzat gezgin tarafından ziyaret edilmiş ve kayıt altına alınmıştır.* ✅\n"
+        content += "\n---\n*Bu il bizzat derviş/gezgin tarafından sırrına erilecek şekilde adımlanmış ve tefekkür edilmiştir.* ✅\n"
     else:
-        content += "## 📜 Şehir Felsefesi\n> \"Dünyanın her köşesi, yeni bir hikayenin başlangıcıdır.\"\n\n"
-        content += f"### 🌍 {city_name} Hakkında\nAnadolu'nun zengin kültüründe henüz keşfedilmeyi ve deneyimlenmeyi bekleyen bir durak.\n\n"
-        content += "### 🕊️ Gelecek Rotalar\nBu il henüz seyahatnameye detaylı olarak dahil edilmemiştir. Gelecekteki rotalarımızdan biri olması planlanmaktadır.\n"
+        content += "## 📜 Şehir Felsefesi (Hikmet)\n> \"Dünyanın her köşesi O'nun (c.c) bir ayeti ve yeni bir tefekkürün başlangıcıdır.\"\n\n"
+        content += f"### 🌍 {city_name} Hakkında\nAnadolu'nun zengin kültüründe henüz sırrına erilmeyi ve deneyimlenmeyi bekleyen bir durak.\n\n"
+        content += "### 🕊️ Beklenen (Gelecek) Keşif\nBu il henüz seyahatnameye manevi olarak dahil edilmemiştir. Gelecekteki tekamül rotalarımızdan biri olması niyetimizdir.\n"
 
     content += "\n## 📂 Alt İçerikler\nBu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.\n"
     

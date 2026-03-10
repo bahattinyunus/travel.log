@@ -122,17 +122,17 @@ def enrich_visited():
                 details = VISITED_DEEP_DETAILS[lookup_key]
                 file_path = os.path.join(region, folder, "README.md")
                 
-                content = f"# 📍 {clean_city} - Seyahat ve Keşif Notları\n\n"
-                content += f"## 📜 Şehir Manifestosu\n> \"{details['hikmet']}\"\n"
+                content = f"# 📍 {clean_city} - Keşif ve Tefekkür Notları\n\n"
+                content += f"## 📜 Şehir Hikmeti (Manifesto)\n> \"{details['hikmet']}\"\n"
                 content += f"> {details['quote']}\n\n"
-                content += f"### 🌍 Şehrin Ruhu ve Kültürel Dokusu\n{details['description']}\n\n"
-                content += f"### 🕊️ Felsefi Notlar (Gezgin Perspektifi)\n{details['sufi_notes']}\n\n"
-                content += "### ✨ Tarihi ve Kültürel Duraklar\nGezginin adımlaması ve keşfetmesi tavsiye edilen önemli mekanlar:\n"
+                content += f"### 🌍 Şehrin Ruhu ve Hakikati (Kültürel Doku)\n{details['description']}\n\n"
+                content += f"### 🕊️ Bâtıni Notlar (Derviş/Gezgin Perspektifi)\n{details['sufi_notes']}\n\n"
+                content += "### ✨ Zâhiri ve Bâtıni Duraklar\nSeyyahın ve keşif tutkunlarının adımlaması, ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:\n"
                 
                 for loc in details['landmarks']:
                     content += f"- [ ] **{loc}**\n"
                     
-                content += "\n---\n*Bu il bizzat deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅\n"
+                content += "\n---\n*Bu il bizzat seyyah tarafından sırrına erilecek şekilde deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅\n"
                 
                 with open(file_path, "w", encoding="utf-8") as f:
                     f.write(content)

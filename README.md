@@ -16,42 +16,42 @@
 
 <div align="center">
   <h3>🌍 SEYAHAT SEVER VİZYONU (vPRO)</h3>
-  <p><em>"Biz, yolların bitmediği, keşfin son bulmadığı bir dünyanın yolcularıyız. Her durak yeni bir hikaye, her şehir yeni bir keşiftir. Bu repo, <strong>tutkulu bir gezginin</strong> dijital hafızasıdır."</em></p>
+  <p><em>"Biz, yolların bitmediği, keşfin son bulmadığı bir dünyanın yolcularıyız. Her durak yeni bir hikaye, her şehir içsel bir tefekkürdür. Bu repo, <strong>seyyah bir dervişin</strong> ve evrensel bir keşif tutkununun dijital hafızasıdır."</em></p>
 </div>
 
 ---
 
 # 🇹🇷 TRAVEL LOG: ANADOLU SEYAHATNAMESİ
 
-> *"Dünyayı dolaşın; göreceksiniz ki, kitapların yazmadığı sayfalar yollarda saklıdır."*
-> — **(Anonim)**
+> *"Yeryüzünde gezip dolaşmıyorlar mı ki, akledecek kalpleri, işitecek kulakları olsun?"*
+> — **(Hac Suresi, 46)**
 
 ## 📜 Dijital Seyahatname Manifestosu
 
-> *"Yolculuk, önce seni sessizleştirir, sonra da iyi bir hikâye anlatıcısına dönüştürür."* — **İbn Battuta**
+> *"Seyahat hem dış dünyada harfleri okumak, hem de kendi iç dünyanda (tekamül sürecinde) hakikati aramaktır."* — **Geleneksel Tasavvuf Hikmeti**
 
-### 1. Amaç: Keşif ve Kayıt
-Bir gece ansızın yola düşen gezginler misali, yola çıkmak sadece bedeni değil zihni de hareket ettirmektir. Anadolu'nun kadim taşlarına, vadilerine, dağlarına dokunan rüzgarın sadece tenimizde değil, dijital hafızada da esmesini istiyoruz. Gördüğümüz her menzil, doğanın ve tarihin bize sunduğu eşsiz bir derstir. Bu repo, **unutuşa karşı açılmış dijital bir seyir defteridir.**
+### 1. Amaç: Keşif ve Tefekkür
+Bir gece ansızın yola düşen dervişler ve ulu gezginler misali, yola çıkmak sadece bedeni değil zihni ve kalbi de hareket ettirmektir. Anadolu'nun kadim taşlarına, vadilerine, dağlarına dokunan rüzgarın sadece tenimizde değil, dijital hafızada da esmesini istiyoruz. Gördüğümüz her menzil, doğanın bize sunduğu felsefi bir derstir. Bu repo, **unutuşa karşı açılmış dijital bir seyir defteridir.**
 
-### 2. Derin Belgeleme (Tarihi ve Kültürel Keşif)
-Süzegeçe yapılan "check-in"ler değil, derinlemesine keşif bizim işimiz.
-*   **Sığ Gezgin**: "Buradaydım." der.
-*   **Gerçek Gezgin**: "Burası tarihte neydi, bugün ne anlatıyor ve ben bu topraklarda kendime dair ne keşfettim?" diye sorar.
-Veri, sadece bilgi değil; bağlamdır, histir, ibrettir.
+### 2. Derin Belgeleme (Zâhiri ve Bâtıni Keşif)
+Süzegeçe yapılan "check-in"ler değil, hem görünene hem de ardındakine (batıni olana) yapılan derinlemesine keşif bizim işimiz.
+*   **Sıradan Turist**: "Buradaydım." der.
+*   **Hakikat Seyyahı (Derviş)**: "Burası tarihte neydi, bugün ne anlatıyor ve ben bu topraklarda ruhuma (tekamülüme) dair ne keşfettim?" diye sorar.
+Veri, sadece bilgi değil; bağlamdır, felsefedir, ibrettir.
 
 ### 3. Kaynaşma ve Açık Kaynak Miras
 Yunus'un *"Gelin tanış olalım"* düsturuyla, bilgi paylaştıkça çoğalır. Gezi notlarımız, rotalarımız ve keşiflerimiz; insanlığın ortak malıdır. Bu repo, gelecek nesil seyyahlara bırakılmış **açık bir mektuptur.**
 
-> *"Her yolculuk, insanın kendi içine yaptığı bir keşiftir."* — **(Anonim)**
+> *"Varlık, Allah'ın aynasıdır. Her yolculuk, insanın (insan-ı kâmil olma yolunda) kendi içine yaptığı bir keşiftir."*
 
 ### 4. Yavaş Seyahat, Hızlı Teknoloji
-Ayaklarımız toprağa basarken yavaşlamayı, manayı idrak etmeyi; teknolojiyi kullanırken ise hızlanmayı seçiyoruz. Doğayı izlerken analog, onu kaydederken dijitaliz.
+Ayaklarımız toprağa basarken yavaşlamayı, manayı idrak etmeyi; teknolojiyi kullanırken ise hızlanmayı seçiyoruz. Doğayı ve tarihi izlerken içsel (analog), onu tüm dünyayla paylaşırken dijitaliz.
 
-### 5. Gezginin Manifestosu (Traveler's Oath)
-*   **Göze değil derinliğe odaklanmaya,**
-*   **Gittiğim yerlerde iz bırakmak yerine, o yerin bende iz bırakmasına izin vermeye,**
-*   **Her dağın ardında bir sır, her viranede bir öğreti yattığını bilerek yürümeye,**
-*   **Gördüğüm her güzelliğin değerini bilip onu korumaya ant içerim.**
+### 5. Seyyahın Manifestosu (Yolcu Yemini)
+*   **Göze değil derinliğe ve gönle odaklanmaya,**
+*   **Gittiğim yerlerde iz bırakmak yerine, o yerin bende iz bırakmasına (nefsimi terbiye etmesine) izin vermeye,**
+*   **Her dağın ardında bir sır (hikmet), her viranede evrensel bir öğreti yattığını bilerek yürümeye,**
+*   **Gördüğüm her zerrede Yaratıcının sanatını ve doğanın mucizesini idrak etmeye ant içerim.**
 
 ---
 
@@ -85,10 +85,10 @@ Terminalinize sadece `python cli.py` yazın ve arkanıza yaslanın.
 
 Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri takip ettiğimiz **13 eşsiz şehir** ve keşif durakları:
 
-*   **🏰 İmparatorluklar Beşiği (Marmara):** İstanbul'un (Ayasofya, Galata, Topkapı) o büyüleyici tarihi atmosferinden; Bursa'nın yeşil dokusuna ve Kocaeli'nin sanayi ile harmanlanmış emeğine tanıklık...
-*   **🌲 Doğanın ve Kararlılığın Sesi (Karadeniz):** Amasya'da Ferhat'ın dağı delen aşkının izlerini sürmekten (Kral Kaya Mezarları); Çorum'un, Samsun'un, Sinop'un, Giresun'un ve Ordu'nun yeşille mavinin kucaklaştığı coğrafyalarına karışmaya...
-*   **🌾 Bozkırın Dingin Ruhu (İç Anadolu):** Konya'da felsefe ve hoşgörünün merkezinden (Tuz Gölü'nün doğallığıyla) geçerek; Ankara'nın Cumhuriyet'in temellerini atan vakur duruşunu hissetmeye...
-*   **🌊 Antik Kodların Fısıltısı (Akdeniz & Ege):** Antalya'nın (Kaleiçi, Olympos) kadim taşlarında asırları okumaktan; Denizli'nin şifalı doğası ve tarihi dokusuyla iç içe geçmeye...
+*   **🏰 İmparatorluklar Beşiği (Marmara):** İstanbul'un (Ayasofya, Galata) o manevi ve tarihi atmosferinden; Bursa'nın yeşil sükûnetine ve Osmanlı'nın kurucu iradesine tanıklık...
+*   **🌲 Doğanın ve Kararlılığın Sesi (Karadeniz):** Amasya'da Ferhat'ın dağı delen aşkının ardındaki hakikati aramaktan; Karadeniz sahilinin yeşille maviyi kucaklayan zikrine karışmaya...
+*   **🌾 Bozkırın Dingin Ruhu (İç Anadolu):** Konya'da Celaleddin Rumi'nin felsefe ve hoşgörü ocağından geçerek; Ankara'nın Cumhuriyet'in temellerini atan vakur duruşunu hissetmeye...
+*   **🌊 Antik Kodların Fısıltısı (Akdeniz & Ege):** Antalya'nın kadim taşlarında asırların geçiciliğini okumaktan; Denizli'nin şifalı doğası ve tarihi dokusuyla iç içe geçmeye...
 
 > *"Gitmek sadece bir bedenin yer değiştirmesi değil, zihnin de yeni ufuklara açılmasıdır."*
 
@@ -134,14 +134,14 @@ Bu seyir defteri, hem felsefi hem de dijital bir temele oturtulmuştur. Teknik a
 *   `.github/workflows`: Biz uyurken dahi, depoya düşen her yeni rotayı otomatik olarak analiz edip haritayı güncelleyen sistem (CI/CD Otomasyonu).
 *   `_Sablon/`: Her rotaya aynı özenle veri girmek için hazırlanmış standart şablonlar.
 
-### 🧭 7 Bölgenin Kültürel Dokusu
-*   **Marmara**: *Tarih ve Endüstri.* Medeniyetlerin kesiştiği, üç kıtaya uzanan köprülerin kurulduğu merkez.
-*   **Ege**: *Antik Kodlar.* Geçmişin mermere işlenmiş efsanelerinden bugüne uzanan medeniyet fısıltıları.
+### 🧭 7 Bölgenin Bâtıni ve Kültürel Dokusu
+*   **Marmara**: *Tohum ve Cihan.* Bir imparatorluğun tohumunun atıldığı, üç kıtaya uzanan köprülerin kurulduğu merkez.
+*   **Ege**: *Antik Sırlar.* Geçmişin mermere işlenmiş efsanelerinden bugüne uzanan, suyun kayayı sabırla oyduğu medeniyet fısıltıları.
 *   **Akdeniz**: *Doğa ve Liman.* Torosların heybetiyle binlerce yıllık limanları sinesine çeken kadim sükûnet.
-*   **İç Anadolu**: *Bozkırın Derinliği.* Dışarıdan kurak görünen ama bağrında muazzam bir tarih ve felsefe barındıran tevazu yurdu.
-*   **Karadeniz**: *Yeşil ve Mavi.* Hırçın dalgalarla yemyeşil ormanların kucaklaştığı, insanın doğayla bitimsiz etkileşiminin resmi.
-*   **Doğu Anadolu**: *Dağların İhtişamı.* Zorlu iklimlerde pişen hayatların, zirvelerde aradığı sade gerçeklik.
-*   **Güneydoğu Anadolu**: *Mezopotamya'nın Ninnisi.* İnsanlığın beşiği. Toprağın efsaneye dönüştüğü, medeniyetlerin nefes aldığı ilk sabah.
+*   **İç Anadolu**: *Bozkırın Derinliği (Kalbi).* Dışarıdan kurak görünen ama bağrında velilerin, dervişlerin ve büyük felsefelerin pınarlarını saklayan tevazu yurdu.
+*   **Karadeniz**: *Celâl ve Cemâl.* Hırçın dalgaların celaliyle yemyeşil ormanların cemalinin kucaklaştığı, insanın doğayla bitimsiz etkileşiminin resmi.
+*   **Doğu Anadolu**: *Dağların İhtişamı.* Zorlu iklimlerde pişen hayatların, zirvelerde aradığı sade ve mutlak gerçeklik.
+*   **Güneydoğu Anadolu**: *Mezopotamya'nın Ninnisi.* İnsanlığın beşiği. Toprağın taşa, taşın efsaneye dönüştüğü ilk sabah.
 
 ## 🤝 Katkıda Bulunma (Contributing)
 Bu proje açık kaynaklı bir mirastır. Lütfen `CONTRIBUTING.md` dosyasını inceleyin.

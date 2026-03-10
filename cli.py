@@ -23,19 +23,19 @@ class TravelCLI:
         self.map_gen = MapGenerator()
 
     def cinematic_boot(self):
-        """Simulates a system boot / traveler's preparation."""
+        """Simulates a system boot / traveler's spiritual preparation."""
         os.system('cls' if os.name == 'nt' else 'clear')
         
-        boot_text = Text("SİSTEM BAŞLATILIYOR... SEYAHATNAME vPRO", style="bold green")
+        boot_text = Text("SİSTEM BAŞLATILIYOR... DERGAH-I SEYAHAT vPRO", style="bold green")
         console.print(Panel(boot_text, expand=False, border_style="green"))
         time.sleep(0.3)
         
         steps = [
-            "Koordinatlar Yükleniyor...",
+            "Koordinatlar ve Niyet Yükleniyor...",
             "Harita Verileri Senkronize Ediliyor...",
-            "Çanta Hazırlanıyor...",
-            "Pusula Kalibre Ediliyor...",
-            "Rota Hesaplanıyor..."
+            "Heybe ve Çanta Hazırlanıyor...",
+            "Pusula ve Kalp Kalibre Ediliyor...",
+            "Tekamül Rotası Hesaplanıyor..."
         ]
         
         with Progress(
@@ -45,10 +45,10 @@ class TravelCLI:
             TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
             console=console
         ) as progress:
-            task1 = progress.add_task("[cyan]Sistem Hazırlığı", total=100)
+            task1 = progress.add_task("[cyan]Sistem ve Ruhani Hazırlık", total=100)
             
             for step in steps:
-                progress.update(task1, description=f"[cyan][BİLGİ] {step}")
+                progress.update(task1, description=f"[cyan][BİLGİ/HİKMET] {step}")
                 while progress.tasks[0].completed < progress.tasks[0].total:
                     time.sleep(0.01)
                     progress.update(task1, advance=random.randint(2, 5))
@@ -64,17 +64,17 @@ class TravelCLI:
 
     def print_menu(self):
         menu_text = (
-            "[bold cyan]1.[/bold cyan] 📝 Yeni Rota Kaydet (New Entry)\n"
-            "[bold cyan]2.[/bold cyan] 🗺️  Seyir Haritasını Çiz (Update Map)\n"
-            "[bold cyan]3.[/bold cyan] 📊 Keşif Tablosu (Dashboard)\n"
-            "[bold cyan]4.[/bold cyan] 🔍 Kayıtları Ara (Deep Search)\n"
-            "[bold cyan]5.[/bold cyan] 📦 Veriyi Dışarı Aktar (Export Analytics)\n"
-            "[bold cyan]6.[/bold cyan] ❌ Sistemi Kapat (Exit)\n"
+            "[bold cyan]1.[/bold cyan] 📝 Yeni Rota/Menzil Kaydet (New Entry)\n"
+            "[bold cyan]2.[/bold cyan] 🗺️  Manevi Seyir Haritasını Çiz (Update Map)\n"
+            "[bold cyan]3.[/bold cyan] 📊 Keşif ve Tefekkür Tablosu (Dashboard)\n"
+            "[bold cyan]4.[/bold cyan] 🔍 Hakikati/Kayıtları Ara (Deep Search)\n"
+            "[bold cyan]5.[/bold cyan] 📦 İlmi ve Veriyi Dışarı Aktar (Export)\n"
+            "[bold cyan]6.[/bold cyan] ❌ İnzivaya Çekil / Sistemi Kapat (Exit)\n"
         )
         
         panel = Panel(
             Align.center(menu_text),
-            title="[bold magenta]SEYAHATNAME vPRO[/bold magenta]",
+            title="[bold magenta]DERGAH-I SEYAHAT vPRO[/bold magenta]",
             border_style="magenta",
             expand=False
         )
@@ -92,20 +92,20 @@ class TravelCLI:
             
         console.print(table)
         
-        choice_input = Prompt.ask("[bold green]gezgin@seyahat:~[/bold green] Bölge Numarası Seç")
+        choice_input = Prompt.ask("[bold green]derviş@seyahat:~[/bold green] Bölge/İklim Numarası Seç")
         try:
             choice = int(choice_input)
             if 1 <= choice <= len(self.analytics.REGIONS):
                 region = self.analytics.REGIONS[choice-1]
             else:
-                 console.print("[bold red]>> GEÇERSİZ SEÇİM.[/bold red]")
+                 console.print("[bold red]>> GEÇERSİZ SEÇİM / NAFİLE.[/bold red]")
                  return
         except ValueError:
-             console.print("[bold red]>> GEÇERSİZ SEÇİM.[/bold red]")
+             console.print("[bold red]>> GEÇERSİZ SEÇİM / NAFİLE.[/bold red]")
              return
 
-        city = Prompt.ask("[bold green]gezgin@seyahat:~[/bold green] Hedef Şehir (örn. Konya)")
-        location = Prompt.ask("[bold green]gezgin@seyahat:~[/bold green] Ziyaret Edilen Mekan (örn. Mevlana Müzesi)")
+        city = Prompt.ask("[bold green]derviş@seyahat:~[/bold green] Hedef Şehir (örn. Konya)")
+        location = Prompt.ask("[bold green]derviş@seyahat:~[/bold green] Ziyaret Edilen Mekan/Makam (örn. Mevlana Müzesi)")
         
         region_path = os.path.join(".", region)
         city_path = os.path.join(region_path, city)
@@ -141,7 +141,7 @@ class TravelCLI:
         with open(target_file, "w", encoding="utf-8") as f:
             f.write(filled_content)
             
-        console.print(f"\n[bold green]>> KAYIT BAŞARILI:[bold green] Şuraya kaydedildi:\n{target_file}")
+        console.print(f"\n[bold green]>> KAYIT/SIR BAŞARILI:[bold green] Şuraya işlendi:\n{target_file}")
         time.sleep(1)
 
     def interactive_mode(self):
@@ -153,7 +153,7 @@ class TravelCLI:
         self.cinematic_boot()
         while True:
             self.print_menu()
-            choice = Prompt.ask("[bold green]gezgin@seyahat:~[/bold green] Komut Nedir?")
+            choice = Prompt.ask("[bold green]derviş@seyahat:~[/bold green] Niyetin/Komutun Nedir?")
             
             if choice == "1":
                 self.create_entry()

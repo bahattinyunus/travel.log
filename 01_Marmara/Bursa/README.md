@@ -1,17 +1,17 @@
-# 📍 Bursa - Seyahat ve Keşif Notları
+# 📍 Bursa - Keşif ve Tefekkür Notları
 
-## 📜 Şehir Manifestosu
+## 📜 Şehir Hikmeti (Manifesto)
 > "Bursa'da zaman, bir eski çınar gölgesinde sükutla geçer."
 > "İmparatorlukların doğuşuna tanıklık etmiş, her taşında emeğin ve tarihin izi olan topraklar."
 
-### 🌍 Şehrin Ruhu ve Kültürel Dokusu
+### 🌍 Şehrin Ruhu ve Hakikati (Kültürel Doku)
 Yeşilin ve tarihin şehri, Osmanlı'nın ilk asil başkenti. Uludağ'ın eteklerine bir inci gerdanlık gibi dizilmiş olan bu şehir, yeşilin her tonunu barındırdığı gibi, zihnin de her türlü dinginliğine ev sahipliği yapar. Ulu Cami'nin o haşmetli mimarisi, şehrin tarihi çarşılarından yayılan çekiç sesleriyle birleşir. Bursa, metropolün gürültüsünden sıyrılıp doğayla ve tarihle baş başa kalmanın adresidir.
 
-### 🕊️ Felsefi Notlar (Gezgin Perspektifi)
+### 🕊️ Bâtıni Notlar (Derviş/Gezgin Perspektifi)
 Bursa sokaklarında yürümek, bir cihan sahnnesinin kuruluşunu tefekkür etmektir. Su sesleriyle uyanıp, rüzgarın taşıdığı ipek kokusuyla uykuya dalar bu şehrin konukları.
 
-### ✨ Tarihi ve Kültürel Duraklar
-Gezginin adımlaması ve keşfetmesi tavsiye edilen önemli mekanlar:
+### ✨ Zâhiri ve Bâtıni Duraklar
+Seyyahın ve keşif tutkunlarının adımlaması, ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
 - [ ] **Ulu Cami**
 - [ ] **Tarihi Çınar**
 - [ ] **Yeşil Türbe**
@@ -19,4 +19,4 @@ Gezginin adımlaması ve keşfetmesi tavsiye edilen önemli mekanlar:
 - [ ] **Muradiye Külliyesi**
 
 ---
-*Bu il bizzat deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅
+*Bu il bizzat seyyah tarafından sırrına erilecek şekilde deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅
