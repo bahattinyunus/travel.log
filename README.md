@@ -89,7 +89,7 @@ Anadolu'nun dört bir yanındaki ayak izlerimiz (Toplam 23 Lokasyon, 13 İl):
 | ☀️ Akdeniz | Antalya | Kaleiçi | Antik Kent |
 | ☀️ Akdeniz | Antalya | Kaputaş Plajı | Plaj / Doğa |
 | ☀️ Akdeniz | Antalya | Olympos | Tarih / Doğa |
-| 🌾 İç Anadolu | Ankara | Anıtkabir | Anıt Mezar |
+| 🌾 İç Anadolu | Ankara | (Merkez) | Temas |
 | 🌾 İç Anadolu | Konya | Tuz Gölü | Doğa / Manzara |
 | 🌲 Karadeniz | Amasya | Kral Kaya Mezarları | Tarihi / Arkeoloji |
 | 🌲 Karadeniz | Amasya | Yalıboyu Evleri | Sivil Mimari |
