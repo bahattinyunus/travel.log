@@ -58,7 +58,7 @@ Bu repo, Anadolu'nun kadim yollarını adımlayan bir **seyyahın dijital seyir 
 Bu seyir defteri rastgele bir turistik gezinin değil, net bir **Seyahat Disiplini**'nin ürünüdür. Seyahatlerimiz, T.C. Gençlik ve Spor Bakanlığı'nın sunduğu **"Seyahatsever"** projesi ekseninde, sırt çantalı bir *dijital göçebe (digital nomad)* mantığıyla kurgulanmıştır:
 
 *   **Süre ve Sınırlar:** Her yaz dönemi, 45 günlük kesintisiz bir rota oluşturulur.
-*   **Konaklama Stratejisi (Düşük Bütçeli Lüks):** Gidilen her ilde, **GSB Seyahatsever** projesi kapsamında **KYK yurtlarına** yerleşilir. Seyahatin en büyük maliyet kalemi olan konaklamanın sıfırlanması, kısıtlı bir bütçeyle "uzun süreli ve yüksek kaliteli" bir gezi deneyimi yaşama lüksü sunar. Bu finansal asimetri, bütçenin ulaşım ve yeni deneyimlere (yerel lezzetler, müzeler, derin keşifler) aktarılmasını sağlar.
+*   **Konaklama Stratejisi (Düşük Bütçeli / Bütçesiz Seyahat):** Gidilen her ilde, **GSB Seyahatsever** projesi kapsamında **KYK yurtlarına** yerleşilir. Seyahatin en büyük maliyet kalemi olan konaklamanın sıfırlanması, kısıtlı bir bütçeyi hatta "olmayan bütçeyi" dahi muhafaza ederek uzun süreli seyahat etme imkanı sunar. Bu strateji, bütçeyi harcamak değil, bütçesizliğin içinde sürdürülebilir bir keşif rotası oluşturmak üzerinedir.
 *   **5 Gün Kuralı:** Her şehirde tam olarak **5 gün** kalınır. Bu süre, şehri sadece tüketmek için değil, sindirmek için belirlenmiş bir standarttır.
 *   **Yarı Mesai Sistemi (Üretim & Keşif):** Seyahat ederken üretim durmaz. Günün **ilk yarısı**, o şehrin merkezindeki bir kütüphanede (İl Halk Kütüphaneleri vb.) dijital üretim yaparak geçirilir. Günün **ikinci yarısı** ise şehrin ruhuna karışmaya ayrılır.
 
