@@ -134,31 +134,31 @@ Anadolu'nun dört bir yanındaki ayak izlerimiz (Toplam 23 Nokta):
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %18.5 (15 / 81 İl)
+**🏆 Genel İlerleme:** %16.0 (13 / 81 İl)
 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-> *Sadece `Mevcut Kapsam` tablosunda belirtilen rotalar tescillenmiş sayılır.*
+> *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
-**🏰 Marmara Bölgesi (2/11)**
-❌ Balıkesir • ❌ Bilecik • ❌ Bursa • ❌ Edirne • ❌ Kocaeli • ❌ Kırklareli • ❌ Sakarya • ❌ Tekirdağ • ❌ Yalova • ✅ **Çanakkale** • ✅ **İstanbul**
+**🏰 Marmara Bölgesi (3/11)**
+❌ Balıkesir • ❌ Bilecik • ✅ **Bursa** • ❌ Edirne • ✅ **Kocaeli** • ❌ Kırklareli • ❌ Sakarya • ❌ Tekirdağ • ❌ Yalova • ❌ Çanakkale • ✅ **İstanbul**
 
 **🌊 Ege Bölgesi (1/8)**
-❌ Afyonkarahisar • ❌ Aydın • ❌ Denizli • ❌ Kütahya • ❌ Manisa • ❌ Muğla • ❌ Uşak • ✅ **İzmir**
+❌ Afyonkarahisar • ❌ Aydın • ✅ **Denizli** • ❌ Kütahya • ❌ Manisa • ❌ Muğla • ❌ Uşak • ❌ İzmir
 
-**☀️ Akdeniz Bölgesi (2/8)**
-❌ Adana • ✅ **Antalya** • ❌ Burdur • ❌ Hatay • ❌ Isparta • ❌ Kahramanmaraş • ✅ **Mersin** • ❌ Osmaniye
+**☀️ Akdeniz Bölgesi (1/8)**
+❌ Adana • ✅ **Antalya** • ❌ Burdur • ❌ Hatay • ❌ Isparta • ❌ Kahramanmaraş • ❌ Mersin • ❌ Osmaniye
 
-**🌾 İç Anadolu Bölgesi (3/13)**
-❌ Aksaray • ✅ **Ankara** • ❌ Eskişehir • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ✅ **Nevşehir** • ❌ Niğde • ❌ Sivas • ❌ Yozgat • ❌ Çankırı
+**🌾 İç Anadolu Bölgesi (2/13)**
+❌ Aksaray • ✅ **Ankara** • ❌ Eskişehir • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ❌ Nevşehir • ❌ Niğde • ❌ Sivas • ❌ Yozgat • ❌ Çankırı
 
-**🌲 Karadeniz Bölgesi (3/18)**
-✅ **Amasya** • ❌ Artvin • ❌ Bartın • ❌ Bayburt • ❌ Bolu • ❌ Düzce • ❌ Giresun • ❌ Gümüşhane • ❌ Karabük • ❌ Kastamonu • ❌ Ordu • ✅ **Rize** • ❌ Samsun • ❌ Sinop • ❌ Tokat • ✅ **Trabzon** • ❌ Zonguldak • ❌ Çorum
+**🌲 Karadeniz Bölgesi (6/18)**
+✅ **Amasya** • ❌ Artvin • ❌ Bartın • ❌ Bayburt • ❌ Bolu • ❌ Düzce • ✅ **Giresun** • ❌ Gümüşhane • ❌ Karabük • ❌ Kastamonu • ✅ **Ordu** • ❌ Rize • ✅ **Samsun** • ✅ **Sinop** • ❌ Tokat • ❌ Trabzon • ❌ Zonguldak • ✅ **Çorum**
 
-**🏔️ Doğu Anadolu Bölgesi (3/14)**
-❌ Ardahan • ✅ **Ağrı** • ❌ Bingöl • ❌ Bitlis • ❌ Elazığ • ❌ Erzincan • ❌ Erzurum • ❌ Hakkari • ❌ Iğdır • ✅ **Kars** • ❌ Malatya • ❌ Muş • ❌ Tunceli • ✅ **Van**
+**🏔️ Doğu Anadolu Bölgesi (0/14)**
+❌ Ardahan • ❌ Ağrı • ❌ Bingöl • ❌ Bitlis • ❌ Elazığ • ❌ Erzincan • ❌ Erzurum • ❌ Hakkari • ❌ Iğdır • ❌ Kars • ❌ Malatya • ❌ Muş • ❌ Tunceli • ❌ Van
 
-**🏜️ G.Doğu Anadolu Bölgesi (1/9)**
-❌ Adıyaman • ❌ Batman • ❌ Diyarbakır • ❌ Gaziantep • ❌ Kilis • ✅ **Mardin** • ❌ Siirt • ❌ Şanlıurfa • ❌ Şırnak
+**🏜️ G.Doğu Anadolu Bölgesi (0/9)**
+❌ Adıyaman • ❌ Batman • ❌ Diyarbakır • ❌ Gaziantep • ❌ Kilis • ❌ Mardin • ❌ Siirt • ❌ Şanlıurfa • ❌ Şırnak
 
 ## 🧬 Sistem Mimarisi
 *   `01_...07_Regions/`: Ana veri katmanı.
