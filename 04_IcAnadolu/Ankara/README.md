@@ -1,14 +1,21 @@
 # 📍 Ankara - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
-> "Taşa ve yokluğa karşı dikilen bir irade, en güçlü çelikten daha serttir."
-> "Yorgun bir bozkırda imkansızın nasıl başardığını haykıran, vakur ve kararlı başkent."
+> "Taşa ve yokluğa karşı dikilen bir Cumhuriyet iradesi, dünyadaki en güçlü çelikten daha aşılmazdır."
+> "Yorgun bir bozkırda imkansızın nasıl başarıldığını haykıran, vakur, kararlı ve devrimci başkent."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Anadolu'nun kalbi, Friglerden günümüz Cumhuriyetine uzanan, daima ayakta kalmanın direncini simgeleyen şehir. Güçlü ayazı insanın tenini sıyırırken, sokaklarındaki ciddiyet ve kararlılık ruhu ateşler. Görkemli binaların veya parıltının değil; emeğin, kararlılığın ve inancın merkezidir.
+Anadolu'nun kalbi, Friglerden Cumhuriyetin kuruluş yıllarına kadar uzanan, daima ayakta kalmanın direncini simgeleyen şehir. Güçlü ayazı insanın tenini sıyırsa da, sokaklarındaki ciddiyet ve kararlılık devletin ve milletin ruhunu ateşler.
+
+Ankara, görkemli sarayların veya boğaz parıltısının değil; emeğin, kararlılığın, diplomasinin ve 'kendi küllerinden doğma' inancının merkezidir. Ulus meydanındaki her kaldırım taşı Cumhuriyetin ilk adımlarını şahididir.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Ankara bize zorluklara karşı dik durmayı öğretir. Hiçbir şeyin kolay verilmediği bu topraklarda atılan her temel, inancın imkansızlıkları nasıl yarıp geçtiğine dair sessiz bir derstir.
+Ankara bize en büyük zorluklara karşı dik durmayı öğretir. Hiçbir şeyin altın tepside sunulmadığı, aksine tırnaklarla kazınarak kazanıldığı bu topraklarda atılan her sağlam temel, inancın imkansızlıkları nasıl yarıp geçtiğine dair bir belgeseldir.
+
+### 🍽️ Yöresel Lezzet Tavsiyeleri
+- **Ankara Simidi:** Pekmezi bol, dışı çıtır, içi tel tel dökülen vazgeçilmez sabah lezzeti.
+- **Ankara Tava:** Arpa şehriye ve ağır ateşte pişmiş kuzu etinin doyurucu senfonisi.
+- **Beypazarı Kurusu:** Çay masalarının aylarca bayatlamayan, tarçın kokulu yoldaşı.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
@@ -23,8 +30,9 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Anıtkabir**
 - [ ] **Ankara Kalesi**
 - [ ] **Anadolu Medeniyetleri Müzesi**
+- [ ] **I. ve II. Meclis Binaları**
 - [ ] **Atakule**
-- [ ] **Kuğulu Park**
+- [ ] **Eymir Gölü**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

@@ -1,14 +1,21 @@
 # 📍 Antalya - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
-> "Sonsuz maviliğin ufku, geçmişi hatırlar ancak daima yarına daha umutla bakar."
-> "Kayalıklarına çarpıp geri çekilen suların, asırların mirasını şefkatle yıkadığı cennet kıyı."
+> "Sonsuz maviliğin ufku, geçmişi derinliklerinde hatırlar ancak daima doğacak yeni güne daha büyük umutla bakar."
+> "Kayalıklarına gürültüyle çarpıp geri çekilen suların, asırların mirasını şefkatle yıkadığı sıcak Akdeniz cenneti."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Akdeniz'in vitrini; güneşi, tarihi ve doğayı cömertçe kucaklayan sıcak coğrafya. Bir yanda Torosların heybeti, diğer yanda insanın ruhunu yatıştıran engin mavi. Kaleiçi'nin dar ve nostaljik sokaklarında yürürken, antik krallıkların ayak seslerini ve yorgun denizcilerin rahat nefesini hissedersiniz.
+Akdeniz'in şüphesiz vitrini; güneşi, Likya ve Pamfilya antik kentlerini ve turkuaz doğayı cömertçe kucaklayan o sıcak coğrafya. Bir yanda Torosların kar kaplı heybeti dururken, diğer yanda insanın ruhunu yatıştıran engin mavi plajlar uzanır.
+
+Kaleiçi'nin begonvillerle süslenmiş, dar ve nostaljik sokaklarında yürürken, antik krallıkların ayak seslerini ve yorgun kalyoncuların kalkanlara vuran mızrak seslerini bir film şeridi gibi hissedersiniz.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Güneyin bu kızgın güneşi ve tatlı tuzlu suyu, bedeni yorarken zihni tazeler. Her kalıntı, geçmiş zamanın telaşının ne denli boş olduğunu, asıl gerçeğin anı yaşamak (Carpe diem'in en samimi hali) olduğunu fısıldar.
+Güneyin bu kızgın Akdeniz güneşi ve şifalı tatlı-tuzlu suyu, bedeni yorarken zihni tazeler. Karşınıza çıkan her amfi tiyatro ve kalıntı, geçmiş zamanın dünya telaşının ne denli boş olduğunu, asıl gerçeğin o anı en güzel şekilde yaşamak olduğunu fısıldar.
+
+### 🍽️ Yöresel Lezzet Tavsiyeleri
+- **Piyaz (Antalya Usulü):** Tahinli, sirkeli sosuyla alışılagelmiş piyazları unutturan, kendi başına harika bir öğün.
+- **Hibeş:** Tahin, sarımsak, limon ve baharatların harmanından doğan muazzam yerel meze.
+- **Yanık Dondurma (Keçi Sütlü):** İsli, yanık kokulu ve sakızlı eşsiz bir serinletici.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
@@ -20,11 +27,11 @@ Güneyin bu kızgın güneşi ve tatlı tuzlu suyu, bedeni yorarken zihni tazele
 
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
-- [ ] **Kaleiçi**
-- [ ] **Hadrian Kapısı**
-- [ ] **Olympos Antik Kenti**
-- [ ] **Phaselis**
-- [ ] **Kurşunlu Şelalesi**
+- [ ] **Tarihi Kaleiçi ve Yivli Minare**
+- [ ] **Hadrian Kapısı (Üç Kapılar)**
+- [ ] **Olympos ve Phaselis Antik Kentleri**
+- [ ] **Düden ve Kurşunlu Şelaleleri**
+- [ ] **Aspendos Antik Tiyatrosu**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

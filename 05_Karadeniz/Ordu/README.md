@@ -1,14 +1,21 @@
 # 📍 Ordu - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
-> "Göğe ne kadar yükselir ve yeryüzüne şefkatle bakarsan, yollar o kadar aydınlanır."
-> "Bulutların üzerine kurulan tahtından, Karadeniz'in dantel gibi örülmüş kıyılarını izleyen şehir."
+> "Göğe ne kadar yükselir ve aşağıya kibirle değil de şefkatle bakarsan, önündeki yollar ve denizler o kadar aydınlanır."
+> "Bulutların üzerine kurulan tahtından, Karadeniz'in ince dantel gibi örülmüş muazzam kıyılarını izleyen zarif şehir."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Boztepe'den bakıldığında ayakların atında uzanan muazzam manzaranın şehri. Yaylalarının uçsuz bucaksız sisli tepeleri, kıyıların eşsiz sükunetiyle birleşir. Dağların omuzlarında kurulu bu şehir, Karadeniz'in en nazlı ve narin çocuklarından biridir.
+Boztepe'ye çıkıp teleferikten bakıldığında, ayağınızın altında uzanan o muazzam yeşil ve mavi uçurumun şehri. Yaylalarının (Perşembe, Çambaşı) uçsuz bucaksız sisli tepeleri, mendereslerin muazzam kıvrımları ve kıyıların eşsiz sükuneti birleşir.
+
+Burası, insanın metropol gürültüsünden kaçıp kafa dinlemek için haritadan gözü kapalı seçeceği, doğanın merhametli kollarında kurulu, Karadeniz'in en nazlı çocuklarından biridir.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Yüksek bir tepeden o uçsuz bucaksız denize ve yeşile bakmak, insanın dünyanın ne kadar devasa, kendisinin ise ne kadar narin bir zerreden ibaret olduğunu anlaması için yeterlidir.
+Yüksek bir tepeden o uçsuz bucaksız denize ve ucu bucağı görünmeyen ormanlara bakmak; insanın evrenin ne kadar devasa, kendisinin ve dertlerinin ise ne kadar narin bir zerreden ibaret olduğunu anlaması için ruhsal bir aynadır.
+
+### 🍽️ Yöresel Lezzet Tavsiyeleri
+- **Ordu Tostu:** İki kalın ekmek dilimi arasına konulan özel sucuk ezmesinin preslenmesiyle yapılan kült sokak lezzeti.
+- **Yalıköy Köftesi:** Baharatsız, sadece etin kendi muazzam lezzetiyle şekillendirilen Karadeniz köftesi.
+- **Melocan (Diken Ucu) Kavurması:** Doğadan toplanan narin bitkilerin yöresel bir kavurmayla şölene dönüşmesi.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
@@ -20,9 +27,9 @@ Yüksek bir tepeden o uçsuz bucaksız denize ve yeşile bakmak, insanın dünya
 
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
-- [ ] **Boztepe**
-- [ ] **Yason Burnu**
-- [ ] **Perşembe Yaylası**
+- [ ] **Boztepe ve Teleferik**
+- [ ] **Yason Burnu ve Kilisesi**
+- [ ] **Perşembe Yaylası (Menderesler)**
 - [ ] **Kurul Kalesi**
 
 ---

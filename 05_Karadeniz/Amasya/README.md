@@ -1,14 +1,21 @@
 # 📍 Amasya - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
-> "Kayaya kazınan en büyük iz güç değil, suların getirdiği yaşamdır."
-> "Nehrin ikiye böldüğü, kralların gölgesiyle dağların şarkısının birbirine karıştığı vadi."
+> "Kayaya kazınan en büyük iz kralların gücü değil, vadiden usulca akan suların getirdiği yaşamdır."
+> "Nehrin ikiye böldüğü, Ferhat'ın gölgesiyle dağların şarkısının rüzgarda birbirine karıştığı elma kokulu vadi."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Yeşilırmak'ın nazlı nazlı aktığı dar bir vadiye gizlenmiş masal şehri. Nehrin iki yakasındaki yalıboyu evleri, onların üstüne yükselen hırçın kayalar ve bu kayalara kazınmış antik mezarlar... Amasya, nehrin ritmiyle tarihin donup kaldığı efsunlu bir seyir terasıdır.
+Yeşilırmak'ın nazlı nazlı aktığı dar ve sarp bir vadiye gizlenmiş masal şehri. Nehrin iki yakasını süsleyen ince işçilikli yalıboyu evleri, onların üstüne heybetle yükselen hırçın kayalar ve bu kayalara kazınmış iki bin yıllık Pontus antik Kral Kaya mezarları...
+
+Amasya, nehrin ritmiyle tarihin donup kaldığı bir seyir terasıdır. Şehzadelerin devlet yönetmeyi öğrendikleri bu topraklar, küçük yüzölçümüne rağmen kültürel olarak bir imparatorluk büyüklüğündedir.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Bir dağın sinesine kazınmış o kocaman mezarlar bile zamanın karşısında ufalanır; fakat o ırmak asırlardır hep aynı türküyü söyler. İnsana kalıcı olanın kibir ve güç değil, doğanın bitimsiz akışı olduğunu anlatır.
+Bir dağın sinesine kibre kapılarak kazınmış o kocaman kral mezarları bile zamanın karşısında ufalanır; fakat o mütevazı görünümlü ırmak asırlardır hep aynı türküyü söyler. Amasya insana kalıcı olanın güç değil, doğanın akışına uyum sağlamak olduğunu öğretir.
+
+### 🍽️ Yöresel Lezzet Tavsiyeleri
+- **Amasya Çöreği:** Haşhaş ve cevizin odun ateşinde buluştuğu efsane lezzet.
+- **Keşkek:** Özel günlerin ve bayramların büyük bakır kazanlarda dövülerek yapılan baştacı yemeği.
+- **Misket Elması:** Sulu, kokulu ve şehrin simgesi olan enfes meyve.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
@@ -22,8 +29,10 @@ Bir dağın sinesine kazınmış o kocaman mezarlar bile zamanın karşısında 
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Kral Kaya Mezarları**
 - [ ] **Amasya Kalesi**
-- [ ] **Yalıboyu Evleri**
+- [ ] **Amasya Yalıboyu Evleri**
+- [ ] **Hazeranlar Konağı**
 - [ ] **Ferhat ile Şirin Aşıklar Müzesi**
+- [ ] **II. Bayezid Külliyesi**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

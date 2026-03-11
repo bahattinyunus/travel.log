@@ -1,14 +1,21 @@
 # 📍 Samsun - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
-> "En hırçın fırtınalarda uyanan irade, dalgaları uysallaştıran tek pusuladır."
-> "Kurtuluşa atılan o ilk sağlam adımın, denizin tuzuna karışıp bir milleti dirilttiği liman."
+> "En hırçın fırtınalarda uyanan irade, coşkulu dalgaları uysallaştıran ve rotayı çizen tek pusuladır."
+> "Kurtuluşa atılan o tarifsiz ilk sağlam adımın, denizin tuzuna karışıp bir milleti dirilttiği özgürlük limanı."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Karadeniz'in deli dalgalarına karşı hep bir fener gibi durmuş, umudun limanı. Dağlardan denize doğru uzanan yemyeşil tepelerin ve hırçın Karadeniz sahilinin tam ortasında bir direniş şehridir. Rüzgar burada her zaman bağımsızlığı fısıldar.
+Karadeniz'in deli dalgalarına karşı hep bir fener gibi aydınlık ve dik durmuş umudun şehri. Dağlardan denize doğru uzanan yemyeşil tepelerin ve hırçın Karadeniz sahilinin tam ortasında, medeniyet ve doğanın büyük kucaklaşmasıdır.
+
+Atatürk'ün Bandırma Vapuru ile ufukta göründüğü o tarihi anın ruhunu tütünde, denizde ve rüzgarda her an hissedebilirsiniz. Karadeniz'in en modern şehirlerinden biri olarak ticareti, tarihi ve gençliği aynı sokaklarda barındırır.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Bazen gitmek değil, tam aksine dalgaların üzerine doğru 'ilk adımı' atmak gerekir. Hayattaki tüm korku ve engeller, insanın karar verip bir adım atmasıyla aşılmaya başlanır.
+Bazen pasif kalıp beklemek değil, tam aksine dalgaların üzerine doğru inançla o 'ilk adımı' atmak gerekir. Hayattaki tüm korkular, umutsuzluklar ve engeller, insanın karar verip Bandırma misali yola çıkmasıyla küçülmeye başlar.
+
+### 🍽️ Yöresel Lezzet Tavsiyeleri
+- **Bafra Pidesi:** İncecik, kapalı hamurun içinde bol tereyağı ile harmanlanmış kıymalı şaheser.
+- **Terme Pidesi:** Daha yumuşak, açık ve sucuk/kaşar varyasyonlarıyla zengin lezzet.
+- **Çakallı Menemeni:** Suyunu çektirip peynirle karamelleşen, ekmek bandırmalık efsanevi yol üstü kahvaltısı.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
@@ -20,10 +27,11 @@ Bazen gitmek değil, tam aksine dalgaların üzerine doğru 'ilk adımı' atmak 
 
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
-- [ ] **Onur Anıtı**
-- [ ] **Bandırma Vapuru**
+- [ ] **Onur Anıtı (Atatürk Heykeli)**
+- [ ] **Bandırma Vapuru ve Milli Mücadele Parkı**
 - [ ] **Amisos Tepesi**
 - [ ] **Amazon Köyü**
+- [ ] **Kurtuluş Yolu**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

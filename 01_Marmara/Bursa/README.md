@@ -1,14 +1,21 @@
 # 📍 Bursa - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
-> "Dağın yüceliği zirvesinden değil, eteklerindeki çınarlara verdiği hayattan gelir."
-> "Suyun sesine karışan çınar yapraklarının, bir çınarın gölgesinde büyüyen medeniyetin beşiği."
+> "Dağın yüceliği sadece zirvesindeki karlardan değil, eteklerindeki çınarlara verdiği can suyundan gelir."
+> "Suyun sesine karışan ulu çınar yapraklarının, bir imparatorluğun doğuşuna beşiklik ettiği yeşil başkent."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Uludağ'ın eteklerine yaslanmış, yeşiliyle ve suyuyla nefes alan asil şehir. Her köşebaşından bir çeşme sesi gelir; her sokakta tarihin ahşap ve taşlarla ilmek ilmek işlenmiş bir sükuneti vardır. Bursa, doğa ile insanın en zarif şekilde uyumlandığı kadim bir huzur yuvasıdır.
+Uludağ'ın eteklerine şefkatle yaslanmış, yeşiliyle ve suyuyla her nefeste hayat bulan asil Osmanlı şehri. Her köşebaşındaki tarihi bir şadırvandan su sesi gelir; dar sokaklarında ahşap ve taşlarla ilmek ilmek işlenmiş, asırlara meydan okuyan bir sükunet vardır.
+
+Bursa, doğa ile insanın, yeşil ile mimarinin en zarif şekilde uyumlandığı kadim bir huzur yuvasıdır. Hanlar bölgesindeki çay molaları, zamanın burada daha yavaş aktığının en büyük kanıtıdır.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Ulu bir çınarın altında oturup dinlenmek, kök salmanın ve sabrın gücünü öğretir. Bursa, ne kadar büyürse büyüsün, o ilk toprağa düşen tohumun tevazusunu hep koruması gerektiğini fısıldar.
+Tarihi İnkaya çınarının altında kök salmak ve göğe yükselmek üzerine düşünmek, insana sabrın gücünü öğretir. Bursa, ne kadar büyürse büyüsün, o ilk toprağa düşen Osman Gazi tohumunun tevazusunu hep koruması gerektiğini sessizce anlatır.
+
+### 🍽️ Yöresel Lezzet Tavsiyeleri
+- **Tarihi İskender Kebap:** Pide, tereyağı, enfes döner ve salçanın 1800'lerden gelen büyük buluşması.
+- **Pideli Köfte:** Kayhan çarşısında esnafın en sevdiği, iskenderin mütevazı ama bir o kadar lezzetli kardeşi.
+- **Tahinli Pide:** Sabahın erken saatlerinde fırından yeni çıkmış, çayın en büyük yoldaşı.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
@@ -25,6 +32,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Yeşil Türbe**
 - [ ] **Koza Han**
 - [ ] **Cumalıkızık**
+- [ ] **Tophane**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

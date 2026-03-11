@@ -1,14 +1,21 @@
 # 📍 Sinop - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
-> "En karanlık zindan dört duvar arası değil, insanın kendi kendine ördüğü sınırlardır."
-> "Hırçın Karadeniz ile huzurlu limanın buluştuğu, kendi gölgesiyle baş başa kalan yarımada."
+> "En karanlık zindan kalın dört duvar arası ve demir parmaklıklar değil, insanın kendi kafasında ördüğü sınırlardır."
+> "Hırçın Karadeniz ile huzurlu limanın buluştuğu, deniz kokulu yalnızlığıyla baş başa kalan filozof yarımada."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Gölgelerin ve dinginliğin şehri. Anadolu'nun en kuzey ucu, dalgaların duvarları dövdüğü, ormanın adeta denize döküldüğü efsanevi yarımada. Dar sokaklarında deniz kokusu ve rüzgar hiç eksik olmaz. Hem bir inziva köşesi hem de doğal bir hapishane kadar izole ve vakurdur.
+Gölgelerin, sükunetin ve en kuzeyin şehri. Anadolu'nun denize bir mızrak ucu gibi uzanan en uç noktası. Dalgaların yüzlerce yıllık kale duvarlarını dövdüğü, ormanın adeta denize döküldüğü ve insanın doğayla baş başa kaldığı efsanevi bir liman!
+
+Dar sokaklarında deniz kokusu evlerin pencerelerinden içeri dolar. Hem inziva köşesi arayan bir bilge kadar huzurlu, hem de asırlık tarihi cezaevinin ürpertici havasını taşıyan acılı bir hafıza mekanıdır. Diogenes'in fenerle gündüz vakti insan aradığı bu topraklar, tefekkürün tam merkezidir.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Tarihi cezaevinin ürpertici havası ve soğuk duvarları, özgürlüğün değerini; dışarıdaki uçsuz bucaksız deniz ise insanın içindeki sonsuzluk tutkusunu temsil eder.
+Tarihi cezaevinin nemli, ürpertici havası ve soğuk duvarları bize dışarıdaki özgürlüğün, bir nefes almanın değerini hatırlatırken; duvarın hemen dibindeki uçsuz bucaksız deniz, insanın kalbindeki sınır tanımaz umudu ve sonsuzluk tutkusunu temsil eder.
+
+### 🍽️ Yöresel Lezzet Tavsiyeleri
+- **Sinop Mantısı (Cevizli Mantı):** Yarısı yoğurtlu, yarısı bol cevizli olarak sunulan sıradışı bir hamur işi vizyonu.
+- **Nokul:** Üzümlü ve cevizli, çay saatlerinin başrol oyuncusu, kıyır kıyır bir yöresel börek/çörek.
+- **Taze Karadeniz Balıkları:** Özellikle kış aylarında İnceburun açıklarından tutulan hamsi ve istavrit.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
@@ -23,7 +30,8 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Tarihi Sinop Cezaevi**
 - [ ] **Sinop Kalesi**
 - [ ] **Hamsilos Tabiat Parkı**
-- [ ] **Erfelek Şelaleleri**
+- [ ] **Erfelek Tatlıca Şelaleleri**
+- [ ] **İnceburun Deniz Feneri**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅
