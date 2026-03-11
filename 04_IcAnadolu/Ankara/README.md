@@ -9,8 +9,12 @@ Anadolu'nun kalbi, Friglerden Cumhuriyetin kuruluş yıllarına kadar uzanan, da
 
 Ankara, görkemli sarayların veya boğaz parıltısının değil; emeğin, kararlılığın, diplomasinin ve 'kendi küllerinden doğma' inancının merkezidir. Ulus meydanındaki her kaldırım taşı Cumhuriyetin ilk adımlarını şahididir.
 
+Anıtkabir'in aslanlı yolundan yürürken hissedilen o devasa ağırlık ve minnet duygusu, Kurtuluş Savaşı müzesindeki yırtık çarıklara bakınca boğaza düğümlenen o hüzünlü saygı... Ankara, pes etmemenin, küllerinden bir Anka kuşu gibi yeniden doğmanın adıdır. Eymir'in sonbahar yapraklarında dahi bu şehrin o vakur ve ketum melankolisinden bir parça bulabilirsiniz.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Ankara bize en büyük zorluklara karşı dik durmayı öğretir. Hiçbir şeyin altın tepside sunulmadığı, aksine tırnaklarla kazınarak kazanıldığı bu topraklarda atılan her sağlam temel, inancın imkansızlıkları nasıl yarıp geçtiğine dair bir belgeseldir.
+
+Bu gri şehir insana gösterişin ve ihtişamın aslında çok ucuz, ancak çalışmanın, liyakatin ve çabanın paha biçilemez olduğunu hissettirir. Sade bir memur şehrinin ardında yatan o güçlü karakter, inancın her türlü yokluğu ve sarı bozkırı nasıl aydınlık bir geleceğe ve yemyeşil umutlara çevirebileceğinin en somut manevi şahididir.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Ankara Simidi:** Pekmezi bol, dışı çıtır, içi tel tel dökülen vazgeçilmez sabah lezzeti.
@@ -33,6 +37,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **I. ve II. Meclis Binaları**
 - [ ] **Atakule**
 - [ ] **Eymir Gölü**
+- [ ] **Hamamönü**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

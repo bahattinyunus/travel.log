@@ -9,8 +9,12 @@
 
 Mevlana'nın yüzyılları aşan 'Ne olursan ol gel' çağrısının yankılandığı sokaklarında gezinirken, sarının ve toprağın her tonu güneşte parlar. Konya, insanın dış dünyadaki karmaşayı geride bırakıp içselliğine uzandığı mistik bir kervansaraydır.
 
+Alaeddin Tepesi'ndeki ulu ağaçların dibinde Selçuklu sancağının ihtişamını, Karatay Medresesi'nin yıldızlı çinilerinde evrenin sonsuzluğunu hissedersiniz. Sille'nin kireç badanalı dar sokakları ve zamana direnen kiliseleri, bu topraklardaki çok kültürlü hoşgörünün ve derin sevginin taşa kazınmış en zarif halidir.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Konya'da bozkır rüzgârını dinlemek, insanın kendi gürültüsünden kaçıp sükunetini bulması gibidir. Burada göğe uzanan sadece yeşil çinili minareler değil; sevgiyle, estetikle ve tevazuyla yükselen ulu bir düşünce sisteminin kökleridir. Her semazen dönüşünde kainatın sırrını fısıldar.
+
+İnsan, Mevlana türbesinin loş ve mistik atmosferinde durduğunda, 'hiç' olmanın aslında 'hep' olmak demek olduğunu, makamın ve kibrin eriyip bir damla gözyaşına dönüştüğünü idrak eder. Bozkırın kuraklığı, aslında içimizdeki sönmeyen ilahi aşk ateşinin yanabilmesi için hazırlanmış manevi bir fırın gibidir.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Etliekmek:** İnce hamur, ustalık ve odun ateşinin harika buluşması (özellikle Havzan veya Meram bölgesinde).
@@ -32,6 +36,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Karatay Medresesi**
 - [ ] **Sille Köyü**
 - [ ] **Kelebekler Vadisi**
+- [ ] **İnce Minareli Medrese**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

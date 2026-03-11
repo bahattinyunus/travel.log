@@ -9,8 +9,12 @@ Ormanın denize paralel bir sükunet ve inatla uzandığı, sislerin ardında gi
 
 Sadece adasındaki Amazon efsaneleri değil, yaylarındaki uçsuz bucaksız yeşil dalgalar da Giresun'u Karadeniz'in en otantik ve dokusu bozulmamış incilerinden biri yapar.
 
+Kuzalan Şelalesi'nin o efsunlu, mistik turkuaz rengi suları ve Kümbet yaylasının o oksijen deposu çam ormanları arasında insan, şehir hayatının ne kadar sentetik, doğanın ise ne kadar hakiki ve anaç olduğunu hisseder. Giresun'da zaman, çay bahçelerinden denize inen dik patikalarda asuman bir huzurla ağır ağır akar.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Doğadaki her türlü zorluk ve ulaşılamazlık, sabır ve emekle yoğrulduğunda en tatlı meyvelerini (örneğin fındığı) cömertçe sunar. İnsan doğanın bu inatçı ama verimli karakterine bakıp kendi içindeki çetin mücadelelerin de eninde sonunda çiçek açacağını idrak edebilir.
+
+Giresun Adasındaki o suskun Amazon yıkıntıları ve Karadeniz'in hırçın esintisi, bir zamanların en yenilmez komutanlarının bile nasıl doğanın döngüsü içinde silinip gittiğini, elimizde kalanın sadece tabiata olan saygı ve yeryüzüne bıraktığımız iyilikler olduğunu kulağımıza fısıldar.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Giresun Kalite Fındık:** Dünyanın en iyi, en yağlı ve lezzetli tombul fındığı.
@@ -32,6 +36,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Mavi Göl**
 - [ ] **Giresun Adası (Aretias)**
 - [ ] **Kümbet Yaylası**
+- [ ] **Sis Dağı**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

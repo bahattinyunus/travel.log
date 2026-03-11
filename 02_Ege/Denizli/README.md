@@ -9,8 +9,12 @@ Uzaktan pamuk tarlaları gibi görünen travertenlerin bembeyaz şefkati ve heme
 
 Denizli, tekstilin, dokumanın ve tabiatın en zarif işçiliğini birleştirerek yeryüzü tuvalinde sergilediği inanılmaz bir sanat atölyesi gibidir.
 
+Laodikeia'da gezinirken İncil'de geçen yedi kiliseden birinde durduğunuzu farz ederken, antik havuzun içinde gladyatör sutunlarına dokunarak yüzmenin o olağanüstü mitolojik aurasına kapılabilirsiniz. Dokuma tezgahlarının o ritmik 'tık tık' sesleri, ezelden beri süre gelen bir bereketin kalp atışı gibidir.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Travertenleri adım adım, milim milim oluşturan o incecik damlalar bize sadece 'damlaya damlaya göl olur' demez; 'israr ederek, damlaya damlaya imkansız doğa mucizeleri yaratılır' der. Dünyadaki her büyük güzelliğin ardında asırlık sessiz bir sabır ve yavaş ama tükenmez bir gayret yatar.
+
+Hierapolis'in o büyüleyici mezarlık alanı (Nekropol), ölümün bile bir sanat, bir saygı ve bir huzur sükuneti içinde ele alınabileceğini gösterir. Pamuk gibi bembeyaz kalkerlerin altında yatan o fokurdayan kırmızı termal sular, insanın en dingin dış görünüşünün ardında bile sönmeyen, tutkulu bir ateş barındırdığının nişanesidir.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Denizli Kebabı (Fırın Kebabı):** Elle yenmesi adet olan, sakız odunu ateşinde taş fırınlarda pişen kuzu şöleni.
@@ -32,6 +36,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Laodikeia Antik Kenti**
 - [ ] **Karahayıt Kırmızı Su Suları**
 - [ ] **Teleferik ve Bağbaşı Yaylası**
+- [ ] **Güney Şelalesi**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

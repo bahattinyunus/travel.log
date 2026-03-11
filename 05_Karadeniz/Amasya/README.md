@@ -9,8 +9,12 @@ Yeşilırmak'ın nazlı nazlı aktığı dar ve sarp bir vadiye gizlenmiş masal
 
 Amasya, nehrin ritmiyle tarihin donup kaldığı bir seyir terasıdır. Şehzadelerin devlet yönetmeyi öğrendikleri bu topraklar, küçük yüzölçümüne rağmen kültürel olarak bir imparatorluk büyüklüğündedir.
 
+Harşena Dağı'nın eteklerine serpiştirilmiş medreseler, köprüler ve camiler, sanki nehirle bir uyum anlaşması imzalamış gibidir. Geceleri Yeşilırmak'ın üzerine düşen o yumuşak yalı ışıkları, şehri adeta altın tozu serpilmiş efsunlu bir Ortaçağ masalına çevirir.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Bir dağın sinesine kibre kapılarak kazınmış o kocaman kral mezarları bile zamanın karşısında ufalanır; fakat o mütevazı görünümlü ırmak asırlardır hep aynı türküyü söyler. Amasya insana kalıcı olanın güç değil, doğanın akışına uyum sağlamak olduğunu öğretir.
+
+Ferhat'ın Şirin için dağları deldiği bu sarp kayalıklar, mecazi aşkın nasıl ilahi bir gayrete ve sebatkarlığa dönüşebileceğini anlatır. Vadinin dar ve basık yapısı aslında bir sığınak gibi insanı dünyanın şerrinden uzaklaştırıp, kendi kalbinin en korunaklı köşesinde tefekküre daldırır.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Amasya Çöreği:** Haşhaş ve cevizin odun ateşinde buluştuğu efsane lezzet.
@@ -33,6 +37,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Hazeranlar Konağı**
 - [ ] **Ferhat ile Şirin Aşıklar Müzesi**
 - [ ] **II. Bayezid Külliyesi**
+- [ ] **Sabuncuoğlu Şerefeddin Tıp Müzesi**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

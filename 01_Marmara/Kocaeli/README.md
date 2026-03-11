@@ -9,8 +9,12 @@ Denizin kıyısında, körfez köprülerinin ağzında, demirin, plastiğin ve a
 
 Kocaeli, gece gündüz uyumayan bir üretim arzusuyla, dağların arkasındaki gizli doğanın sürekli bir mücadele ve denge içinde yaşadığı, dinamik bir şehirdir.
 
+Eskihisar sahilinden Yalova'ya doğru uzanan vapur rotasında martılara simit atarken, bir tarafınızda Osman Hamdi Bey'in Kaplumbağa Terbiyecisi'ni çizdiği tarihi konağı, diğer tarafınızda yüzlerce metre boyunda devasa lojistik gemilerini görürsünüz. Bu şehir, sanayi ile kültürün, beton ile doğanın o garip, bitirim ve eşsiz sarmalıdır.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Çarkların, çekiçlerin ve koca fabrikaların geceyi aydınlatan ateşli sesi, aslında insan aklının, hayatta kalma refleksinin ve emeğinin birer senfonisidir. Hiçbir şey durduk yere şekillenmez; demir bile işe yaramak için önce ateşe sabırla dayanmalıdır.
+
+Bu isli ve dumanlı fabrikaların gölgesinde bile insanın umuda olan inancından hiçbir şey kaybetmemesi, üretmenin ve alın terinin ne kadar kutsal bir arınma yöntemi olduğunu anlatır. Tüketimin çılgınlığına karşı, Kocaeli usulca 'gerçek zafer, bir şeyler üretebildiğinde başlar' mesajını verir.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Pişmaniye:** Çekildikçe incelen, ustalık isteyen ve damakta eriyen tatlı tel tel Kar demeti.
@@ -32,6 +36,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **İzmit Tarihi Saat Kulesi**
 - [ ] **Osman Hamdi Bey Evi (Eskihisar)**
 - [ ] **Kefken ve Kerpe Kayalıkları**
+- [ ] **Ormanya Doğal Yaşam Parkı**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

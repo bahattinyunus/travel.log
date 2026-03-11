@@ -9,8 +9,12 @@ Karadeniz'in deli dalgalarına karşı hep bir fener gibi aydınlık ve dik durm
 
 Atatürk'ün Bandırma Vapuru ile ufukta göründüğü o tarihi anın ruhunu tütünde, denizde ve rüzgarda her an hissedebilirsiniz. Karadeniz'in en modern şehirlerinden biri olarak ticareti, tarihi ve gençliği aynı sokaklarda barındırır.
 
+Kızılırmak ve Yeşilırmak'ın denize kavuştuğu devasa deltalarındaki kuş cennetleri, Amazon savaşçılarının efsunlu tepeleri ve bağımsızlık meşalesinin yandığı tütün kokulu iskeleleri ile Samsun, Karadeniz'in göz ardı edilemez başkenti rolünü üstlenir.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Bazen pasif kalıp beklemek değil, tam aksine dalgaların üzerine doğru inançla o 'ilk adımı' atmak gerekir. Hayattaki tüm korkular, umutsuzluklar ve engeller, insanın karar verip Bandırma misali yola çıkmasıyla küçülmeye başlar.
+
+Zorlu koşulların, bitmek bilmeyen fırtınaların ve imkansızlıkların ortasında zafere ulaşmanın anahtarı silahlarda değil, tam kalpteki sarsılmaz inanctatır. Bu topraklara atılan her bir adım, sabrın, cesaretin ve vazgeçmeyişin ruha attığı büyük ebediyet tohumlarıdır.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Bafra Pidesi:** İncecik, kapalı hamurun içinde bol tereyağı ile harmanlanmış kıymalı şaheser.
@@ -32,6 +36,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Amisos Tepesi**
 - [ ] **Amazon Köyü**
 - [ ] **Kurtuluş Yolu**
+- [ ] **Kızılırmak Deltası Kuş Cenneti**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

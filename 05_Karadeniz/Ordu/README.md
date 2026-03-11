@@ -9,8 +9,12 @@ Boztepe'ye çıkıp teleferikten bakıldığında, ayağınızın altında uzana
 
 Burası, insanın metropol gürültüsünden kaçıp kafa dinlemek için haritadan gözü kapalı seçeceği, doğanın merhametli kollarında kurulu, Karadeniz'in en nazlı çocuklarından biridir.
 
+Yason Burnu'nda güneşi batırırken Argonotların altın post efsanesini iliklerinize kadar hissedersiniz. Kurul Kalesi'nde Kibele heykeline dokunup, Karadeniz'in sadece deniz ve orman değil, aynı zamanda çok köklü bir antik miras barındırdığına şahit olursunuz. Ordu, modern bir sahil şehri ile antik bir dağ köyünün birleşim noktasıdır.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Yüksek bir tepeden o uçsuz bucaksız denize ve ucu bucağı görünmeyen ormanlara bakmak; insanın evrenin ne kadar devasa, kendisinin ve dertlerinin ise ne kadar narin bir zerreden ibaret olduğunu anlaması için ruhsal bir aynadır.
+
+Perşembe yaylasının o bitmek tükenmek bilmeyen kıvrımlı menderesleri, hayat yolculuğumuzun aslında hiçbir zaman dümdüz olmadığını, engeller ve virajlarla dolup taştığını, fakat tüm o kıvrımlara rağmen suyun eninde sonunda denize varacağını öğretir.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Ordu Tostu:** İki kalın ekmek dilimi arasına konulan özel sucuk ezmesinin preslenmesiyle yapılan kült sokak lezzeti.
@@ -31,6 +35,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Yason Burnu ve Kilisesi**
 - [ ] **Perşembe Yaylası (Menderesler)**
 - [ ] **Kurul Kalesi**
+- [ ] **Gölköy Ulugöl**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

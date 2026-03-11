@@ -9,8 +9,12 @@ Gölgelerin, sükunetin ve en kuzeyin şehri. Anadolu'nun denize bir mızrak ucu
 
 Dar sokaklarında deniz kokusu evlerin pencerelerinden içeri dolar. Hem inziva köşesi arayan bir bilge kadar huzurlu, hem de asırlık tarihi cezaevinin ürpertici havasını taşıyan acılı bir hafıza mekanıdır. Diogenes'in fenerle gündüz vakti insan aradığı bu topraklar, tefekkürün tam merkezidir.
 
+Erfelek şelalelerinde ormanın içlerine doğru suyun peşinden giderken hissettiğiniz o gizem, İnceburun'un o rüzgarlı kayalıklarında yerini hudutsuz bir Sonsuzluk hissine bırakır. Sinop, coğrafyanın kader, doğanın ise bir öğretmen olduğunun en net tablosudur.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Tarihi cezaevinin nemli, ürpertici havası ve soğuk duvarları bize dışarıdaki özgürlüğün, bir nefes almanın değerini hatırlatırken; duvarın hemen dibindeki uçsuz bucaksız deniz, insanın kalbindeki sınır tanımaz umudu ve sonsuzluk tutkusunu temsil eder.
+
+Düşünceleri, duyguları yahut bedeni hapsedeceklerini sananların, insanın ruhundaki o uçsuz bucaksız maviliği asla demir parmaklıklar ardına koyamayacağı bu şehirde daha iyi anlaşılır. Fırtına ne kadar sert eserse essin, dalgalar ne kadar yükselirse yükselsin, içimizdeki sükunet limanı hep oradadır.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Sinop Mantısı (Cevizli Mantı):** Yarısı yoğurtlu, yarısı bol cevizli olarak sunulan sıradışı bir hamur işi vizyonu.
@@ -32,6 +36,7 @@ Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gerek
 - [ ] **Hamsilos Tabiat Parkı**
 - [ ] **Erfelek Tatlıca Şelaleleri**
 - [ ] **İnceburun Deniz Feneri**
+- [ ] **Diyojen Heykeli**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

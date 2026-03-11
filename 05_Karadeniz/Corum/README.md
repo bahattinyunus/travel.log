@@ -9,8 +9,12 @@ Hititlerin kadim güneşi altında yıkanan, bereketin, tarihin ve Anadolu uygar
 
 Hattuşaş'ın yıkıntıları arasında, Aslanlı Kapı'dan içeri doğru yürürken duyulan tek ses, toprağın ve rüzgarın binlerce yıllık şahitliğinin ninnisine benzer. Şehir, leblebicilerinin burna dolan o güzel kavrulmuş kokusu ile samimi, mütevazı ama derin bir karakter sergiler.
 
+Alacahöyük'te bulunan Sfenksli Kapı ve kral mezarlarından çıkarılan güneş kursları, insanoğlunun tunç çağındaki o olağanüstü sanat yeteneğine hayran bırakır. Çorum, gösterişsiz bozkır örtüsünün altında, antik dünyanın en büyük askeri ve diplomatik dehalarından birinin izlerini gururla taşır.
+
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Krallar unutulup gider, aşılamaz denen devasa surlar yıkılır. Ancak insanlık tarihine düşülen 'Kadeş Barış Antlaşması' notu sonsuza kadar toprağın hafızasında kalır. Gücün ardındaki asıl zarafet ve barışın kıymeti, bu bozkır harabelerinde yatar.
+
+Zamanın acımasız dişlileri arasında kaybolmamak için taşa kazınan o hiyeroglifler bile yavaş yavaş silinir. Çorum'un sessiz harabeleri bize, dünyada bıraktığımız en kalıcı izin taş binalar değil, kalplere ektiğimiz sevgi, dürüstlük ve erdem tohumları olduğunu hatırlatır.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
 - **Taze Kavrulmuş Çorum Leblebisi:** Sokakları saran sıcacık, odun ateşi tadında nohutun sanata dönüşmüş hali.
