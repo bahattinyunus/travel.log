@@ -185,7 +185,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %48.1 (39 / 81 İl)
+**🏆 Genel İlerleme:** %45.7 (37 / 81 İl)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
@@ -223,7 +223,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ✅ [**Mersin**](03_Akdeniz/Mersin/README.md)
 - ❌ Osmaniye
 
-**🌾 İç Anadolu Bölgesi (9/13)**
+**🌾 İç Anadolu Bölgesi (8/13)**
 - ✅ [**Aksaray**](04_IcAnadolu/Aksaray/README.md)
 - ✅ [**Ankara**](04_IcAnadolu/Ankara/README.md)
 - ✅ [**Eskişehir**](04_IcAnadolu/Eskisehir/README.md)
@@ -235,7 +235,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ✅ [**Nevşehir**](04_IcAnadolu/Nevsehir/README.md)
 - ❌ Niğde
 - ✅ [**Sivas**](04_IcAnadolu/Sivas/README.md)
-- ✅ [**Yozgat**](04_IcAnadolu/Yozgat/README.md)
+- ❌ Yozgat
 - ❌ Çankırı
 
 **🌲 Karadeniz Bölgesi (11/18)**
@@ -258,9 +258,9 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ❌ Zonguldak
 - ✅ [**Çorum**](05_Karadeniz/Corum/README.md)
 
-**🏔️ Doğu Anadolu Bölgesi (8/14)**
+**🏔️ Doğu Anadolu Bölgesi (7/14)**
 - ✅ [**Ardahan**](06_DoguAnadolu/Ardahan/README.md)
-- ✅ [**Ağrı**](06_DoguAnadolu/Agri/README.md)
+- ❌ Ağrı
 - ❌ Bingöl
 - ❌ Bitlis
 - ✅ [**Elazığ**](06_DoguAnadolu/Elazig/README.md)

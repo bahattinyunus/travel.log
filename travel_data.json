@@ -312,7 +312,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Yozgat\\README.md",
-        "size_bytes": 2692
+        "size_bytes": 545
     },
     {
         "region": "Trabzon",
@@ -428,10 +428,10 @@
     },
     {
         "region": "Agri",
-        "city": "Ishak_Pasa",
+        "city": "Unknown",
         "location": "Unknown",
-        "path": "06_DoguAnadolu\\Agri\\Ishak_Pasa\\README.md",
-        "size_bytes": 1089
+        "path": "06_DoguAnadolu\\Agri\\README.md",
+        "size_bytes": 528
     },
     {
         "region": "Kars",
