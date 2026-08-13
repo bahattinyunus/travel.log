@@ -7,7 +7,7 @@
     <a href="https://resilient-semifreddo-6651ec.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-resilient_semifreddo-00f2fe?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
     <img src="https://img.shields.io/badge/Maneviyat-Aktif-emerald?style=for-the-badge&logo=mosque&logoColor=white" alt="Spiritual">
     <img src="https://img.shields.io/badge/Bölgeler-7%2F7-blue?style=for-the-badge&logo=map&logoColor=white" alt="Regions">
-    <img src="https://img.shields.io/badge/Keşif-48.1%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
+    <img src="https://img.shields.io/badge/Keşif-44.4%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
     <img src="https://img.shields.io/badge/Rol-Dijital_Seyyah-black?style=for-the-badge&logo=book" alt="Role">
     <br><br>
     <strong>🕌 "Yeryüzünde gezip dolaşın ve tefekkür edin..."</strong>
@@ -185,7 +185,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %45.7 (37 / 81 İl)
+**🏆 Genel İlerleme:** %44.4 (36 / 81 İl)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
@@ -258,8 +258,8 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ❌ Zonguldak
 - ✅ [**Çorum**](05_Karadeniz/Corum/README.md)
 
-**🏔️ Doğu Anadolu Bölgesi (7/14)**
-- ✅ [**Ardahan**](06_DoguAnadolu/Ardahan/README.md)
+**🏔️ Doğu Anadolu Bölgesi (6/14)**
+- ❌ Ardahan
 - ❌ Ağrı
 - ❌ Bingöl
 - ❌ Bitlis
