@@ -53,7 +53,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "01_Marmara\\Bursa\\README.md",
-        "size_bytes": 3584
+        "size_bytes": 2806
     },
     {
         "region": "Edirne",
@@ -95,7 +95,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "02_Ege\\Izmir\\README.md",
-        "size_bytes": 2960
+        "size_bytes": 2883
     },
     {
         "region": "Afyonkarahisar",
@@ -116,7 +116,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "02_Ege\\Denizli\\README.md",
-        "size_bytes": 3576
+        "size_bytes": 2629
     },
     {
         "region": "Kutahya",
@@ -137,7 +137,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "02_Ege\\Mugla\\README.md",
-        "size_bytes": 2863
+        "size_bytes": 2658
     },
     {
         "region": "Usak",
@@ -179,7 +179,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "03_Akdeniz\\Adana\\README.md",
-        "size_bytes": 3192
+        "size_bytes": 2629
     },
     {
         "region": "Burdur",
@@ -193,14 +193,14 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "03_Akdeniz\\Hatay\\README.md",
-        "size_bytes": 3259
+        "size_bytes": 2651
     },
     {
         "region": "Isparta",
         "city": "Unknown",
         "location": "Unknown",
         "path": "03_Akdeniz\\Isparta\\README.md",
-        "size_bytes": 2769
+        "size_bytes": 2538
     },
     {
         "region": "Kahramanmaras",
@@ -221,7 +221,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Ankara\\README.md",
-        "size_bytes": 3618
+        "size_bytes": 2708
     },
     {
         "region": "Nevsehir",
@@ -249,7 +249,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Aksaray\\README.md",
-        "size_bytes": 2808
+        "size_bytes": 2605
     },
     {
         "region": "Cankiri",
@@ -263,7 +263,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Eskisehir\\README.md",
-        "size_bytes": 2956
+        "size_bytes": 2702
     },
     {
         "region": "Karaman",
@@ -277,14 +277,14 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Kayseri\\README.md",
-        "size_bytes": 3091
+        "size_bytes": 550
     },
     {
         "region": "Kirikkale",
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Kirikkale\\README.md",
-        "size_bytes": 2887
+        "size_bytes": 2602
     },
     {
         "region": "Kirsehir",
@@ -305,7 +305,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Sivas\\README.md",
-        "size_bytes": 2879
+        "size_bytes": 2792
     },
     {
         "region": "Yozgat",
@@ -354,7 +354,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "05_Karadeniz\\Artvin\\README.md",
-        "size_bytes": 2887
+        "size_bytes": 2638
     },
     {
         "region": "Bartin",
@@ -368,7 +368,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "05_Karadeniz\\Bayburt\\README.md",
-        "size_bytes": 2891
+        "size_bytes": 2618
     },
     {
         "region": "Bolu",
@@ -389,7 +389,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "05_Karadeniz\\Gumushane\\README.md",
-        "size_bytes": 2911
+        "size_bytes": 2522
     },
     {
         "region": "Karabuk",
@@ -466,21 +466,21 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "06_DoguAnadolu\\Elazig\\README.md",
-        "size_bytes": 2846
+        "size_bytes": 2569
     },
     {
         "region": "Erzincan",
         "city": "Unknown",
         "location": "Unknown",
         "path": "06_DoguAnadolu\\Erzincan\\README.md",
-        "size_bytes": 2906
+        "size_bytes": 2638
     },
     {
         "region": "Erzurum",
         "city": "Unknown",
         "location": "Unknown",
         "path": "06_DoguAnadolu\\Erzurum\\README.md",
-        "size_bytes": 2886
+        "size_bytes": 2683
     },
     {
         "region": "Hakkari",
@@ -501,7 +501,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "06_DoguAnadolu\\Malatya\\README.md",
-        "size_bytes": 2920
+        "size_bytes": 2695
     },
     {
         "region": "Mus",
@@ -515,7 +515,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "06_DoguAnadolu\\Tunceli\\README.md",
-        "size_bytes": 2964
+        "size_bytes": 2701
     },
     {
         "region": "Mardin",
