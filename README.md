@@ -7,7 +7,7 @@
     <a href="https://resilient-semifreddo-6651ec.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-resilient_semifreddo-00f2fe?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
     <img src="https://img.shields.io/badge/Maneviyat-Aktif-emerald?style=for-the-badge&logo=mosque&logoColor=white" alt="Spiritual">
     <img src="https://img.shields.io/badge/Bölgeler-7%2F7-blue?style=for-the-badge&logo=map&logoColor=white" alt="Regions">
-    <img src="https://img.shields.io/badge/Keşif-46.9%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
+    <img src="https://img.shields.io/badge/Keşif-48.1%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
     <img src="https://img.shields.io/badge/Rol-Dijital_Seyyah-black?style=for-the-badge&logo=book" alt="Role">
     <br><br>
     <strong>🕌 "Yeryüzünde gezip dolaşın ve tefekkür edin..."</strong>
@@ -185,7 +185,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %46.9 (38 / 81 İl)
+**🏆 Genel İlerleme:** %48.1 (39 / 81 İl)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
@@ -223,7 +223,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ✅ [**Mersin**](03_Akdeniz/Mersin/README.md)
 - ❌ Osmaniye
 
-**🌾 İç Anadolu Bölgesi (7/13)**
+**🌾 İç Anadolu Bölgesi (8/13)**
 - ✅ [**Aksaray**](04_IcAnadolu/Aksaray/README.md)
 - ✅ [**Ankara**](04_IcAnadolu/Ankara/README.md)
 - ✅ [**Eskişehir**](04_IcAnadolu/Eskisehir/README.md)
@@ -235,7 +235,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ✅ [**Nevşehir**](04_IcAnadolu/Nevsehir/README.md)
 - ❌ Niğde
 - ✅ [**Sivas**](04_IcAnadolu/Sivas/README.md)
-- ❌ Yozgat
+- ✅ [**Yozgat**](04_IcAnadolu/Yozgat/README.md)
 - ❌ Çankırı
 
 **🌲 Karadeniz Bölgesi (11/18)**
