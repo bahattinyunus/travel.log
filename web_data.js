@@ -2,10 +2,10 @@
 const TRAVEL_DATA = {
   "stats": {
     "total_cities": 81,
-    "visited_cities": 36,
-    "unvisited_cities": 45,
-    "progress_pct": 44.4,
-    "estimated_km": 10136,
+    "visited_cities": 39,
+    "unvisited_cities": 42,
+    "progress_pct": 48.1,
+    "estimated_km": 10898,
     "regional_breakdown": {
       "01_Marmara": {
         "name": "Marmara Bölgesi",
@@ -58,8 +58,8 @@ const TRAVEL_DATA = {
         "color": "#a855f7",
         "desc": "Zirvelerin İhtişamı & Kaleler: Zorlu iklimlerde pişen hayatların ve sarsılmaz kalelerin vakur duruşu.",
         "total": 14,
-        "visited": 6,
-        "percentage": 42.9
+        "visited": 9,
+        "percentage": 64.3
       },
       "07_GuneydoguAnadolu": {
         "name": "Güneydoğu Anadolu Bölgesi",
@@ -1859,11 +1859,14 @@ const TRAVEL_DATA = {
       ],
       "quote": "Türkiye'nin çatısı Ağrı Dağı ve kartal yuvası gibi ovaya bakan masalsı İshak Paşa Sarayı.",
       "library": "Ağrı İl Halk Kütüphanesi - Ağrı Dağı'nın heybeti karşısında sakin çalışma alanı.",
-      "visited": false,
+      "visited": true,
       "has_banner": false,
       "banner_rel": "assets/banner.jpg",
       "readme_rel": "06_DoguAnadolu/Agri/README.md",
-      "slug": "Agri"
+      "slug": "Agri",
+      "content_size": 2892,
+      "custom_quote": "Türkiye'nin zirvesi Ağrı Dağı'nın heybeti, ovaya kartal yuvası gibi bakan İshak Paşa Sarayı'nın masalsı silüeti ve Doğubayazıt'ın kadim nefesi.",
+      "custom_library": "Ağrı İl Halk Kütüphanesi - Sessiz, geniş çalışma masaları ve odaklanmayı artıran vakur bir çalışma ortamı."
     },
     "06_DoguAnadolu/Ardahan": {
       "plate": 75,
@@ -1941,11 +1944,14 @@ const TRAVEL_DATA = {
       ],
       "quote": "Kubbetü'l-İslam Ahlat'ın ulu mezar taşları ve dünyanın ikinci büyük kalderası Nemrut Krater Gölü.",
       "library": "Bitlis İl Halk Kütüphanesi - Tarihi taş binalar arasında tefekkür dolu araştırma ortamı.",
-      "visited": false,
+      "visited": true,
       "has_banner": false,
       "banner_rel": "assets/banner.jpg",
       "readme_rel": "06_DoguAnadolu/Bitlis/README.md",
-      "slug": "Bitlis"
+      "slug": "Bitlis",
+      "content_size": 2938,
+      "custom_quote": "Kubbetü'l-İslam Ahlat'ın ulu Selçuklu mezar taşları, Van Gölü'nün turkuaz kıyıları ve dünyanın doğa harikası Nemrut Krater Gölü.",
+      "custom_library": "Bitlis İl Halk Kütüphanesi - Tarihi taş binalar arasında sükunet dolu, araştırmaya uygun ortam."
     },
     "06_DoguAnadolu/Elazig": {
       "plate": 23,
@@ -2089,11 +2095,14 @@ const TRAVEL_DATA = {
       ],
       "quote": "Üç ülkeye sınır, Doğu'nun Çukurova'sı mikroklima cenneti ve Tuzluca'nın yer altı mağaraları.",
       "library": "Iğdır İl Halk Kütüphanesi - Doğu sınırında sakin ve ferah bir çalışma mekanı.",
-      "visited": false,
+      "visited": true,
       "has_banner": false,
       "banner_rel": "assets/banner.jpg",
       "readme_rel": "06_DoguAnadolu/Igdir/README.md",
-      "slug": "Igdir"
+      "slug": "Igdir",
+      "content_size": 2894,
+      "custom_quote": "Üç ülkeye sınır açan serhat ovası, Doğu'nun Çukurova'sı mikroklima cenneti ve Tuzluca'nın yer altı kristal mağaraları.",
+      "custom_library": "Iğdır İl Halk Kütüphanesi - Şehir merkezinde sakin, aydınlık ve odaklanmayı kolaylaştıran ortam."
     },
     "06_DoguAnadolu/Kars": {
       "plate": 36,

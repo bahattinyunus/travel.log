@@ -918,6 +918,48 @@ class SeyyahEngine:
             replacement = f'**{r_icon} {r_name} ({v}/{t})**'
             content = re.sub(pattern, replacement, content)
 
+        # 7 Bölge İlerleme Tablosunu Güncelle
+        table_rows = []
+        for reg_code, r_info in REGIONS_INFO.items():
+            r_stat = self.stats["regional_breakdown"][reg_code]
+            v = r_stat["visited"]
+            t = r_stat["total"]
+            p = r_stat["percentage"]
+            visited_names = [prov["name"] for k, prov in sorted(self.visited_provinces.items()) if k.startswith(reg_code)]
+            names_str = ", ".join(visited_names) if visited_names else "*Sıradaki Keşif Seferi*"
+            f_blocks = int(round((p / 100) * 5))
+            e_blocks = 5 - f_blocks
+            bar = "🟩" * f_blocks + "⬜" * e_blocks
+            short_name = r_info["name"].replace(" Bölgesi", "")
+            table_rows.append(f"| **{r_info['icon']} {short_name}** | `%{p:.1f}` ({v}/{t}) | {names_str} | {bar} |")
+        
+        table_content = "\n".join(table_rows)
+        content = re.sub(
+            r'(\| \*\*🏰 Marmara\*\* \|[\s\S]*?\| \*\*🏜️ G\.Doğu Anadolu\*\* \|[^\n]*)',
+            table_content,
+            content
+        )
+
+        # 81 İl Detaylı Keşif Listesini Güncelle
+        checklist_sections = []
+        for reg_code, r_info in REGIONS_INFO.items():
+            r_stat = self.stats["regional_breakdown"][reg_code]
+            section_str = f"**{r_info['icon']} {r_info['name']} ({r_stat['visited']}/{r_stat['total']})**\n"
+            reg_provinces = [(k, prov) for k, prov in sorted(self.provinces.items(), key=lambda x: x[1]["name"]) if k.startswith(reg_code)]
+            for k, prov in reg_provinces:
+                if prov["visited"]:
+                    section_str += f"- ✅ [**{prov['name']}**]({prov['readme_rel']})\n"
+                else:
+                    section_str += f"- ❌ {prov['name']}\n"
+            checklist_sections.append(section_str.strip())
+
+        full_checklist = "\n\n".join(checklist_sections)
+        content = re.sub(
+            r'(## ✅ 81 İl Detaylı Keşif Listesi\n\n)[\s\S]*?(\n\n---)',
+            r'\1' + full_checklist + r'\2',
+            content
+        )
+
         readme_path.write_text(content, encoding="utf-8")
         return True
 

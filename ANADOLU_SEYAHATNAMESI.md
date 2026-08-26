@@ -5,9 +5,9 @@
 ---
 
 ## 📊 Seyahatname Özeti
-* **Toplam Ziyaret Edilen İl:** 36 / 81
-* **Keşif Oranı:** %44.4
-* **Kat Edilen Tahmini Mesafe:** 10,136 km
+* **Toplam Ziyaret Edilen İl:** 39 / 81
+* **Keşif Oranı:** %48.1
+* **Kat Edilen Tahmini Mesafe:** 10,898 km
 * **Kapsanan Bölgeler:** 7 / 7
 
 ---
@@ -43,12 +43,15 @@
 28. [Sinop (Karadeniz)](#sinop)
 29. [Trabzon (Karadeniz)](#trabzon)
 30. [Çorum (Karadeniz)](#corum)
-31. [Elazığ (Doğu Anadolu)](#elazig)
-32. [Erzincan (Doğu Anadolu)](#erzincan)
-33. [Erzurum (Doğu Anadolu)](#erzurum)
-34. [Kars (Doğu Anadolu)](#kars)
-35. [Malatya (Doğu Anadolu)](#malatya)
-36. [Tunceli (Doğu Anadolu)](#tunceli)
+31. [Ağrı (Doğu Anadolu)](#agri)
+32. [Bitlis (Doğu Anadolu)](#bitlis)
+33. [Elazığ (Doğu Anadolu)](#elazig)
+34. [Erzincan (Doğu Anadolu)](#erzincan)
+35. [Erzurum (Doğu Anadolu)](#erzurum)
+36. [Iğdır (Doğu Anadolu)](#igdir)
+37. [Kars (Doğu Anadolu)](#kars)
+38. [Malatya (Doğu Anadolu)](#malatya)
+39. [Tunceli (Doğu Anadolu)](#tunceli)
 
 ---
 
@@ -587,6 +590,42 @@ Trabzon İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet 
 Corum İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
 
 ---
+## <a id="agri"></a>📍 Ağrı (04) - Doğu Anadolu
+
+> *"Türkiye'nin zirvesi Ağrı Dağı'nın heybeti, ovaya kartal yuvası gibi bakan İshak Paşa Sarayı'nın masalsı silüeti ve Doğubayazıt'ın kadim nefesi."*
+
+### 🏛️ Öne Çıkan Miras & Duraklar
+- [x] İshak Paşa Sarayı
+- [x] Ağrı Dağı (5137m)
+- [x] Meteor Çukuru
+- [x] Doğubayazıt Kalesi
+- [x] Balık Gölü
+
+### 🍽️ Yöresel Tatlar
+Abdigör Köftesi, Ağrı Balı, Halis (Helise)
+
+### 💻 Seyyahın Kütüphane Ofisi
+Ağrı İl Halk Kütüphanesi - Sessiz, geniş çalışma masaları ve odaklanmayı artıran vakur bir çalışma ortamı.
+
+---
+## <a id="bitlis"></a>📍 Bitlis (13) - Doğu Anadolu
+
+> *"Kubbetü'l-İslam Ahlat'ın ulu Selçuklu mezar taşları, Van Gölü'nün turkuaz kıyıları ve dünyanın doğa harikası Nemrut Krater Gölü."*
+
+### 🏛️ Öne Çıkan Miras & Duraklar
+- [x] Nemrut Krater Gölü & Kalderası
+- [x] Ahlat Selçuklu Mezarlığı
+- [x] Bitlis Kalesi
+- [x] İhlasiye Medresesi
+- [x] Tarihi Taş Evler
+
+### 🍽️ Yöresel Tatlar
+Bitlis Büryan Kebabı, Ahlat Elması, Katıklı Dolma, Karakovan Balı
+
+### 💻 Seyyahın Kütüphane Ofisi
+Bitlis İl Halk Kütüphanesi - Tarihi taş binalar arasında sükunet dolu, araştırmaya uygun ortam.
+
+---
 ## <a id="elazig"></a>📍 Elazığ (23) - Doğu Anadolu
 
 > *"Harput Kalesi'nin bin yıllık surları, Hazar Gölü'nün mavi sularıyla Doğu'nun köklü kültür havzası."*
@@ -640,6 +679,23 @@ Cağ Kebabı, Kadayıf Dolması, Erzurum Ketesi, Aşotu Çorbası
 
 ### 💻 Seyyahın Kütüphane Ofisi
 Erzurum İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
+
+---
+## <a id="igdir"></a>📍 Iğdır (76) - Doğu Anadolu
+
+> *"Üç ülkeye sınır açan serhat ovası, Doğu'nun Çukurova'sı mikroklima cenneti ve Tuzluca'nın yer altı kristal mağaraları."*
+
+### 🏛️ Öne Çıkan Miras & Duraklar
+- [x] Tuzluca Tuz Mağaraları
+- [x] Ağrı Dağı Milli Parkı
+- [x] Ejder Kervansarayı
+- [x] Karakale Ören Yeri
+
+### 🍽️ Yöresel Tatlar
+Bozbaş (Piti), Taş Köfte, Iğdır Kayısısı, Kete
+
+### 💻 Seyyahın Kütüphane Ofisi
+Iğdır İl Halk Kütüphanesi - Şehir merkezinde sakin, aydınlık ve odaklanmayı kolaylaştıran ortam.
 
 ---
 ## <a id="kars"></a>📍 Kars (36) - Doğu Anadolu

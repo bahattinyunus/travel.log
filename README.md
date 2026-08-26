@@ -120,8 +120,8 @@ Seyahatlerimiz, sırt çantalı bir irfan arayışı ve yarı göçebe çalışm
 
 ## 📊 81 İl Keşif Durumu ve Bölgesel Dağılım
 
-**🏆 Genel İlerleme:** %44.4 (36 / 81 İl)
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**🏆 Genel İlerleme:** %48.1 (39 / 81 İl)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ```
 Toplam Ziyaret Edilen İl:  36 / 81
@@ -134,13 +134,13 @@ Coğrafi Bölge Kapsamı:     7 / 7 (%100)
 
 | Bölge | İlerleme | Ziyaret Edilen İller | Durum |
 | :--- | :---: | :---: | :---: |
-| **🏰 Marmara** | `%27.3` (3/11) | Bursa, İstanbul, Kocaeli | 🟩🟩⬜⬜⬜ |
-| **🌊 Ege** | `%37.5` (3/8) | Denizli, İzmir, Muğla | 🟩🟩🟩⬜⬜ |
-| **☀️ Akdeniz** | `%62.5` (5/8) | Adana, Antalya, Hatay, Isparta, Mersin | 🟩🟩🟩🟩⬜ |
-| **🌾 İç Anadolu** | `%61.5` (8/13) | Aksaray, Ankara, Eskişehir, Kırıkkale, Konya, Nevşehir, Sivas, Yozgat | 🟩🟩🟩🟩⬜ |
-| **🌲 Karadeniz** | `%61.1` (11/18) | Amasya, Artvin, Bayburt, Çorum, Giresun, Gümüşhane, Ordu, Rize, Samsun, Sinop, Trabzon | 🟩🟩🟩🟩⬜ |
-| **🏔️ Doğu Anadolu** | `%42.9` (6/14) | Elazığ, Erzincan, Erzurum, Kars, Malatya, Tunceli | 🟩🟩🟩⬜⬜ |
-| **🏜️ G.Doğu Anadolu** | `%0.0` (0/9) | *Sıradaki Keşif Seferi* | ⬜⬜⬜⬜⬜ |
+| **🏰 Marmara** | `%27.3` (3/11) | Bursa, İstanbul, Kocaeli | 🟩⬜⬜⬜⬜ |
+| **🌊 Ege** | `%37.5` (3/8) | Denizli, İzmir, Muğla | 🟩🟩⬜⬜⬜ |
+| **☀️ Akdeniz** | `%62.5` (5/8) | Adana, Antalya, Hatay, Isparta, Mersin | 🟩🟩🟩⬜⬜ |
+| **🌾 İç Anadolu** | `%61.5` (8/13) | Aksaray, Ankara, Eskişehir, Kırıkkale, Konya, Nevşehir, Sivas, Yozgat | 🟩🟩🟩⬜⬜ |
+| **🌲 Karadeniz** | `%61.1` (11/18) | Amasya, Artvin, Bayburt, Çorum, Giresun, Gümüşhane, Ordu, Rize, Samsun, Sinop, Trabzon | 🟩🟩🟩⬜⬜ |
+| **🏔️ Doğu Anadolu** | `%64.3` (9/14) | Ağrı, Bitlis, Elazığ, Erzincan, Erzurum, Iğdır, Kars, Malatya, Tunceli | 🟩🟩🟩⬜⬜ |
+| **🏜️ Güneydoğu Anadolu** | `%0.0` (0/9) | *Sıradaki Keşif Seferi* | ⬜⬜⬜⬜⬜ |
 
 ---
 
@@ -150,24 +150,24 @@ Coğrafi Bölge Kapsamı:     7 / 7 (%100)
 - ❌ Balıkesir
 - ❌ Bilecik
 - ✅ [**Bursa**](01_Marmara/Bursa/README.md)
-- ❌ Çanakkale
 - ❌ Edirne
-- ✅ [**İstanbul**](01_Marmara/Istanbul/README.md)
-- ❌ Kırklareli
 - ✅ [**Kocaeli**](01_Marmara/Kocaeli/README.md)
+- ❌ Kırklareli
 - ❌ Sakarya
 - ❌ Tekirdağ
 - ❌ Yalova
+- ❌ Çanakkale
+- ✅ [**İstanbul**](01_Marmara/Istanbul/README.md)
 
 **🌊 Ege Bölgesi (3/8)**
 - ❌ Afyonkarahisar
 - ❌ Aydın
 - ✅ [**Denizli**](02_Ege/Denizli/README.md)
-- ✅ [**İzmir**](02_Ege/Izmir/README.md)
 - ❌ Kütahya
 - ❌ Manisa
 - ✅ [**Muğla**](02_Ege/Mugla/README.md)
 - ❌ Uşak
+- ✅ [**İzmir**](02_Ege/Izmir/README.md)
 
 **☀️ Akdeniz Bölgesi (5/8)**
 - ✅ [**Adana**](03_Akdeniz/Adana/README.md)
@@ -182,17 +182,17 @@ Coğrafi Bölge Kapsamı:     7 / 7 (%100)
 **🌾 İç Anadolu Bölgesi (8/13)**
 - ✅ [**Aksaray**](04_IcAnadolu/Aksaray/README.md)
 - ✅ [**Ankara**](04_IcAnadolu/Ankara/README.md)
-- ❌ Çankırı
 - ✅ [**Eskişehir**](04_IcAnadolu/Eskisehir/README.md)
 - ❌ Karaman
 - ❌ Kayseri
+- ✅ [**Konya**](04_IcAnadolu/Konya/README.md)
 - ✅ [**Kırıkkale**](04_IcAnadolu/Kirikkale/README.md)
 - ❌ Kırşehir
-- ✅ [**Konya**](04_IcAnadolu/Konya/README.md)
 - ✅ [**Nevşehir**](04_IcAnadolu/Nevsehir/README.md)
 - ❌ Niğde
 - ✅ [**Sivas**](04_IcAnadolu/Sivas/README.md)
 - ✅ [**Yozgat**](04_IcAnadolu/Yozgat/README.md)
+- ❌ Çankırı
 
 **🌲 Karadeniz Bölgesi (11/18)**
 - ✅ [**Amasya**](05_Karadeniz/Amasya/README.md)
@@ -200,7 +200,6 @@ Coğrafi Bölge Kapsamı:     7 / 7 (%100)
 - ❌ Bartın
 - ✅ [**Bayburt**](05_Karadeniz/Bayburt/README.md)
 - ❌ Bolu
-- ✅ [**Çorum**](05_Karadeniz/Corum/README.md)
 - ❌ Düzce
 - ✅ [**Giresun**](05_Karadeniz/Giresun/README.md)
 - ✅ [**Gümüşhane**](05_Karadeniz/Gumushane/README.md)
@@ -213,17 +212,18 @@ Coğrafi Bölge Kapsamı:     7 / 7 (%100)
 - ❌ Tokat
 - ✅ [**Trabzon**](05_Karadeniz/Trabzon/README.md)
 - ❌ Zonguldak
+- ✅ [**Çorum**](05_Karadeniz/Corum/README.md)
 
-**🏔️ Doğu Anadolu Bölgesi (6/14)**
-- ❌ Ağrı
+**🏔️ Doğu Anadolu Bölgesi (9/14)**
 - ❌ Ardahan
+- ✅ [**Ağrı**](06_DoguAnadolu/Agri/README.md)
 - ❌ Bingöl
-- ❌ Bitlis
+- ✅ [**Bitlis**](06_DoguAnadolu/Bitlis/README.md)
 - ✅ [**Elazığ**](06_DoguAnadolu/Elazig/README.md)
 - ✅ [**Erzincan**](06_DoguAnadolu/Erzincan/README.md)
 - ✅ [**Erzurum**](06_DoguAnadolu/Erzurum/README.md)
 - ❌ Hakkari
-- ❌ Iğdır
+- ✅ [**Iğdır**](06_DoguAnadolu/Igdir/README.md)
 - ✅ [**Kars**](06_DoguAnadolu/Kars/README.md)
 - ✅ [**Malatya**](06_DoguAnadolu/Malatya/README.md)
 - ❌ Muş
