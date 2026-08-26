@@ -1,16 +1,17 @@
 <p align="center">
-    <img src="assets/banner.jpg" style="max-width: 100%; height: auto; border-radius: 10px;">
+    <img src="assets/banner.jpg" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 </p>
 
 <p align="center">
     <!-- Dynamic Badges -->
-    <a href="https://resilient-semifreddo-6651ec.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-resilient_semifreddo-00f2fe?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
-    <img src="https://img.shields.io/badge/Maneviyat-Aktif-emerald?style=for-the-badge&logo=mosque&logoColor=white" alt="Spiritual">
+    <a href="https://resilient-semifreddo-6651ec.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Web_App-Dijital_Seyyah-00f2fe?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+    <img src="https://img.shields.io/badge/Maneviyat-Sefer_der_Vatan-emerald?style=for-the-badge&logo=mosque&logoColor=white" alt="Spiritual">
     <img src="https://img.shields.io/badge/Bölgeler-7%2F7-blue?style=for-the-badge&logo=map&logoColor=white" alt="Regions">
-    <img src="https://img.shields.io/badge/Keşif-48.1%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
-    <img src="https://img.shields.io/badge/Rol-Dijital_Seyyah-black?style=for-the-badge&logo=book" alt="Role">
+    <img src="https://img.shields.io/badge/Keşif-44.4%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
+    <img src="https://img.shields.io/badge/Testler-8%20Passed-success?style=for-the-badge&logo=pytest&logoColor=white" alt="Tests">
+    <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <br><br>
-    <strong>🕌 "Yeryüzünde gezip dolaşın ve tefekkür edin..."</strong>
+    <strong>🕌 "Yeryüzünde gezip dolaşın ve tefekkür edin..." (Ankebût, 20)</strong>
 </p>
 
 ---
@@ -19,6 +20,14 @@
   <h3>🚶 SEFER DER VATAN: HAKİKATE GİDEN YOL</h3>
   <p><em>"Biz yolların bitmediği, keşfin son bulmadığı bir alemde Hakikati ve Güzelliği arayan yolcularız. Her konak yeni bir hikmet, her şehir içsel bir hicrettir. Bu seyir defteri, modern bir derviş edasıyla yollara düşmüş bir seyyahın zikir, fikir ve şükür günlüğüdür."</em></p>
 </div>
+
+---
+
+## ⚡ Hızlı Erişim ve İnteraktif Araçlar
+
+| 🗺️ Web Uygulaması | 🧭 İnteraktif Harita | 📚 Külliyat Kitabı | 💻 CLI Komutları |
+| :---: | :---: | :---: | :---: |
+| [**Canlı Web Portalı**](https://resilient-semifreddo-6651ec.netlify.app/) | [**Folium Keşif Haritası**](travel_map.html) | [**Seyahatname E-Kitap**](ANADOLU_SEYAHATNAMESI.md) | `python dijital_seyyah.py status` |
 
 ---
 
@@ -60,6 +69,8 @@
 
 </div>
 
+---
+
 ## 📜 Seyahat ve Tefekkür Manifestosu
 
 Bu defter, Anadolu'nun kadim topraklarında adım adım yürüyen bir **dijital seyyahın ibret ve tefekkür günlüğüdür.** Amacımız sadece "nereleri gördüğümüzü" listelemek değil; o coğrafyanın tarihini, manevi mimarlarını ve ruhumuza fısıldadığı evrensel hikmetleri kaleme almaktır.
@@ -70,8 +81,6 @@ Bu defter, Anadolu'nun kadim topraklarında adım adım yürüyen bir **dijital 
 *   🤝 **İrfani Paylaşım:** Yollardan devşirdiğimiz tüm hikmetleri, rotaları ve gözlemleri seyahat severlerle hesapsızca paylaşmak.
 
 ### 🕌 İrfani Seyahat Merhaleleri (Tasavvuf Felsefesi)
-
-Tasavvuf geleneğinde yolculuk, sadece coğrafi mesafeleri katetmek değil; ruhun olgunlaşma aşamalarını simgeleyen içsel bir eğitim metodudur:
 
 1.  **Sefer-i Sûrî (Zahiri Seyahat):** Bedenen yollara düşmek, yeryüzünü adımlamak, farklı kültürleri ve insanları tanımaktır. Seyyahın dış dünyadaki bu yolculuğu, zihnindeki önyargıları yıkar ve dünyayı daha geniş bir açıyla görmesini sağlar.
 2.  **Sefer-i Manevî (Batıni Seyahat):** Seyyahın kendi içine yaptığı yolculuktur. Kötü huylardan arınma, nefsin terbiyesi ve kalbin saflaşması hedeflenir. Gurbetteki yalnızlık, bu manevi sefere zemin hazırlar.
@@ -87,25 +96,13 @@ Tasavvuf geleneğinde yolculuk, sadece coğrafi mesafeleri katetmek değil; ruhu
 
 ---
 
-## 📜 Ecdadın İzinde: Evliya Çelebi ve İbn Battûta Ekolü
-
-Bu dijital seyahatname, tarihin en ulu iki seyyahının mirasçısı olma gayesini taşır:
-
-> **"Seyahat Ya Resulallah!"** <br>
-> *Evliya Çelebi'nin rüyasında Peygamber Efendimiz'den "şefaat" yerine heyecanla "seyahat" dilemesiyle başlayan asırlık Anadolu ve dünya gezisi, yollara sevdalanmanın en samimi ifadesidir. Biz de her şehre girerken Evliya'nın o saf niyetini kalbimizde taşıyoruz.*
-
-*   🐫 **İbn Battûta Titizliği:** Gidilen her bölgenin yönetim yapısını, alimlerini, sufilerini, yemeklerini ve kültürel detaylarını büyük bir sadakat ve detayla kaydetme düsturu.
-*   🖋️ **Evliya Çelebi Coşkusu:** Şehirlerin sadece taş binalarını değil, halkın dilindeki efsaneleri, nehirlerin coşkusunu, ulu ağaçların gölgesini ve manevi havasını büyük bir şevkle seyahatnameye işleme gayreti.
-
----
-
 ## 🎒 Seyahat Usulü: "Sefer Der Vatan" ve Menzil Disiplini
 
-Bu seyir defteri rastgele bir turistik gezinin değil, seyyahlık kültürünün **Manevi ve Lojistik Disiplini** üzerine kurulmuştur. Seyahatlerimiz, sırt çantalı bir irfan arayışı mantığıyla kurgulanmıştır:
+Seyahatlerimiz, sırt çantalı bir irfan arayışı ve yarı göçebe çalışma disiplini üzerine kurulmuştur:
 
-*   ⛺ **Modern Kervansaraylar (GSB Seyahatsever):** Gidilen her ilde, seyyahların barınması için sunulan KYK yurtları adeta modern birer *kervansaray* gibi kullanılır. Konaklama maliyetinin sıfırlanması, gurbette sürdürülebilir bir keşif imkanı sunar.
-*   🐎 **Menzil Stratejisi (5 Gün Kuralı):** Her şehirde tam olarak **5 gün** kalınır. Bu süre, şehri alelacele tüketmek için değil, bir seyyah gibi durağanlaşarak o menzili sindirmek ve tefekkür etmek için belirlenmiş bir duraktır.
-*   📚 **Yolda İlim Tahsili:** Seyahat etmek ilim öğrenmeye engel değildir; bilakis vesiledir. Günün **ilk yarısı**, o şehrin kütüphanesinde (İl Halk Kütüphaneleri) geçirilerek okuma, yazma ve dijital üretim (kodlama) yapılır. Günün **ikinci yarısı** ise coğrafyanın sırlarını keşfetmeye ayrılır.
+*   ⛺ **Modern Kervansaraylar (GSB Seyahatsever):** Gidilen her ilde seyyahların barınması için sunulan KYK yurtları adeta modern birer *kervansaray* gibi kullanılır. Konaklama maliyetinin sıfırlanması sürdürülebilir keşif sunar.
+*   🐎 **Menzil Stratejisi (5 Gün Kuralı):** Her şehirde tam olarak **5 gün** kalınır. Şehri alelacele tüketmek için değil, durağanlaşarak o menzili sindirmek ve tefekkür etmek için ideal süredir.
+*   📚 **Yolda İlim Tahsili:** Günün **ilk 4 saati** o şehrin İl Halk Kütüphanesinde geçirilerek yazılım geliştirme, okuma ve üretim yapılır. Günün **ikinci yarısı** ise coğrafyanın sırlarını keşfetmeye ayrılır.
 
 ---
 
@@ -114,104 +111,63 @@ Bu seyir defteri rastgele bir turistik gezinin değil, seyyahlık kültürünün
 | Vakit | Faaliyet | Mana ve Muhteva |
 | :--- | :--- | :--- |
 | **08:30 - 09:00** | 🚀 Menzile Varış | Şehrin kütüphanesine intikal ve zihinsel olarak güne hazırlanma. |
-| **09:00 - 13:00** | 📖 İlim & Üretim | 4 saatlik kesintisiz çalışma. Yazılım geliştirme, okuma ve araştırma mesaisi. |
+| **09:00 - 13:00** | 📖 İlim & Üretim | 4 saatlik kesintisiz çalışma. Yazılım geliştirme, kodlama ve araştırma mesaisi. |
 | **13:00 - 14:00** | 🍽️ Helal Rızık & Plan | Esnaf lokantalarında öğle yemeği ve o gün adımlanacak yerlerin planlanması. |
-| **14:00 - 20:00** | 🚶 Coğrafi Keşif | Şehrin sokaklerine, camilerine, kalelerine karışma; insanlarla sohbet ve ibret seyri. |
+| **14:00 - 20:00** | 🚶 Coğrafi Keşif | Şehrin sokaklarına, camilerine, kalelerine karışma; insanlarla sohbet ve ibret seyri. |
 | **20:00 - 22:00** | 📝 Seyahatname Notları | Günlük notların temize çekilmesi, tefekkür günlüğünün yazılması ve yedekleme. |
 
 ---
 
-### 🧳 Seyyahın Heybesi (Azık ve Ekipmanlar)
+## 📊 81 İl Keşif Durumu ve Bölgesel Dağılım
 
-Gurbette sadelik esastır. Tek bir sırt çantasıyla yola çıkan seyyahın heybesindeki tech-gear ve hayati araçlar:
-
-*   🖋️ **Yazı ve İlim Araçları (Modern Kalem):**
-    *   *Taşınabilir Bilgisayar:* Gezi notlarını yazmak ve yazılım projelerini geliştirmek için hafif bir cihaz.
-    *   *Powerbank (20k mAh) & Çoklu Şarj:* Yolculuk esnasında iletişimin ve yazı araçlarının kesintisiz çalışması için.
-    *   *Üçlü Priz:* Konaklama yerlerindeki priz kısıtlamalarını aşmak için seyyahın en büyük lojistik yardımcısı.
-*   ⛺ **Yol ve Barınma Azığı:**
-    *   *Hafif Nevresim Takımı:* Kervansaraylarda (yurtlarda) kişisel hijyeni temin etmek için.
-    *   *Mikrofiber Havlu:* Minimum hacim kaplayan ve hızlı kuruyan seyyah dostu havlu.
-    *   *Termos / Matara:* Yollarda su ihtiyacını karşılamak ve kütüphanelerde çay bulundurmak için.
-    *   *Sırt Çantası Yağmurluğu:* Ani yağan bozkır ve Karadeniz yağmurlarından ilim araçlarını korumak için.
-
-### 🧭 Seyyahın Kütüphane Adabı (Odaklanma ve Hizmet)
-
-İl Halk Kütüphaneleri, seyyah için sadece bir çalışma ofisi değil; bilginin sessizce korunduğu, tefekkürün derinleştiği kutsal mabetlerdir. Çalışmalarımızda şu adaba riayet edilir:
-
-*   🤫 **Manevi Sükunet:** Kütüphanenin sessizliğini ve huzurlu havasını bozacak en ufak hareketten kaçınmak, diğer ilim taliplerinin hakkına saygı duymak.
-*   💻 **Zanaatkâr Titizliği:** Bilgisayar başında kod yazmayı veya ders çalışmayı, ahilik geleneğindeki gibi bir modern zanaat (*modern esnaflık*) olarak görüp işini hakkıyla yapmak.
-*   🌱 **Şükür Hali:** Anadolu'nun en ücra köşesinde dahi bize bu imkanları sunan kütüphanecilere ve devlete minnettarlık duymak, masayı her zaman temiz bırakmak.
-
----
-
-## ⚡ Dijital Seyahatname Özellikleri
-
-Seyahat defterimiz, kadim seyahat kültürünü modern teknolojiyle birleştirmektedir:
-
-*   🗺️ **İnteraktif Seyahatname Haritası:** Gezilen tüm noktaları, bilge sözleri ve il özetlerini içeren görsel Folium harita çıktısı.
-*   📊 **İlerleme Göstergesi:** 81 il üzerindeki tefekkür ve keşif oranlarını bölgesel olarak takip eden görsel analiz paneli.
-*   📜 **Şehir Portreleri:** Şehirlerin tarihi, kültürü, kütüphane notları ve yöresel tatlarını bir arada sunan zengin seyahat arşivleri.
-*   🔗 **Tıklanabilir Şehir Günlükleri:** Haritada ve listede yer alan şehirlerin üzerine tıklandığında doğrudan o ilin detaylı gezi sayfasına yönlendirme.
-
----
-
-<p align="center">
-    <img src="01_Marmara/Istanbul/banner.jpg" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);" alt="İstanbul Boğazı">
-    <br>
-    <em style="display: block; text-align: center; font-size: 11px; color: #888; margin-top: 8px;">"Asırların iç içe geçtiği, iki kıtanın secdesi İstanbul..."</em>
-</p>
-
----
-
-## 🧭 İbret ve Hikmet Dolu Menziller
-
-Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip ettiğimiz coğrafyalar:
-
-*   🏰 **Marmara (Payitaht ve Tohum):** İstanbul'un cami minarelerinden Bursa'nın ulu çınarlarına uzanan, bir cihan imparatorluğunun mayalandığı topraklar.
-*   🌲 **Karadeniz (Zikir ve Orman):** Yeşilırmak kıyısındaki Amasya'dan Trabzon'un sarp dağlarındaki manastırlara kadar doğanın muazzam zikrine eşlik eden rotalar.
-*   🌾 **İç Anadolu (Bozkırın Kalbi ve Sufi Ocakları):** Konya'da Hazreti Mevlana'nın irfan ocağından Ankara'nın vakur duruşuna, Hacı Bayram-ı Veli'den Yozgat Çamlığı'na uzanan irfan havzası.
-*   🌊 **Antik Kıyılar ve İbret Aynası (Ege & Akdeniz):** Antalya ve Muğla'nın antik kentlerinde medeniyetlerin yükseliş ve çöküşünü okumak; Denizli'nin şifalı travertenlerinde doğanın şükür makamını tefekkür etmek.
-
----
-
-<p align="center">
-    <img src="03_Akdeniz/Antalya/banner.jpg" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.35);" alt="Antalya Kaleiçi">
-    <br>
-    <em style="display: block; text-align: center; font-size: 11px; color: #888; margin-top: 8px;">"Akdeniz'in antik kodlarını taşıyan sıcacık limanı Antalya..."</em>
-</p>
-
----
-
-## ✅ 81 İl Keşif Haritası
-
-**🏆 Genel İlerleme:** %48.1 (39 / 81 İl)
+**🏆 Genel İlerleme:** %44.4 (36 / 81 İl)
 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-> *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
+```
+Toplam Ziyaret Edilen İl:  36 / 81
+Tahmini Karayolu İzi:      10,136 km
+Kütüphane Ofis Mesaisi:    36 İl Halk Kütüphanesi
+Coğrafi Bölge Kapsamı:     7 / 7 (%100)
+```
+
+### 🏰 7 Bölge İlerleme Tablosu
+
+| Bölge | İlerleme | Ziyaret Edilen İller | Durum |
+| :--- | :---: | :---: | :---: |
+| **🏰 Marmara** | `%27.3` (3/11) | Bursa, İstanbul, Kocaeli | 🟩🟩⬜⬜⬜ |
+| **🌊 Ege** | `%37.5` (3/8) | Denizli, İzmir, Muğla | 🟩🟩🟩⬜⬜ |
+| **☀️ Akdeniz** | `%62.5` (5/8) | Adana, Antalya, Hatay, Isparta, Mersin | 🟩🟩🟩🟩⬜ |
+| **🌾 İç Anadolu** | `%61.5` (8/13) | Aksaray, Ankara, Eskişehir, Kırıkkale, Konya, Nevşehir, Sivas, Yozgat | 🟩🟩🟩🟩⬜ |
+| **🌲 Karadeniz** | `%61.1` (11/18) | Amasya, Artvin, Bayburt, Çorum, Giresun, Gümüşhane, Ordu, Rize, Samsun, Sinop, Trabzon | 🟩🟩🟩🟩⬜ |
+| **🏔️ Doğu Anadolu** | `%42.9` (6/14) | Elazığ, Erzincan, Erzurum, Kars, Malatya, Tunceli | 🟩🟩🟩⬜⬜ |
+| **🏜️ G.Doğu Anadolu** | `%0.0` (0/9) | *Sıradaki Keşif Seferi* | ⬜⬜⬜⬜⬜ |
+
+---
+
+## ✅ 81 İl Detaylı Keşif Listesi
 
 **🏰 Marmara Bölgesi (3/11)**
 - ❌ Balıkesir
 - ❌ Bilecik
 - ✅ [**Bursa**](01_Marmara/Bursa/README.md)
+- ❌ Çanakkale
 - ❌ Edirne
-- ✅ [**Kocaeli**](01_Marmara/Kocaeli/README.md)
+- ✅ [**İstanbul**](01_Marmara/Istanbul/README.md)
 - ❌ Kırklareli
+- ✅ [**Kocaeli**](01_Marmara/Kocaeli/README.md)
 - ❌ Sakarya
 - ❌ Tekirdağ
 - ❌ Yalova
-- ❌ Çanakkale
-- ✅ [**İstanbul**](01_Marmara/Istanbul/README.md)
 
 **🌊 Ege Bölgesi (3/8)**
 - ❌ Afyonkarahisar
 - ❌ Aydın
 - ✅ [**Denizli**](02_Ege/Denizli/README.md)
+- ✅ [**İzmir**](02_Ege/Izmir/README.md)
 - ❌ Kütahya
 - ❌ Manisa
 - ✅ [**Muğla**](02_Ege/Mugla/README.md)
 - ❌ Uşak
-- ✅ [**İzmir**](02_Ege/Izmir/README.md)
 
 **☀️ Akdeniz Bölgesi (5/8)**
 - ✅ [**Adana**](03_Akdeniz/Adana/README.md)
@@ -226,17 +182,17 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 **🌾 İç Anadolu Bölgesi (8/13)**
 - ✅ [**Aksaray**](04_IcAnadolu/Aksaray/README.md)
 - ✅ [**Ankara**](04_IcAnadolu/Ankara/README.md)
+- ❌ Çankırı
 - ✅ [**Eskişehir**](04_IcAnadolu/Eskisehir/README.md)
 - ❌ Karaman
 - ❌ Kayseri
-- ✅ [**Konya**](04_IcAnadolu/Konya/README.md)
 - ✅ [**Kırıkkale**](04_IcAnadolu/Kirikkale/README.md)
 - ❌ Kırşehir
+- ✅ [**Konya**](04_IcAnadolu/Konya/README.md)
 - ✅ [**Nevşehir**](04_IcAnadolu/Nevsehir/README.md)
 - ❌ Niğde
 - ✅ [**Sivas**](04_IcAnadolu/Sivas/README.md)
 - ✅ [**Yozgat**](04_IcAnadolu/Yozgat/README.md)
-- ❌ Çankırı
 
 **🌲 Karadeniz Bölgesi (11/18)**
 - ✅ [**Amasya**](05_Karadeniz/Amasya/README.md)
@@ -244,6 +200,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ❌ Bartın
 - ✅ [**Bayburt**](05_Karadeniz/Bayburt/README.md)
 - ❌ Bolu
+- ✅ [**Çorum**](05_Karadeniz/Corum/README.md)
 - ❌ Düzce
 - ✅ [**Giresun**](05_Karadeniz/Giresun/README.md)
 - ✅ [**Gümüşhane**](05_Karadeniz/Gumushane/README.md)
@@ -256,25 +213,24 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ❌ Tokat
 - ✅ [**Trabzon**](05_Karadeniz/Trabzon/README.md)
 - ❌ Zonguldak
-- ✅ [**Çorum**](05_Karadeniz/Corum/README.md)
 
-**🏔️ Doğu Anadolu Bölgesi (9/14)**
+**🏔️ Doğu Anadolu Bölgesi (6/14)**
+- ❌ Ağrı
 - ❌ Ardahan
-- ✅ [**Ağrı**](06_DoguAnadolu/Agri/README.md)
 - ❌ Bingöl
-- ✅ [**Bitlis**](06_DoguAnadolu/Bitlis/README.md)
+- ❌ Bitlis
 - ✅ [**Elazığ**](06_DoguAnadolu/Elazig/README.md)
 - ✅ [**Erzincan**](06_DoguAnadolu/Erzincan/README.md)
 - ✅ [**Erzurum**](06_DoguAnadolu/Erzurum/README.md)
 - ❌ Hakkari
-- ✅ [**Iğdır**](06_DoguAnadolu/Igdir/README.md)
+- ❌ Iğdır
 - ✅ [**Kars**](06_DoguAnadolu/Kars/README.md)
 - ✅ [**Malatya**](06_DoguAnadolu/Malatya/README.md)
 - ❌ Muş
 - ✅ [**Tunceli**](06_DoguAnadolu/Tunceli/README.md)
 - ❌ Van
 
-**🏜️ G.Doğu Anadolu Bölgesi (0/9)**
+**🏜️ Güneydoğu Anadolu Bölgesi (0/9)**
 - ❌ Adıyaman
 - ❌ Batman
 - ❌ Diyarbakır
@@ -285,28 +241,51 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ❌ Şanlıurfa
 - ❌ Şırnak
 
+---
 
+## 🛠️ Dijital Seyyah Python CLI Aracı
 
+Seyahatnamenizi yönetmek, haritayı yeniden derlemek ve rota hesaplamak için dahili CLI aracı:
 
+```bash
+# 1. Genel seyahat durumunu ve istatistikleri görüntüle
+python dijital_seyyah.py status
 
-## 🧬 Kavramsal ve İrfani Mimari (System Architecture)
+# 2. İnteraktif haritayı ve web veritabanını yeniden derle
+python dijital_seyyah.py build
 
-Bu seyahatname, hem felsefi hem de içeriksel bir yapıyla tasarlanmıştır.
+# 3. Akıllı rota algoritmasıyla en yakın durakları planla
+python dijital_seyyah.py plan-route --start Ankara --stops 8
 
-### 🧭 7 Bölgenin Kültürel ve Doğal Dokusu
-*   **Marmara (Tohum & Cihan):** Bir imparatorluğun doğduğu, iki kıtayı birbirine bağlayan tarihi kilit taşı.
-*   **Ege (Zamanın Çizgileri):** Antik mermerlere işlenmiş detaylardan bugüne uzanan, suyun kayayı sabırla oyduğu topraklar.
-*   **Akdeniz (Sıcaklık & Liman):** Torosların heybetiyle binlerce yıllık limanları sinesine çeken, yorgun denizcilerin sığınağı.
-*   **İç Anadolu (Bozkırın Kalbi):** Dışarıdan kurak görünen ama bağrında medeniyetleri, ulu ozanları ve bilgeliği saklayan tevazu yurdu.
-*   **Karadeniz (Dalga & Orman):** Hırçın dalgaların yemyeşil ormanlarla kucaklaştığı, insanın doğayla inatçı ve bitimsiz mücadelesinin resmi.
-*   **Doğu Anadolu (Zirvelerin İhtişamı):** Zorlu iklimlerde pişen hayatların soğuğa karşı geliştirdiği sade ve sarsılmaz direnç.
-*   **Güneydoğu Anadolu (Mezopotamya'nın Ninnisi):** İnsanlığın beşiği. Toprağın taşa, taşın efsaneye dönüştüğü masalsı coğrafya.
+# 4. Tüm seyahat notlarını tek bir e-kitaba (Markdown) derle
+python dijital_seyyah.py export-book
+
+# 5. Test paketini çalıştır
+pytest -v
+```
+
+---
+
+## 📚 Seyyah Yazılım Serisi (Medium Makaleleri)
+
+Anadolu'da yol alırken kaleme alınmış derinlemesine rehberler ve yazılım seyahatnamesi makaleleri:
+
+1. [**01. Sefer Der Vatan Manifestosu**](medium_yazilari/01_manifesto_v2.md) — *Yollara düşüş felsefesi ve içsel hicret.*
+2. [**02. GSB Seyahatsever Rehberi**](medium_yazilari/02_seyahatsever_rehberi_v2.md) — *Modern kervansaraylarda sıfır maliyetle barınma stratejisi.*
+3. [**03. Kütüphane Ofisleri**](medium_yazilari/03_kutuphane_ofisleri_v2.md) — *81 il halk kütüphanesinde yazılımcı disiplini ve verimlilik.*
+4. [**04. 5 Gün Kuralı**](medium_yazilari/04_bes_gun_kurali_v2.md) — *Şehirleri tüketmeden sindirerek yaşama sanatı.*
+5. [**05. Kod ve Yol**](medium_yazilari/05_kod_ve_yol_v2.md) — *Yarı göçebe bir yazılımcının sırt çantasındaki tech-stack.*
+6. [**06. Yedi Bölge Yedi Ders**](medium_yazilari/06_yedi_bolge_yedi_ders_v2.md) — *Anadolu coğrafyasından devşirilen evrensel hikmetler.*
+7. [**07. Rota Optimizasyonu**](medium_yazilari/07_rota_optimizasyonu_v2.md) — *En az karbon ayak iziyle en verimli menzil planlaması.*
+
+---
 
 ## 🤝 Katkıda Bulunma (Contributing)
 
-Bu proje açık kaynaklı bir mirastır. Rotalarınızı, seyahat tecrübelerinizi veya yeni kütüphane notlarınızı eklemek isterseniz lütfen `CONTRIBUTING.md` dosyasını inceleyerek katkıda bulunun.
+Bu proje açık kaynaklı bir kültür mirasıdır. Gezdiğiniz menzilleri eklemek, rota tavsiyesinde bulunmak veya kütüphane notlarını zenginleştirmek isterseniz lütfen `CONTRIBUTING.md` rehberine göz atın.
 
 ---
+
 <p align="center">
-    <sub>Made with 💻 & 🎒 by bahattinyunus © 2026</sub>
+    <sub>Made with 💻, 🎒 & ☕ by <strong>bahattinyunus</strong> © 2026 • Anadolu Seyahatnamesi</sub>
 </p>

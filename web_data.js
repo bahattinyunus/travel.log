@@ -1,4 +1,5 @@
-{
+// Otomatik Üretilen Dijital Seyyah Veri Modülü
+const TRAVEL_DATA = {
   "stats": {
     "total_cities": 81,
     "visited_cities": 36,
@@ -2504,4 +2505,4 @@
       "slug": "Sirnak"
     }
   }
-}
+};
